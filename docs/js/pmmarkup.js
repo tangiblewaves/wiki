@@ -40,13 +40,21 @@ function plugin(hook, vm) {
             return `# ${p1}\n`;
         });
 
+        // Replace [[img|picture.png|50]] and [[img|picture.png|50|150]] with <img src="picture.png" width="50" height="150"/>
+        content = content.replace(/\[\[img\|(.+?)\|(\d+)(?:\|(\d+))?\]\]/g, function (match, src, width, height) {
+            if (height) {
+                return `<img src="${src}" width="${width}" height="${height}" />`;
+            } else {
+                return `<img src="${src}" width="${width}" />`;
+            }
+        });
         return content;
     });
 
     hook.afterEach(function (html, next) {
         // Step 1: Replace %embed% <a href="...">...</a> %% with an iframe
         html = html.replace(/%embed%\s*<a.*?href="(https:\/\/youtu\.be\/|https:\/\/www\.youtube\.com\/watch\?v=)([a-zA-Z0-9_-]+)".*?>.*?<\/a>\s*%%/g, function (match, baseUrl, videoId) {
-          return `
+            return `
             <iframe width="560" height="315" 
               src="https://www.youtube.com/embed/${videoId}" 
               frameborder="0" 
@@ -54,9 +62,9 @@ function plugin(hook, vm) {
               allowfullscreen>
             </iframe>`;
         });
-    
+
         next(html);  // Pass the transformed HTML to the next step in rendering
-      });
+    });
 }
 
 if (!window.$docsify) {

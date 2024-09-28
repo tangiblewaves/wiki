@@ -1,4 +1,7 @@
 # 2LFO
+
+[[img|modules/images/2LFO.png|100]]
+
 [[ https://www.tangiblewaves.com/store/p89/2LFO.html | View Product Page]]
 
 The 2LFO module has two LFO units with different features and generates modulation voltages mostly below the audio range.
