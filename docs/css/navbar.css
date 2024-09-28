@@ -1,6 +1,6 @@
 .app-nav {
     position: fixed;
-    background-color: var(--theme-color, #42b983);
+    background-color: var(--theme-color, #191919);
     width: 100%;
     margin: 0;
     margin-right: 0 !important;
