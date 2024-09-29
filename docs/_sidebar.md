@@ -2,5 +2,5 @@
 
 * [Getting Started](/getting-started.md)
 * [Module Documentation](/modules/)
-* [Artists](/artists/)
+* [Meet the Artists](/artists/)
 * [DIY Information](/diy/)
