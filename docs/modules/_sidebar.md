@@ -1,9 +1,23 @@
 <!-- docs/_sidebar.md -->
-
-* [Home](/)
-
+* [HOME](/)
+<hr/>
+* [Module Documentation](/modules/)
+<hr/>
 * [2ATT/CV](/modules/2attcv.md)
-
-
-
+* [2CVADD-HQ](/modules/2cvadd-hq.md)
+* [2CVTOOL](/modules/2cvtool.md)
+* [2ENV](/modules/2env.md)
 * [2LFO](/modules/2lfo.md)
+* [2OSC/d](/modules/2oscd.md)
+* [2SIGNALAMP](/modules/2signalamp.md)
+* [2TONE](modules/2tone.md)
+* [2VCA](modules/2vca.md)
+* [3VCSWITCH](modules/3vcswitch.md)
+* [4ATTMIX](modules/4attmix.md)
+* [4ATTMIX FADER](modules/4attmix-fader.md)
+* [4BUFFER](modules/4buffer.md)
+* [4I/O](modules/4io.md)
+* [4VCA](modules/4vca.md)
+* [6MUTE](modules/6mute.md)
+* [6TRIGBUTTON](modules/6trigbutton.md)
+* 
