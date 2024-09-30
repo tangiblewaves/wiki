@@ -20,4 +20,10 @@
 * [4VCA](modules/4vca.md)
 * [6MUTE](modules/6mute.md)
 * [6TRIGBUTTON](modules/6trigbutton.md)
-* 
+* [ADSR](modules/adsr.md)
+* [ALGODRONE](modules/algodrone.md)
+* [BEAT DIVIDER](modules/midiclock-divider.md)
+* [BRAEDBOARD](modules/braedboard.md)
+
+
+* [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
