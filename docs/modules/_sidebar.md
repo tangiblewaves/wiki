@@ -22,8 +22,13 @@
 * [6TRIGBUTTON](modules/6trigbutton.md)
 * [ADSR](modules/adsr.md)
 * [ALGODRONE](modules/algodrone.md)
-* [BEAT DIVIDER](modules/midiclock-divider.md)
+* [BEAT DIVIDER *](modules/midiclock-divider.md)
 * [BRAEDBOARD](modules/braedboard.md)
-
+* [CIRRUS *](modules/cirrus.md)
+* [CIRRUS CLASSIC](modules/cirrus-classic.md)
+* [COMPACT MIXER](modules/compact-mixer.md)
+* [CVADD-HQ](modules/cvadd-hq.md)
+* [CVSHIFTER](modules/cvshifter.md)
+* 
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
