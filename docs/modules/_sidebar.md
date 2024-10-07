@@ -29,6 +29,11 @@
 * [COMPACT MIXER](modules/compact-mixer.md)
 * [CVADD-HQ](modules/cvadd-hq.md)
 * [CVSHIFTER](modules/cvshifter.md)
-* 
+* [DELAY (lofi)](modules/delay.md)
+* [DIODE FILTER](modules/diodefilter.md)
+* [DIY Kit](modules/diy-kit.md)
+* [DRONE 38](modules/drone38.md)
+* [DRONX](modules/dronx.md)
+* [Drumkit 010](modules/drumkit010.md)
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
