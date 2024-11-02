@@ -1,15 +1,12 @@
-(:mini 400x400 :)
-
-
-!! MIXCONSOLE
+# MIXCONSOLE
+[[img|modules/images/mixconsole.png|400]]
 
 [[ https://www.tangiblewaves.com/store/p108/mixconsole.html | View Product Page]]
 
-The MIXCONSOLE is a "proper" mixer with FX sends, and stereo out with AE and 3.5mm jack outputs. It comes with 4 channels but is infinitely expandable with the [[AeManual/MIXCONSOLE3CH|MIXCONSOLE - 3CH]]. Each channel has CV control of it's level available.
+The MIXCONSOLE is a "proper" mixer with FX sends, and stereo out with AE and 3.5mm jack outputs. It comes with 4 channels but is infinitely expandable with the [[mixconsole-3ch.md | MIXCONSOLE - 3CH]]. Each channel has CV control of it's level available.
 
 Module power consumption: 28mA
 
-Mini:MIXCONSOLE.png
 
 ! Inputs
 
@@ -48,8 +45,8 @@ These could be utilised to input more signals into the mix as well, (not just FX
 
 You can also add these modules for more output options:
 
-* https://wiki.aemodular.com/pmwiki.php/AeManual/MIXCONJACKOUT
-* https://wiki.aemodular.com/pmwiki.php/AeManual/MIXCONXLROUT
+* [[mixcon-jackout.md | MIXCON JACK OUT]] 
+* [[mixcon-xlrout.md | MIXCON XLR OUT]] 
 
 ! Controls
 
@@ -74,15 +71,10 @@ The LEDs give you an idea of the levels of the mixed signals going to the main o
 
 First up, you can now save on VCAs with this module. Whenever you had a VCA as the last piece in the chain before going to the mixer, you can now do the same with directly sending ENV or LFO CV to the CV input of the respective channel. 
 
-Mono FX sends are very common on mixers, so ideally you need an FX unit with mono in/ stereo out (or can be configured that way). Within the AE, the [[AeManual/MULTIFX|MULTIFX]] is perfect to connect with this module.
+Mono FX sends are very common on mixers, so ideally you need an FX unit with mono in/ stereo out (or can be configured that way). Within the AE, the [[multifx.md | MULTIFX]]  is perfect to connect with this module.
 
 Some people like the main sound on 1 side of stereo, and the FX'ed signal on the other - this is easy to do on the Mixconsole but just using 1 of the FX return sockets.
 
 The Stereo 3.5mm FX returns can be rather handy for bringing in external signals, the best example is the Korg Volcas where they have a stereo 3.5mm out.
 
-The Mixconsole is great for doing sub-mixing of oscillator outputs where you want them to vary over time; each oscillator output goes to a different channel and then the levels can be controlled by LFOs, ENVs and even the [[AeManual/JOYSTICK|JOYSTICK]] module.
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
+The Mixconsole is great for doing sub-mixing of oscillator outputs where you want them to vary over time; each oscillator output goes to a different channel and then the levels can be controlled by LFOs, ENVs and even the [[joystick.md | JOYSTICK]]  module.

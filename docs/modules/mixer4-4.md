@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# MIXER 4-4
+[[img|modules/images/mixer44.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! MIXER 4-4
 [[ https://www.tangiblewaves.com/store/p13/MIXER_4-4.html | View Product Page]]
 
 A 4 input, 1 output audio mono mixer (i.e. not stereo), with individual channel knob for levels. There is also a 4 channel mixer  (B1 – B4)  without control which can be used for mixing CVs.
@@ -32,15 +30,8 @@ Module power consumption: 5 mA
 
 !!! Patch Suggestions
 
-The most obvious use is to patch the [[https://wiki.aemodular.com/pmwiki.php/AeManual/2OSCD|oscillator(s)]] and [[https://wiki.aemodular.com/pmwiki.php/AeManual/NOISE|noise module]] to the Mixer 4/4 to have a complex sound before it even gets to the Filter etc.
+The most obvious use is to patch the [[2oscd.md | oscillator(s)]] and [[noise.md |noise module]] to the Mixer 4/4 to have a complex sound before it even gets to the Filter etc.
 
-If you want a "chiff" of white noise at the beginning of the sound, put the Noise thru a VCA controlled by an [[https://wiki.aemodular.com/pmwiki.php/AeManual/ADSR|Envelope]]  before  it goes to the mixer. The same applies if you want a higher pitched oscillator to fade in over a held note, use use a VCA and an envelope with a slow attack before the mixer and voila!
+If you want a "chiff" of white noise at the beginning of the sound, put the Noise thru a VCA controlled by an [[adsr.md | Envelope]]  before  it goes to the mixer. The same applies if you want a higher pitched oscillator to fade in over a held note, use use a VCA and an envelope with a slow attack before the mixer and voila!
 
 The B mixer is the best way of combining CVs, it can be done via the Mult/Thru on various modules, but that is less reliable. An LFO and Envelope combined before going to the filter can be really useful. Combining CVs is helpful for any module that only has one CV input, or where you want more than one sort of modulation on a specific item, e.g. Filter cutoff Frequency.
-
-(:cell:) Mini:mixer44.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

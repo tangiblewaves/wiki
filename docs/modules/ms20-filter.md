@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# MS 20 FILTER
+[[img|modules/images/MS20FILTER.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! MS 20 FILTER
 [[ https://www.tangiblewaves.com/store/p87/MS20_FILTER.html | View Product Page]]
 
 This filter module is a variant of the Korg MS20 filter. With a switch it can be turned into either lowpass or highpass filter mode, but not both at the same time.
@@ -31,20 +29,12 @@ Module power consumption: 3 mA
 
 The filter can be used just like any other filter in the AE range, however it offers a very pronounced and beautiful resonance that goes quickly into self resonance. It is excellent for lead sounds and bass.
 
-This module does not have CV control of resonance, but it can be created by putting one of the filter outputs through a [[https://wiki.aemodular.com/pmwiki.php/AeManual/2VCA|VCA]] whose level is controlled by the CV modulation source (e.g. LFO or envelope), then feeding the VCA output back into the same filter - you may need a mixer module, or use a '''mult''' if necessary as the levels on the 2 inputs are different.  Try the low input for the feed back from the VCA first....
+This module does not have CV control of resonance, but it can be created by putting one of the filter outputs through a [[2vca.md |VCA]] whose level is controlled by the CV modulation source (e.g. LFO or envelope), then feeding the VCA output back into the same filter - you may need a mixer module, or use a '''mult''' if necessary as the levels on the 2 inputs are different.  Try the low input for the feed back from the VCA first....
 
-The MS20 Filter is adept at producing bass/kick drum sounds.  Use the self resonance with the cutoff tuned low to your desire. To boost the bottom end, feed in a Sine wave ([[WAVETABLES]], VCO or [[FMOS]]), again tune to what you want. From the filter; a VCA with a short attack is needed; the [[LOPAG]] module is good as it can further enhance the sound.  To enhance the initial "thump" put a very short envelope into the CV1 input, the amount of "thump" can then be controlled by the CV1 Knob. These Kick drums are worth sampling to free up your AE for other duties!
+The MS20 Filter is adept at producing bass/kick drum sounds.  Use the self resonance with the cutoff tuned low to your desire. To boost the bottom end, feed in a Sine wave ([[wavetables.md | WAVETABLES]], VCO or [[fmos.md | FMOS]]), again tune to what you want. From the filter; a VCA with a short attack is needed; the [[lopag.md | LOPAG]] module is good as it can further enhance the sound.  To enhance the initial "thump" put a very short envelope into the CV1 input, the amount of "thump" can then be controlled by the CV1 Knob. These Kick drums are worth sampling to free up your AE for other duties!
 
 !!! Sound Examples
 
 AE Modular filter comparison:
 
 %embed% https://www.youtube.com/watch?v=ZY9VkSyMrik %%
-
-
-(:cell:) Mini:MS20FILTER_v2.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

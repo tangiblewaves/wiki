@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# MM-DIV
+[[img|modules/images/mmdiv.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! MM-DIV
 [[ https://www.tangiblewaves.com/store/p83/MM-DIVIDER_.html | View Product Page]]
 
 A multi-mode divider for clock and audio signals.
@@ -43,17 +41,10 @@ Module power consumption: 10 mA
 * '''SHIFT''' - shifts/rotates the outputs; usually, the fastest output is on output 1, but with shift the entire output pattern is shifted so the fastest output can be set to any position 1...8.
 
 !!! Patch Suggestions
-A clock divider can be used in many different ways. The most common use is to use it for rhythmical applications to trigger percussive sounds or advance the clock of a [[https://wiki.aemodular.com/pmwiki.php/AeManual/SEQ8|step sequencer]]. The different division modes can lead to interesting and uncommon rhythmical patterns. Using the shift knob, the pattern can be varied for dramatic effect.
+A clock divider can be used in many different ways. The most common use is to use it for rhythmical applications to trigger percussive sounds or advance the clock of a [[ seq8.md |step sequencer]]. The different division modes can lead to interesting and uncommon rhythmical patterns. Using the shift knob, the pattern can be varied for dramatic effect.
 
 The MM-DIV also accepts input in audio range. If you patch in a saw or triangle wave from an oscillator you can get sub oscillators out of the various outputs.
 
 Here is a very quick demonstration by The 5th Volt on how to use the rotating patterns to play with drum sequences:
 
 %embed% https://youtu.be/pXVyXn8TV8c %%
-
-(:cell:) Mini:mmdiv.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
