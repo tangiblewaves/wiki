@@ -1,6 +1,6 @@
 # Keurslager Kurt
 
-[[img|artists/images/keurslagerkurt.jpg|400]]
+[[img|artists/images/keurslagerkurt.png|400]]
 
 Zeno aka Keurslager Kurt is a DIY entrepreneur and talented musician who can combine the two sides of Techno and Ambient beautifully.
 

@@ -1,6 +1,6 @@
 # Sprite Guard
 
-[[img|artists/images/spriteguard.jpg|400]]
+[[img|artists/images/spriteguard.png|400]]
 
 I'm Sprite, I'm a storyteller and musician based in Seattle, Washington. I like to mix the ancient and modern, combining vocals and jaw harp with modular synthesis and new instruments, and mixing folklore and mythology into new stories that are often made up on the spot.
 

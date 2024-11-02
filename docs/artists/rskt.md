@@ -1,6 +1,6 @@
 # RSKT
 
-[[img|artists/images/rskt.jpg|400]]
+[[img|artists/images/rskt.png|400]]
 
 Hi, I'm RSKT! An artist based on the Sunshine Coast in Queensland, Australia. I've been making art for as long as I can remember. I've got a real passion for learning and sharing knowledge, so I've been making a lot of tutorials for the AE Modular system lately. I think it's a fantastic modular environment and I'm excited to see what it will grow into in the future!
 

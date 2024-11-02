@@ -1,6 +1,6 @@
 # Mathias Capdet
 
-[[img|artists/images/mathiascapdet.jpg|400]]
+[[img|artists/images/mathiascapdet.png|400]]
 
 Hi, I'm Mathias. 
 I started making music to try out a few ideas about generative processes and fell in love with modular systems, and generative music as a whole, right there. 
