@@ -1,7 +1,6 @@
-(:mini 200x400 :)
-! Artist
+# Decaryi
 
-Mini:profile.jpg
+[[img|artists/images/decaryi.jpg|400]]
 
 Decaryi is a musical project, created by Anton Schmidt, based in Augsburg. He started to make music as a teen by playing guitar in some metal bands but as his music taste expands, his style of creating
 musig changed. Music from King Crimson, Can and Nicolas Jaar inspired him to make more progressive
@@ -22,7 +21,3 @@ His music is a mix between electronic music, like trip hop, ambient and dub with
 %embed% https://www.youtube.com/watch?v=E2tXMXz1eHc %%
 
 %embed% https://www.youtube.com/watch?v=i6BKlXIJnis %%
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

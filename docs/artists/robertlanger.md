@@ -1,7 +1,6 @@
-(:mini 600x400 :)
-! Robert Langer
+# Robert Langer
 
-Mini:profile.jpg
+[[img|artists/images/robertlanger.jpg|400]]
 
 Being addicted to sound in many forms since his childhood, Robert started with electronic music back in the 80s, inspired by Klaus Schulze, Kraftwerk and other pioneers of that time. As his father worked a lot with electronics, he had the chance to learn a lot about how to create this stuff and so built several different modular synthesizers, besides playing synths like DX-7, D-50 ("digital" was new and thrilling at this time). After a long break - about 25 years (!) -  when Robert was completely absent from electronic music - he found his way back into it a few years ago and felt the same sense of fun as in the past; and now the technology to create all the things which he could only imagine or dream of back in the 80ies is there (powerful DAW's like Ableton Live, impressive Plugins, MAX/MSP als platform for creating all kinds of digital sound processing...), really mind-blowing! 
 
@@ -27,7 +26,3 @@ Robert at Ambient  Waves in 2019
 
 Robert at Ambient  Waves in 2021
 %embed% https://www.youtube.com/watch?v=MS9p0KAPEeQ %%
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

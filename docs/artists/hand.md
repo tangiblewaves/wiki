@@ -1,8 +1,6 @@
-(:mini 400x400 :)
+# HAND
 
-! HAND
-
-Mini:profile.jpg
+[[img|artists/images/hand.jpg|400]]
 
 HAND is a solo project by Sascha Bachmann. He is a musician from Berlin who loves creating experimental sounds and dance beats. When Bachmann was a kid in the 80’s, he found his father’s Tesla tape machine in the basement. He started listening to music with his friends and became passionate about it. The foundational stone was laid. It is in part because of these early experiences that he has been working in his own analog recording studio for the last 10 years. As a drummer he is continuously collaborating with different bands and projects such as Sirius Mo, Jan Driver etc., always trying to explore his own vision and ideas about music. Inspired by all kinds of art, he finally starts creating the concept for his first solo album. Bachmann sees himself as a progressive musician who is constantly looking for new challenges.
 
@@ -33,7 +31,3 @@ And this an AE Modular Solo Performance:
 * recording: Motu MK3, RME 8 pre, DAW Logic pro 9
 
 !!Go Do Your Own Thing!
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

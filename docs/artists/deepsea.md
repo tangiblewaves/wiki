@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! DeepSEA
+# DeepSEA
 
-Mini:profile.jpg
+[[img|artists/images/deepsea.jpg|400]]
 
 My first exposure to electronic music was from listening to Detroit
 radio DJ, The Electrifying Mojo, playing Kraftwerk on a transistor radio
@@ -31,9 +30,3 @@ AE Modular 2 row case, Elektron Octatrack MKII, Roland Juno 106, Make
 Noise 0-Coast, Arturia Drumbrute Impact, Crotter & Guitari Organelle,
 Novation 61SL MkII, Arturia Keystep Pro, Kork SQ1, various effects
 Pedals, Ableton Push, Technics 1200 turntables, and lots of vinyl records!
-
-
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

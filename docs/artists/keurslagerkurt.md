@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! Keurslager Kurt
+# Keurslager Kurt
 
-Mini:profile.png
+[[img|artists/images/keurslagerkurt.jpg|400]]
 
 Zeno aka Keurslager Kurt is a DIY entrepreneur and talented musician who can combine the two sides of Techno and Ambient beautifully.
 
@@ -20,8 +19,3 @@ The two sides of Zeno can be seen best in this raw Techno track:
 
 .. and this granular ambient piece:
 %embed% https://youtu.be/h9bTdiUruD8 %%
-
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].
