@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides a distortion effect for the incoming audio signal.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

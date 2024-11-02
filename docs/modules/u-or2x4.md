@@ -5,6 +5,6 @@
 
 This 1/3 height micro module provides the exact same functionality as the [[AeManual/OR2x4]] module in only one third of the size. Please see that wiki page for more info, patch suggestions.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA

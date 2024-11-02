@@ -5,7 +5,7 @@
 
 This 1/3 height  micro module routes an incoming gate signal to one of 3 outputs based on chance via a probability function. This is very similar to the Bernoulli Gate from Mutable Instruments.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

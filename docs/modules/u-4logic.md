@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides various logic gates and inverted functions. There are 4 channels for logic operations, two channels for two signals to be combined using either NAND, AND or XOR logic and two channels for inverting a signal.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

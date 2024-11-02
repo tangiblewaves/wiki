@@ -8,7 +8,7 @@ This 1/3 height micro module is jam packed with features such as:
 * Noise
 * Random clock
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

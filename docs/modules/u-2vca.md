@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides a two channel VCA similar to the [[AeManual/4VCA]] module.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

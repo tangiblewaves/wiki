@@ -5,7 +5,7 @@
 
 This 1/2 height micro module provides a tiny mixer with 3 attenuated channels and 4 fixed channels.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

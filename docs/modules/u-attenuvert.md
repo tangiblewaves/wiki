@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides a single attenuverter function whereby you can offset an incoming signal and attenuate it at the same time.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

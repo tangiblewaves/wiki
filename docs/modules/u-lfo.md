@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides a tiny LFO with three different waveforms: triangle, sawtooth and square wave. It also offers CV control for pulsewidth modulation for the square wave and a sync input to synchronise the waves with a a reference signal.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

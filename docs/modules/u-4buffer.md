@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides a buffered 4 channel multiple. This can be used for multiplying cv, trigger and gate signals without voltage loss. One input signal will be routed to two duplicate outputs.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 

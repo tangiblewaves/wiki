@@ -5,7 +5,7 @@
 
 This 1/3 height micro module provides a two independant channels for a signal amplifier which is very similar to the [[AeManual/2SIGNALAMP]] module.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
