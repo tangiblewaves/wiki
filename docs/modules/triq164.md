@@ -1,8 +1,6 @@
-(:mini 200x400 :)
+# TRIQ164
+[[img|modules/images/triq164.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! TRIQ164
 [[ https://www.tangiblewaves.com/store/p52/TRIQ164.html | View Product Page]]
 
 TRIQ164 is designed as improved replacement for the STEP10.
@@ -51,10 +49,3 @@ https://forum.aemodular.com/thread/1595/triq164-module?page=1&scrollTo=13144
 
 Here is a video by [[User/The 5th Volt]] which explains how to use the TRIQ164:
 %embed% https://youtu.be/HrwxXI29Ack %embed%
-(:cell:) Mini:triq164.png
-(:tableend:)
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

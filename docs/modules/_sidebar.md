@@ -38,7 +38,10 @@
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
 
-
+* [TBD](modules/tbd.md)
+* [TOPOGRAF](modules/topograf.md)
+* [TRIP](modules/trip.md)
+* [TRIQ164](modules/triq164.md)
 * [µ2MIX](modules/u-2mix.md)
 * [µ2VCA](modules/u-2vca.md)
 * [µ4BUFFER](modules/u-4buffer.md)
