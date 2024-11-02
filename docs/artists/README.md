@@ -58,15 +58,13 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[mathiascapdet .md| Mathias Capdet]] - Exploring generative processes
 
-[[max richardson.md|Max Richardson]] - From classical compositions to avant-garde electronica
+[[maxrichardson.md|Max Richardson]] - From classical compositions to avant-garde electronica
 
 [[maydonpoliris.md|Maydonpoliris]] - Experimental jamming
 
 [[michaelholzklotz.md|Michael Holzklotz]] - The universe is huge and Michael Holzklotz is small ...
 
-[[mjhood.md M. J. Hood]] - Synths and Trombone
-
-[[nurishment.md|Nurishments]] - Collaboration between 2 Continents
+[[nurishments.md|Nurishments]] - Collaboration between 2 Continents
 
 [[paparoti.md|Papa Rôti]] - Drum Machines and Jazz Jams
 
@@ -76,7 +74,7 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[riverofelectrons.md|River of Electrons]] - Code meets Music
 
-[[robert langer.md|Robert Langer]] - The inventor of the AE Modular synthesizer!
+[[robertlanger.md|Robert Langer]] - The inventor of the AE Modular synthesizer!
 
 [[rskt.md|RSKT]] - Artist and educator with too many talents
 
@@ -111,8 +109,6 @@ Some of those artists are listed below, please visit their pages and enjoy their
 [[visuellemusik.md| Visuelle Musik]] - Conjuring sounds from Grains
 
 [[waldrand.md|Waldrand]] - Ambient experiments
-
-[[webgoon.md|Webgoon]] - ??
 
 
 If you would like to be on this page, please contact @admin at the [[https://forum.aemodular.com | AE Modular Forum]].

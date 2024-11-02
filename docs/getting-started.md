@@ -24,7 +24,7 @@ The AE Modular can be completely self contained, but has a MIDI input on the Mas
 
 Please follow the links below for more in depth information on how to connect your AE modular to power, audio and external devices and to record your performance!
 
-'''[[Step 1: Connect Power]]'''
+'''[[getting-started-1.md|Step 1: Connect Power]]'''
 
 '''[[Step 2: Connect Audio]]'''
 
