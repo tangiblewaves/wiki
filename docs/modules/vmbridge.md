@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# VMBRIDGE
+[[img|modules/images/vmbridge.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! VMBRIDGE
 [[ https://www.tangiblewaves.com/store/p134/VMBRIDGE.html | View Product Page]]
 
 The VMBRIDGE module offers all necessary level adaptations for cross-patching between the Korg Volca Modular and AE modular! Although both use the same patching system, the signal levels are different and some combinations can cause distortions/clippings or even might harm each other
@@ -31,10 +29,3 @@ All of this is explained in great detail in this tutorial video by The 5th Volt:
 Here is a techno jam:
 
 %embed% https://youtu.be/tIZzwkfiYCo %%
-
-(:cell:) Mini:VMBRIDGE.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

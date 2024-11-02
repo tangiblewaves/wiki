@@ -38,5 +38,10 @@
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
 
-
+* [USBPOWER](modules/usbpower.md)
+* [VCO](modules/vco.md)
+* [VMBRIDGE](modules/vmbridge.md)
+* [WASP FILTER](modules/wasp-filter.md)
+* [WAVEFOLDER](modules/wavefolder.md)
+* [WAVETABLES](modules/wavetables.md)
 * [XMIX](modules/xmix.md)
