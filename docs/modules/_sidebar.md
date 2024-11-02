@@ -37,3 +37,6 @@
 * [Drumkit 010](modules/drumkit010.md)
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
+
+
+* [XMIX](modules/xmix.md)

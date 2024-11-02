@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# XMIX
+[[img|modules/images/xmix.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! XMIX
 [[ https://www.tangiblewaves.com/store/p153/XMIX.html | View Product Page]]
 
 XMIX offers 4 mixers and 2 attenuators in a 1U package, ideal for small systems but also useful for larger systems where users are wanting attenuators, and to to combine CVs etc. 
@@ -56,16 +54,8 @@ You can use the 2 attenuators to help set the level(s) in the B, C & D mixers.
 
 Mixers can be combined, e.g you may feed the C mixer out into one of the A mixer ins, in effect sub mixing.
 
-There are no CV controls of signal level, but this can be done before or after mixing with a [[https://wiki.aemodular.com/pmwiki.php/AeManual/4VCA|  VCA]] and whatever you wish to use to control the level. The VCA control is only needed on the input(s) you wish to evolve/change from a CV control, e.g. allowing a burst of noise on a snare sound but let the tuned element(s) go on longer by a VCA after the mixer.
+There are no CV controls of signal level, but this can be done before or after mixing with a [[4vca.md|4VCA]] and whatever you wish to use to control the level. The VCA control is only needed on the input(s) you wish to evolve/change from a CV control, e.g. allowing a burst of noise on a snare sound but let the tuned element(s) go on longer by a VCA after the mixer.
 
-This module is useful for combining CVs, especially where you have a lot available like, for example, the [[JOYSTICK]] module.
+This module is useful for combining CVs, especially where you have a lot available like, for example, the [[joystick.md|JOYSTICK]] module.
 
-The attenuators can be useful for releasing modules with level controls so they can be used for something that needs more precision or you wish to alter the level of attenuation as the sound plays. An example of this is [[https://wiki.aemodular.com/pmwiki.php/AeManual/2LFO| LFO]] level control for most patches, (some modules have CV input level control); if you are not varying the LFO modulation amount then an attenuator should be able to do the job.
-
-
-(:cell:) Mini:XMIX.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
+The attenuators can be useful for releasing modules with level controls so they can be used for something that needs more precision or you wish to alter the level of attenuation as the sound plays. An example of this is [[2lfo.md|2LFO]] level control for most patches, (some modules have CV input level control); if you are not varying the LFO modulation amount then an attenuator should be able to do the job.
