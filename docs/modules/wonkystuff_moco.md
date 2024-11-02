@@ -1,4 +1,5 @@
 # wonkystuff moco
+[[img|modules/images/moco.png|100]]
 
 [[https://wonkystuff.net/product/moco-1st-edition/ | View Product Page]]
 

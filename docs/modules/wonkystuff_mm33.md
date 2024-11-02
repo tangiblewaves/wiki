@@ -1,4 +1,5 @@
 # wonkystuff mm33
+[[img|modules/images/wsmm33.png|200]]
 
 [[https://wonkystuff.net/product/mm33/ | View the kit's shop page]]   
 

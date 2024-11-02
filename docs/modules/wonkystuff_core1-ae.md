@@ -1,4 +1,5 @@
 # wonkystuff core1.æ
+[[img|modules/images/coreae.png|100]]
 
 [[https://wonkystuff.net/product/core1-ae-v1-2-black/ | View Product Page]]
 

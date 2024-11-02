@@ -1,4 +1,5 @@
 # wonkystuff RBSS
+[[img|modules/images/rbss.png|100]]
 
 The rbss (random bit-shift sequencer) module is inspired by the famous "Turing Machine" Eurorack module by Music Thing Modular which in turn was inspired by many previous shift-register sequence generators.
 
