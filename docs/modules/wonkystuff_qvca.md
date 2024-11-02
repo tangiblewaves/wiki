@@ -1,4 +1,4 @@
-! Wonkystuff qvca
+# wonkystuff qvca
 
 This is quad VCA which is designed only for audio use (unlike the standard Tangible Waves [[2VCA]] which can be applied to both audio and CV signals).
 
@@ -29,8 +29,3 @@ This feature can also be used to produce "Ducking". This is when a sound is redu
 The 5th Volt has a video about this module
 
 %embed% https://www.youtube.com/watch?v=gheNK7QXFX4 %%
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

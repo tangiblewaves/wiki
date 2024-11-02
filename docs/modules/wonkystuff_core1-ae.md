@@ -1,8 +1,4 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! Core1.ae
+# wonkystuff core1.æ
 
 [[https://wonkystuff.net/product/core1-ae-v1-2-black/ | View Product Page]]
 
@@ -67,10 +63,3 @@ https://github.com/wonkystuff/coreExamples
 There is a section on the AE Modular forum to discuss programming this module:
 
 https://forum.aemodular.com/board/25/programming-core1-ae
-
-(:cell:) Mini:coreae.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

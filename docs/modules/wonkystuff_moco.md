@@ -1,8 +1,4 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! Moco
+# wonkystuff moco
 
 [[https://wonkystuff.net/product/moco-1st-edition/ | View Product Page]]
 
@@ -34,7 +30,7 @@ The markings to left of the outputs give a graphic representation of this delay/
 
 !! Patch Suggestions
 
-This module is based on the Doepfer A-144 (now discontinued) whose page can be found [[https://doepfer.de/a144.htm| here]]. This page has a users manual in English or German which is very detailed and useful.
+This module is based on the Doepfer A-144 (now discontinued) whose page can be found [[https://doepfer.de/a144.htm | here]]. This page has a users manual in English or German which is very detailed and useful.
 
 Wonkystuff have an excellent introductory video to this module:-
 
@@ -45,10 +41,3 @@ Though the video demonstrates the CV input with an LFO, the use of an envelope t
 As almost demonstrated in the video, you can produce a 2, 3 or 4 step beat/pulse with this module and an LFO. This is shown is mixing VCOs but these CVs could go to "mix" other sounds, raise a filter cutoff, go to an envelope module ([[ADSR]] could be interesting) and anywhere else you can think of to send a CV...
 
 For randomness, try the [[https://wiki.aemodular.com/pmwiki.php/AeManual/WonkyStuffRBSS| Wonkystuff rbss]] as the CV in, or could use [[https://wiki.aemodular.com/pmwiki.php/AeManual/SAMPLEHOLD| sample and hold]].
-
-(:cell:) Mini:moco.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
