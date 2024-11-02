@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# SAMPLE & HOLD
+[[img|modules/images/samplehold.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! SAMPLE & HOLD
 [[ https://www.tangiblewaves.com/store/p18/SAMPLE%26HOLD.html | View Product Page]]
 
 A module whose output voltage is set by "sampling" the input voltage when triggered. This is usually for producing random notes/modulation in conjunction with the [[NOISE]] module.
@@ -48,11 +46,3 @@ Using Noise, the Voltage variation is about the maximum the AE Modular can deal 
 With attenuation, this module can be really good to give a bit of variation to a sequence by varying the filter on the sound - use the [[2ATTCV]] module to combine the envelope and S&H outputs to the Filter module. It's also good on resonance on the [[https://wiki.aemodular.com/pmwiki.php/AeManual/NYLEFILTER| Nyle filter]]. Use the same trigger as the sequence if you want to be in sync with that, and can change timing(s) with use of one of the logic or divider modules.
 
 It can produce bit crusher style results when used to sample audio signals.
-
-
-(:cell:) Mini:samplehold.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

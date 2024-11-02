@@ -1,6 +1,5 @@
-(:mini 200x400 :)
-
-!! SWITCHMATRIX 4x4
+# SWITCHMATRIX 4x4
+[[img|modules/images/SWITCHMATRIX4x4.png|200]]
 
 [[ https://www.tangiblewaves.com/store/p135/SWITCHMATRIX_4x4.html | View Product Page]]
 
@@ -8,7 +7,6 @@ The SWITCHMATRIX 4x4 has four inputs and four outputs; via dedicated, iluminated
 
 A performance mode makes it possible to switch between 16 presets by simply pressing one of the matrix buttons - quite handy for live use!
 
-Mini:SWITCHMATRIX4x4.png
 
 !!! Inputs
 
@@ -48,7 +46,3 @@ Using the preset up/down trigger inputs you can add or change sounds to a rhythm
 This idea also works for extending sequences by running 2 sequencer modules, then have them switching from one to the other automatically:- see this thread:-
 
 https://forum.aemodular.com/thread/1775/4x4-matrix-gives-bigger-sequencer
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

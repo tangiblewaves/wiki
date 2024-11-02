@@ -38,6 +38,18 @@
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
 
+* [SAMPLE & HOLD](modules/sample-and-hold.md)
+* [SAMPLYR](modules/samplyr.md)
+* [SAWVOX](modules/sawvox.md)
+* [SEQ8](modules/seq8.md)
+* [SEQ16](modules/seq16.md)
+* [SLEW / EDGE](modules/slew-edge.md)
+* [SOLINA](modules/solina.md)
+* [SPRINGREVERB](modules/spring-reverb.md)
+* [STEP10](modules/step10.md)
+* [STOMP I/O](modules/stomp-io.md)
+* [SVFILTER (STATE VARIABLE)](modules/sv-filter.md)
+* [SWITCHMATRIX 4x4](modules/switchmatrix-4-4.md)
 * [TBD](modules/tbd.md)
 * [TOPOGRAF](modules/topograf.md)
 * [TRIP](modules/trip.md)
