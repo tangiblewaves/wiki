@@ -7,8 +7,6 @@ The TBD module is a multifunctional DSP (digital signal processing) module that 
 
 Module power consumption: 80 mA
 
-Mini:TBD.png
-
 !!! Plugin Documentation
 There are over 30 plugins built in, these are effects, simple and complex sound generators. Some of these have over 20 parameters which you can control via the web interface. Here are the two main sources of documentation for these:
 * [[https://tinyurl.com/tbd-overview | Quick overview page with links to sections in the full documentation]]
