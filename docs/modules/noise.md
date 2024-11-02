@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# NOISE
+[[img|modules/images/noise.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! NOISE
 [[ https://www.tangiblewaves.com/store/p7/NOISE.html | View Product Page]]
 
 The NOISE module generates ... yes ... noise!
@@ -34,10 +32,3 @@ Connecting CR OUT to S&H (TRIG1) and A OUT to [[https://wiki.aemodular.com/pmwik
 When used as audio, CR OUT gives a nice vinyl-like crackle sound.
 
 If used through an attenuator (e.g. [[2ATTCV]]) it can be nice as a random modulation source on things like filter cut off. 
-
-(:cell:) Mini:noise.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

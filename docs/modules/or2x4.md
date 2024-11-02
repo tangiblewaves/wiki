@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# OR 2x4
+[[img|modules/images/or2x4.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! OR 2x4
 [[ https://www.tangiblewaves.com/store/p70/OR2x4.html | View Product Page]]
 
 This module provides an OR logic, where if a signal is at least one of the inputs, it/they will be sent to the output, this is useful for some mixing requirements and combining CVs. The output can also be synced to tempo via the gate in. 
@@ -40,10 +38,3 @@ This module is excellent for producing non-linear CVs, e.g. combining an LFO and
 It works well to combine triggers from the various [[SEQ16]] outputs to get a different pattern to the main sequence.
 
 You may find this link useful. https://doudoroff.com/logic/
-
-(:cell:) Mini:or2x4.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

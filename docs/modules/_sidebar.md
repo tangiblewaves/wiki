@@ -38,6 +38,16 @@
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
 
+* [NOISE](modules/noise.md)
+* [NYLE FILTER (STEINER TYPE)](modules/nyle-filter.md)
+* [OR 2x4](modules/or2x4.md)
+* [ORNAMENT & CRIME](modules/ornament-and-crime.md)
+* [PHASER](modules/phaser.md)
+* [POLAMIX](modules/polamix.md)
+* [POWER](modules/power.md)
+* [QUANTIZER](modules/quantizer.md)
+* [RACKLINK](modules/racklink.md)
+* [RAINS](modules/rains.md)
 * [SAMPLE & HOLD](modules/sample-and-hold.md)
 * [SAMPLYR](modules/samplyr.md)
 * [SAWVOX](modules/sawvox.md)
