@@ -1,8 +1,6 @@
-(:mini 150x200 :)
+# µBITCRSH
+[[img|modules/images/uBITCRUSHER.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! µBITCRSH
 [[https://www.tangiblewaves.com/store/p178/uBITCRUSHER.html  | View Product Page]]
 
 This 1/3 height micro module provides a bit crushing effect to the incoming audio signal. The signal will be sampled into smaller segments and those segments can then be reduced and shuffled to achieve a degradation of the input signal.
@@ -30,11 +28,3 @@ Module power consumption: ? mA
 !!! Patch Suggestions
 
 This is a great effect especially for very clean sound sources to add "grit" to them.
-
-
-(:cell:) Mini:uBITCRUSHER.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

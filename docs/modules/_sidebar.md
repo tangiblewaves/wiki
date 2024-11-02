@@ -38,6 +38,23 @@
 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
 
+
+* [µ2MIX](modules/u-2mix.md)
+* [µ2VCA](modules/u-2vca.md)
+* [µ4BUFFER](modules/u-4buffer.md)
+* [µ4LOGIC](modules/u-4logic.md)
+* [µATTENUVERT](modules/u-attenuvert.md)
+* [µBASE](modules/u-base.md)
+* [µBITCRSH](modules/u-bitcrsh.md)
+* [µDISTORTION](modules/u-distortion.md)
+* [µLFO](modules/u-lfo.md)
+* [µOR2x4](modules/u-or2x4.md)
+* [µOSC](modules/u-osc.md)
+* [µPROBAGATE](modules/u-probagate.md)
+* [µSH-RNDM-NOISE](modules/u-sh-rndm-noise.md)
+* [µSIGAMP](modules/u-sigamp.md)
+* [µSUBOCTAVE](modules/u-suboctave.md)
+* [µTONE](modules/u-tone.md)
 * [USBPOWER](modules/usbpower.md)
 * [VCO](modules/vco.md)
 * [VMBRIDGE](modules/vmbridge.md)
