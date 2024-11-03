@@ -8,7 +8,7 @@ The MIXCONSOLE is a "proper" mixer with FX sends, and stereo out with AE and 3.5
 Module power consumption: 28mA
 
 
-! Inputs
+!!! Inputs
 
 * '''IN 1''' - '''IN 4''' - the signal in for each of the 4 channels.
 * '''CV 1''' - '''CV 4''' - the CV input for each channel which works in conjunction with the same numbered level knob in that the knob controls the maximum amplitude of the channel, and when you feed in CV then you can change the amplitude from 0 up to what the knob allows.
@@ -22,7 +22,7 @@ Module power consumption: 28mA
 
 These could be utilised to input more signals into the mix as well, (not just FX)....
 
-! Outputs
+!!! Outputs
 
 * '''Main Out L''' - Left channel of the stereo mixed output.
 * '''Main Out R''' - Right channel of the stereo mixed output.
@@ -46,9 +46,9 @@ These could be utilised to input more signals into the mix as well, (not just FX
 You can also add these modules for more output options:
 
 * [[mixcon-jackout.md | MIXCON JACK OUT]] 
-* [[mixcon-xlrout.md | MIXCON XLR OUT]] 
+* [[mixconsole-xlrout.md | MIXCON XLR OUT]] 
 
-! Controls
+!!! Controls
 
 Each channel has 4 knobs with the same function, (Channel number is by the level knob):-
 
@@ -63,11 +63,11 @@ Do bear in mind that the amount of signal sent to the FXs (and their return leve
 * '''FX 2 rtn lvl''' - controls the amount of signal from the FX 2 return inputs in the Main outputs
 * '''Main Level''' - Sets the volume of the Main outputs
 
-! Display
+!!! Display
 
 The LEDs give you an idea of the levels of the mixed signals going to the main output. Green is good, a little bit of yellow is best. Unless you want distortion you generally want to avoid the red LEDs being lit a lot...
 
-! Patch Suggestions
+!!! Patch Suggestions
 
 First up, you can now save on VCAs with this module. Whenever you had a VCA as the last piece in the chain before going to the mixer, you can now do the same with directly sending ENV or LFO CV to the CV input of the respective channel. 
 
