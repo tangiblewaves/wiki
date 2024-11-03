@@ -34,6 +34,8 @@
 * [DIY Kit](modules/diy-kit.md)
 * [DRONE 38](modules/drone38.md)
 * [DRONX](modules/dronx.md)
-* [Drumkit 010](modules/drumkit010.md)
-
+* [DRUMKIT 010](modules/drumkit010.md)
+* [ENVFOLLOWER](modules/envfollower.md)
+* 
 * [MIDICLOCK DIVIDER](modules/midiclock-divider.md)
+* 
