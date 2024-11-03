@@ -35,6 +35,7 @@
 * [DRONE 38](modules/drone38.md)
 * [DRONX](modules/dronx.md)
 * [Drumkit 010](modules/drumkit010.md)
+* [ENVFOLLOWER](modules/envfollower.md)
 
 
 * [KICK](modules/kick.md)
@@ -114,3 +115,5 @@
 * [wonkystuff hh110 µModule](modules/wonkystuff_u_hh110.md)
 * [wonkystuff rs55 µModule](modules/wonkystuff_u_rs55.md)
 * [XMIX](modules/xmix.md)
+
+
