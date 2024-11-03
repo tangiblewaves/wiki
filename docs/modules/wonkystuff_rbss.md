@@ -1,5 +1,5 @@
 # wonkystuff RBSS
-[[img|modules/images/rbss.png|100]]
+[[img|modules/images/RBSS.png|100]]
 
 The rbss (random bit-shift sequencer) module is inspired by the famous "Turing Machine" Eurorack module by Music Thing Modular which in turn was inspired by many previous shift-register sequence generators.
 
@@ -28,9 +28,9 @@ When it is in stock, you can buy this module at [[https://wonkystuff.net/product
 
 !!! Patch Suggestions
 
-You the clk out to trigger other modules, e.g. [[SEQ8]] or [[TRIP]] modules). 
+You the clk out to trigger other modules, e.g. [[ seq8.md | SEQ8 ]] or [[ trip.md | TRIP ]] modules). 
 
-This video shows how you can use the RBSS together with the [[SEQ16]] to create long evolving sequences.
+This video shows how you can use the RBSS together with the [[ seq16.md | SEQ16 ]] to create long evolving sequences.
 %embed% https://youtu.be/lQotLnLqgHA %%
 
 This video demonstrates how to use the audio output of the RBSS.
