@@ -32,7 +32,7 @@ The third and most advanced path is to build everything, even the module frame a
 
 To follow this advanced path and build your own totally custom module move to
 
-[[advanced-projects|Advanced DIY Projects]]
+[[advanced-projects.md|Advanced DIY Projects]]
 
 No matter which path you choose above, the following links will offer valuable information which will help you understand more about the AE Modular system.
 
@@ -42,7 +42,7 @@ No matter which path you choose above, the following links will offer valuable i
 
 [[aemodular-technical-guide.md|AE Modular Technical Guide]]
 
-[[akai-mpc.md|Akai MPC One/AE Modular Patchbay]]
+[[akai-mpcone-patchbay.md|Akai MPC One/AE Modular Patchbay]]
 
 [[https://easyeda.com/WonkyStuff/ae-blank-project| Base Schematic for your own circuit design, and templates for making your own PCBs/ Front Panels]]
 

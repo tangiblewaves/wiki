@@ -26,10 +26,10 @@ Please follow the links below for more in depth information on how to connect yo
 
 '''[[getting-started-1.md|Step 1: Connect Power]]'''
 
-'''[[Step 2: Connect Audio]]'''
+'''[[getting-started-2.md|Step 2: Connect Audio]]'''
 
-'''[[Step 3: Connect Keyboards or Sequencers]]'''
+'''[[getting-started-3.md|Step 3: Connect Keyboards or Sequencers]]'''
 
-'''[[Step 4: First basic patch]]'''
+'''[[getting-started-4.md|Step 4: First basic patch]]'''
 
-'''[[Step 5: Record Your Performance]]''' - also see the [[AeMusic/AeMusic | AE Music section]] of the Wiki
+'''[[getting-started-5.md|Step 5: Record Your Performance]]''' - also see the [[/recording/ | AE Artists section]] of the Wiki

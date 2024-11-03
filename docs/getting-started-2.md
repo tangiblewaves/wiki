@@ -1,4 +1,4 @@
-! Step 2 - Connect the Audio
+# Step 2 - Connect the Audio
 
 There are two ways of making the AE patch leads connect to a 3.5mm mini jack for signals coming in or out.
 
@@ -10,4 +10,4 @@ There is a headphone amp module in the AE range, if you are wanting to listen ju
 
 %embed% https://www.youtube.com/watch?v=Yd1euvt_n4c %%
 
-[[AeManual/GettingStarted | <-- Back to Getting Started]] || [[AeManual/Step3FirstBasicPatch | Step 3 - First Basic Patch -->]]
+[[getting-started.md | <-- Back to Getting Started]] || [[getting-started-3.md | Step 3 - First Basic Patch -->]]

@@ -9,16 +9,15 @@ https://wonkystuff.net/product/biot-kit/
 
 This is an excellent first kit if you are new to electronic construction/soldering. Very simple and a useful addition to your AE Modular, especially if you are performing live.
 
-Wonkystuff has done a video about the building of the kit - https://www.youtube.com/watch?v=r4GuhFDfGpg
+Wonkystuff has done a video about the building of the kit:
+
+%embed% https://www.youtube.com/watch?v=r4GuhFDfGpg %%
 
 Each input/output pairing refers to the touch plate with the same symbol; usually you will do one connection to 2 (or more) different touch plates so your finger(s) make the electrical connection. Experiment!
 
-! Patch Suggestions
+!! Patch Suggestions
 
 It is great to add a bit of variation to any modulation as you move/press your finger (or whatever else you fancy running over the touch plates!); can be nice on filter cut off too.
 
 Also try with the audio signal directly through it, rather than as a CV control.
 
-See also this video from Max Richardson as a demonstration...
-
-%embed% https://www.youtube.com/shorts/wqhNF0M0uoM %%

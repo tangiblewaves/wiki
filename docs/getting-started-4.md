@@ -1,4 +1,4 @@
-! Step 4 - First Basic Patch
+# Step 4 - First Basic Patch
 
 It will be assumed you have one of the starter systems for the purposes of this section.
 
@@ -27,4 +27,4 @@ You can do a lot just with minor adjustments to the patch you have now created, 
 %embed% https://youtu.be/Z1zWIMh0a_s %%
 
 
-[[AeManual/GettingStarted | <-- Back to Getting Started]] || [[AeManual/Step5RecordYourPerformance | Step 5 - Record your Performance -->]]
+[[getting-started.md | <-- Back to Getting Started]] || [[getting-started-5.md | Step 5 - Record your Performance -->]]

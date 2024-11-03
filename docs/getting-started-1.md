@@ -1,4 +1,4 @@
-! Step 1 - Connecting to Power
+# Step 1 - Connecting to Power
 
 There are a few ways in which you can connect your AE Modular system to a power source.
 
@@ -16,5 +16,5 @@ USB chargers put out 5 Volts which needs to be converted to 9 Volts for the AE M
 
 Just like the USB charger method above, you would simply connect a 5V to 9V USB converter into a standard mobile phone battery pack and then power the AE Modular from this. You can easily power a 2 row system from a 10,000 mA/h battery pack for over 4 hours.
 
-[[AeManual/GettingStarted | <-- Back to Getting Started]] || [[AeManual/Step2ConnectAudio | Step 2 - Connect Audio -->]]
+[[getting-started.md | <-- Back to Getting Started]] || [[getting-started-2.md | Step 2 - Connect Audio -->]]
 

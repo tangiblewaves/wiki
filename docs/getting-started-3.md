@@ -1,4 +1,4 @@
-! Step 3 - Connect Keyboards and Sequencers
+# Step 3 - Connect Keyboards and Sequencers
 
 The usual way of controlling the AE modular is via midi and the Master module. Take a midi lead from the out of your external device, plug the other end into the breakout cable provided with your system, which then plugs into the 3.5mm socket labelled midi on the front of the Master module.
 
@@ -8,7 +8,7 @@ There are sequencers available that give out CV/Gate rather than midi, Korg SQ1,
 
 We have started a page to log how CV/Gate connections work with other manufacturers' gear; if you are using something not listed on the page below, please let us know about it, and the details.
 
-https://wiki.aemodular.com/pmwiki.php/Aemanual/Externalgear
+[List if compatible external gear](external-gear.md)
 
 
-[[AeManual/GettingStarted | <-- Back to Getting Started]] || [[AeManual/Step4FirstBasicPatch | Step 4 - Basic Patch -->]]
+[[getting-started.md | <-- Back to Getting Started]] || [[getting-started-4.md | Step 4 - Basic Patch -->]]
