@@ -36,7 +36,7 @@ Here's a patch for a low pass gate:
 * ENV (OUT) -> WASP (CV1)
 * ENV (OUT) -> VCA (CV1)
 
-This module does not have CV control of resonance, but it can be created by putting one of the filter outputs through a [[https://wiki.aemodular.com/pmwiki.php/AeManual/2VCA|VCA]] whose level is controlled by the CV modulation source (e.g. LFO or [[https://wiki.aemodular.com/pmwiki.php/AeManual/2ENV|envelope]]), then feeding the VCA output back into the same filter module - you will need a mixer module, (e.g. [[https://wiki.aemodular.com/pmwiki.php/AeManual/4ATTMIX|4ATTMIX]]), or use a '''mult''' if necessary as there is only one input.
+This module does not have CV control of resonance, but it can be created by putting one of the filter outputs through a [[ 2vca.md | VCA ]] whose level is controlled by the CV modulation source (e.g. LFO or [[ 2env.md | envelope]]), then feeding the VCA output back into the same filter module - you will need a mixer module, (e.g. [[ 4attmix.md | 4ATTMIX]]), or use a '''mult''' if necessary as there is only one input.
 
 !!! Sound Examples
 Check out this video by RSKT about the many uses of the WASP filter:
