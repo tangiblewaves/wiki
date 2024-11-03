@@ -26,43 +26,32 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
 
 * '''NAND''' - (Not AND) outputs a LOW signal when '''both''' input signals are HIGH.  Otherwise outputs HIGH.  This is the truth table:
 
-TODO: Fix Table Layout
-
-
-  ||border=1 width=50%
-  ||! NAND ||||||
-  ||! Input A ||! Input B ||! Output ||
-  || 0 || 0 || 1 ||
-  || 0 || 1 || 1 ||
-  || 1 || 0 || 1 ||
-  || 1 || 1 || 0 ||
+  | Input A | Input B | Output |
+  | :-: | :-: | :-: |
+  | 0 | 0 | 1 |
+  | 0 | 1 | 1 |
+  | 1 | 0 | 1 |
+  | 1 | 1 | 0 |
 
 
 * '''AND''' - outputs a HIGH signal when '''both''' input signals are HIGH.  Otherwise, outputs LOW.
 
-TODO: Fix Table Layout
-
-
-  ||border=1 width=50%
-  ||! AND ||||||
-  ||! Input A ||! Input B ||! Output ||
-  || 0 || 0 || 0 ||
-  || 0 || 1 || 0 ||
-  || 1 || 0 || 0 ||
-  || 1 || 1 || 1 ||
+  | Input A | Input B | Output |
+  | :-: | :-: | :-: |
+  | 0 | 0 | 0 |
+  | 0 | 1 | 0 |
+  | 1 | 0 | 0 |
+  | 1 | 1 | 1 |
 
 
 * '''XOR''' - (Exclusive OR) outputs a HIGH signal when '''either''' input signal is HIGH but '''not when both''' are HIGH or LOW.
 
-TODO: Fix Table Layout
-
-  ||border=1 width=50%
-  ||! XOR ||||||
-  ||! Input A ||! Input B ||! Output ||
-  || 0 || 0 || 0 ||
-  || 0 || 1 || 1 ||
-  || 1 || 0 || 1 ||
-  || 1 || 1 || 0 ||
+  | Input A | Input B | Output |
+  | :-: | :-: | :-: |
+  | 0 | 0 | 0 |
+  | 0 | 1 | 1 |
+  | 1 | 0 | 1 |
+  | 1 | 1 | 0 |
 
 
 * '''INV3''' - Inverts the signal of IN3 input.  If IN3 is HIGH, it outputs LOW.  If IN3 is LOW, it outputs HIGH.
