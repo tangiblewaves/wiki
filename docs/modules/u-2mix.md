@@ -1,13 +1,11 @@
-(:mini 100x200 :)
+# µ2MIX
+[[img|modules/images/u2MIX.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! µ2MIX
 [[https://www.tangiblewaves.com/store/p172/u2MIX.html  | View Product Page]]
 
 This 1/2 height micro module provides a tiny mixer with 3 attenuated channels and 4 fixed channels.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
@@ -30,11 +28,3 @@ Module power consumption: ? mA
 !!! Patch Suggestions
 
 This can be used for Audio or CV mixing of signals and is very similar to the [[AeManual/MIXER44 | MIXER 4-4]] module. 
-
-
-(:cell:) Mini:u2MIX.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

@@ -1,9 +1,9 @@
-(:mini 200x400 :)
-! MIXCONSOLE/3CH
+# MIXCONSOLE/3CH
+[[img|modules/images/mixconsole3ch.png|300]]
 
 [[ https://www.tangiblewaves.com/store/p109/MIXCONSOLE_-_3CH.html | View Product Page]]
 
-This module is not a freestanding design, it needs the [[AeManual/MIXCONSOLE|MIXCONSOLE]] to work and attaches to it via a special flat cable at the back. 
+This module is not a freestanding design, it needs the [[mixconsole.md | MIXCONSOLE]] to work and attaches to it via a special flat cable at the back. 
 
 The great thing is that you can chain as many of the 3CH modules as you like so could make a 28 channel mixer if you wanted! 
 
@@ -30,9 +30,4 @@ Do bear in mind that the amount of signal sent to the FXs (and their return leve
 
 ! Patch Suggestions
 
-Please see the [[AeManual/MIXCONSOLE|MIXCONSOLE]] page for further reading.
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
+Please see the [[mixconsole.md | MIXCONSOLE]] page for further reading.

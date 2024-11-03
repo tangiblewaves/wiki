@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! The Soviet Space Dog Project
+# The Soviet Space Dog Project
 
-Mini:profile.jpg
+[[img|artists/images/thesovietspacedogproject.jpg|400]]
 
 I’m Andy Bloyce and I’m from London in the UK. I’ve been dabbling in electronic music since the late 70’s and my real passion is for the style that is often labelled as Berlin School (think Tangerine Dream, Klaus Schulze, Manuel Göttsching, etc.). 
 
@@ -51,8 +50,3 @@ My AE Modular is the ambient workhorse in my setup, producing most of the backin
 
 * Pacific Gravity by The Soviet Space Dog Project (Bandcamp link to track)[[https://sovietspacedogproject.bandcamp.com/track/pacific-gravity]]
 * 7pm at the B of the M in DDD (edit) by The Ambient Fish Society (YouTube link) [[https://www.youtube.com/watch?v=WUBGpiQSAv4]]
-
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

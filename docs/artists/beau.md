@@ -1,5 +1,4 @@
-%center% '+Beaucarnea+'
-
+# Beaucarnea
 
 Beaucarnea is @maydonpoliris and @pol from the forum; we have never met as we live on the opposite side of the planet - quite literally! 
 

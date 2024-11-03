@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# SLEW / EDGE
+[[img|modules/images/slew.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! SLEW / EDGE
 [[ https://www.tangiblewaves.com/store/p84/SLEW%2FEDGE.html | View Product Page]]
 
 The SLEW/EDGE module combines the function of a slew limiter for CVs and a CV change detector in one module. Slew is a method of slowing the rate of change of a CV signal, i.e. the changes are less abrupt thus being useful for things like portamento. The slew operation can be activated individually for rising and/or falling CVs.
@@ -52,10 +50,3 @@ This module can be good on a [[https://wiki.aemodular.com/pmwiki.php/AeManual/2L
 This module can be a way of making an LFO more of a master clock, with the various edge outputs triggering at different times in the waveform cycle.  '''⇅''',    '''PULSE ↑''',  '''PULSE ↓''' & '''PULSE ⇅''' - experiment, very good for a percussion track but one(or more) outputs could be the clock on the [[https://wiki.aemodular.com/pmwiki.php/AeManual/SEQ8| sequencer module]]....
 
 %embed% https://youtu.be/1Kx6sTYoG1Y %%
-
-(:cell:) Mini:slew.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

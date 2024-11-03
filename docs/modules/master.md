@@ -1,8 +1,6 @@
-(:mini 200x400 :)
+# MASTER
+[[img|modules/images/master.png|200]]
 
-(:table border=0 width=100% :)
-(:cell width=70% :) 
-!! MASTER
 [[https://www.tangiblewaves.com/store/p4/MASTER.html | View Product Page]]
 
 This Master module description is for the one supplied until December 2019, the replacement is the same, except for having an extra switch to change the midi channel from 1 or Omni to  some of the others available. 
@@ -69,18 +67,18 @@ The Master module also can be used to supply AE modules and interface to eurorac
 
 An eight units eurorack adapter with a Master module about to be put in:
 
-Attach:8-units-adapter-frame.png
+[[img|modules/images/8-units-adapter-frame.png|300]]
 
 With the adapterframe comes an eurorack power-cable for the Master module:
 
-Attach:master-eurorack-power.png
+[[img|modules/images/master-eurorack-power.png|400]]
 
 The 10-pin connector plugs to the Master module, red cable facing downwards,
 the other connector plugs into one of your Eurorack bus sockets.
 
 !!! Patch Suggestions
 
-The most obvious use of the Master module is the midi (bus) CV being used to control the pitch of the [[https://wiki.aemodular.com/pmwiki.php/AeManual/2OSCD|oscillators]].  The Bus CV needs to go to the CV in on your VCO, this can be done on the Oscillator module itself rather than a patch lead trailing across from the Master module.
+The most obvious use of the Master module is the midi (bus) CV being used to control the pitch of the [[2oscd.md|oscillators]].  The Bus CV needs to go to the CV in on your VCO, this can be done on the Oscillator module itself rather than a patch lead trailing across from the Master module.
 
 For the starter systems, the Master module will be your audio out, feeding the output from the  last module in your patch to the AE patchbay A1 or A2, then the equivalent mini jack socket having the lead going to your external equipment. the 4 I/O module can do the same job which can make patching tidier.
 
@@ -92,7 +90,7 @@ The use of a Midi controller such as the Arturia Keystep, Beatstep (pro) or synt
 
 You can also connect MIDI from a PC/Mac so that you can sequence the AE Modular from a DAW (Digital Audio Workstation) like Ableton or Reaper. For this to work you need to purchase a converter cable that converts USB to MIDI Din. Here is an example:
 
-Attach:usbmidicable.jpg
+[[img|modules/images/usbmidicable.jpg|500]]
 
 https://hosatech.com/products/data/midi-interfaces/usm-422/
 
@@ -106,10 +104,3 @@ This video shows a very basic patch that makes use of the MIDI connectivity of t
 
 This very short video shows how you can sync and connect a Korg Volca with the AE Modular via the Audio and CTRL inputs on the MASTER module:
 %embed% https://youtu.be/VB3sRZlU1wE %%
-
-(:cell:) Mini:master.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

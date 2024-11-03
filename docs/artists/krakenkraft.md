@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! Krakenkraft
+# Krakenkraft
 
-Mini:profile.jpg
+[[img|artists/images/krakenkraft.jpg|400]]
 
 Krakenkraft is an ambient musician from Munich, Germany. My main interests: strange sound textures, Berlin School‘ style sequencing, very slow minimalism – and anything else.
 
@@ -32,7 +31,3 @@ Plus various additional sound toys.
 !! Other Notes
 
 Remember: The AEmod started as an affordable/cheap low fi experimental system, not as a Moog/ARP clone or something smooth and perfect. Personally, I like its character – and I can't get rid of the feeling that I am learning more about modular synthesis with the AEmod than with my eurorack or VCV. Some modules are superior by their cleverness and number of CVable things. The baby can be compatible to eurorack via 4I/O modules and that really works out well and the BREADBOARD module even opens a door to DIY electronics with Arduino (although I yet only added the door, but failed to go thru it).
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

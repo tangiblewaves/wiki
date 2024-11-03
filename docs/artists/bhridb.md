@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! Black Hair Rolled in Dried Blood
+# Black Hair Rolled in Dried Blood
 
-Mini:profile.jpg
+[[img|artists/images/bhridb.jpg|400]]
 
 I’m not sure when it happened, but having spent some years at art school and subsequently many years producing installation projects coupled with the availability of affordable, decent quality equipment, I became very involved with video art. I saw this unquestionably as my future and lifelong aspiration.
 

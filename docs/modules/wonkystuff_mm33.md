@@ -1,6 +1,5 @@
-(:mini 200x400 :)
-
-!! Wonkystuff mm33
+# wonkystuff mm33
+[[img|modules/images/wsmm33.png|200]]
 
 [[https://wonkystuff.net/product/mm33/ | View the kit's shop page]]   
 
@@ -61,8 +60,3 @@ It can be used as a straight forward, 3 Channel attenuator by each input going t
 Matrix mixers are great tools for all kinds of experimental music and are especially useful for no-input mixing type of projects. Here is a Youtube video of a similar mixer and how to use to make music:
 
 %embed%  https://www.youtube.com/watch?v=dUKBGUdF1So %%
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

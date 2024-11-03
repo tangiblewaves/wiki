@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# RACKLINK
+[[img|modules/images/racklink.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! RACKLINK
 [[ https://www.tangiblewaves.com/store/p63/RACKLINK_kit_%282_modules___cable%29.html | View Product Page]]
 
 This is actually 2 modules with a connecting cable. This is for joining 2 of the original AE Modular racks together - these modules are not needed for the current racks. The Racklink is also used by many users making their own cases.
@@ -34,10 +32,3 @@ The DIP switch panel lets you select which signals will go to the 2nd rack. Not 
 The Racklink is useful to give you more bus CV/clock outs but owners of newer AE Modular cases should not need these modules.
 
 The sockets labelled 1 to 8 mean you do not have to have patch wires trailing across from one case to the other; this can be really helpful to reduce clutter, and creates less need for longer cables.
-
-(:cell:) Mini:racklink.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

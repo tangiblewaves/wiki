@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# POWER
+[[img|modules/images/POWER.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! POWER
 [[https://www.tangiblewaves.com/store/p85/power_%28LoFi%29_.html | View Product Page]]
 
 This module is for users who want to save space and don't want or need the midi interface provided by the Master module. 
@@ -40,10 +38,3 @@ As mentioned in the introduction, this module is useful to connect the AE to oth
 If you do ever get a hum from your AE patch wiring, connecting to the GND  socket may fix the problem; it will much more often be a faulty patch wire that needs sorting!
 
 With the power supply sold on the Tangible Waves Website, there is enough to power around 4 or 5 rows with either this or the Master module. This module could be used as an expander if a 2nd Midi in was not needed. 
-
-(:cell:) Mini:POWER.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

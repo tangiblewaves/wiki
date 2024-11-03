@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! Michael Holzklotz
+# Michael Holzklotz
 
-Mini:profile.jpg
+[[img|artists/images/michaelholzklotz.jpg|400]]
 
 The universe is huge and Michael Holzklotz is small...this is the main theme of the most of my songs.
 I'm doing Lo-Fi Rock and Popsongs in German language but also electronic and experimental music.
@@ -23,7 +22,3 @@ I'm also running a little independent label called "Kaktusgleichapfelbaum-Record
 %embed% https://www.youtube.com/watch?v=cAItVGe5j1Y %%
 
 %embed% https://www.youtube.com/watch?v=2bpbcJ-u3dY %%
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

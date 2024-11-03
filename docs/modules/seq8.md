@@ -1,6 +1,6 @@
-(:mini 200x400 :)
+# SEQ8
+[[img|modules/images/seq8.png|200]]
 
-!! SEQ8
 [[https://www.tangiblewaves.com/store/p100/SEQ8.html | View Product Page]]
 
 The SEQ8 is an 8-step sequencer for controlling oscillator pitch and triggering envelopes etc.
@@ -13,7 +13,6 @@ Additionally to the selected CV presets, the "raw" value of the step knobs is al
 
 Module power consumption: 7 mA
 
-Mini:SEQ8.png
 
 !!! Inputs
 
@@ -71,10 +70,3 @@ The main intention of  this module is to provide pitch CV to oscillators, with t
 The individual trigger outs can also be used to vary your sequence, by using an attenuator again to give you control over the amount (pitch/filter amount etc.). If your input(s) are full, use a [[4ATTMIX]] or similar to combine the CVs before going to the destination. The [[2ATTCV]] and 4ATT/MIX give you the attenuation/ control required.
 
 Taking the previous further, using one of the various outputs, individual trigger out to an envelope is good, you can affect the sound, e.g. filter cut off, vibrato, volume etc. This is a a large rabbit hole...
-
-
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

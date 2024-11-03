@@ -1,8 +1,6 @@
-(:mini 400x400 :)
+# John Tuffen
 
-! John Tuffen
-
-Mini:profile.jpg
+[[img|artists/images/johntuffen.jpg|400]]
 
 I have been making music under many different names: 'namke communications', 'field memory recorder' and  'tuffen'. I am also a member of a few more groups: 'Orlando Ferguson'; 'ElectroBattlingDroids'; 'Neuschlaufen'; 'The Wharf Street Galaxy Band' and 'The Wonkystuff House Band'.
 
@@ -42,8 +40,3 @@ Too much gear collected over the years:
 * Casio CZ5000
 
 and a few more, including kit-builds such as the Jasper and Brunswick synthesizers (a 9090 is currently in progress)
-
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

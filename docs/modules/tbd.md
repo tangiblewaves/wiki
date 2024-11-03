@@ -1,13 +1,11 @@
-(:mini 200x400 :)
+# TBD
+[[img|modules/images/tbd.png|200]]
 
-!! TBD
 [[ https://www.tangiblewaves.com/store/p149/TBD.html | View Product Page]]
 
 The TBD module is a multifunctional DSP (digital signal processing) module that includes more than 30 different synthesis and audio processing plugins. It is a collaboration project between CTAG Kiel (an academic working group of Kiel University of Applied Sciences), [[https://instrumentsofthings.com/|Instruments of Things]] (who produce this module for Eurorack) and [[https://tangiblewaves.com|tangiblewaves]].
 
 Module power consumption: 80 mA
-
-Mini:TBD.png
 
 !!! Plugin Documentation
 There are over 30 plugins built in, these are effects, simple and complex sound generators. Some of these have over 20 parameters which you can control via the web interface. Here are the two main sources of documentation for these:
@@ -58,8 +56,3 @@ You can download the app from Google Play Store here: https://play.google.com/st
 
 The 5th Volt has made this introductory video which will help you to get started with this complex module:
 %embed% https://youtu.be/tEKvm1mL8Fc %%
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

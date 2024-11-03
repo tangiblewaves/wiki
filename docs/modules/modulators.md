@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# MODULATORS
+[[img|modules/images/modulators.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! MODULATORS
 [[ https://www.tangiblewaves.com/store/p152/MODULATORS.html | View Product Page]]
 
 MODULATORS is a multifunctional 1U module. It is designed especially with very small AE systems in mind.
@@ -46,20 +44,12 @@ Module power consumption: 13 mA
 
 The LED in the random section will then flash.  You select between the three modes by releasing the button when it is on the one you desire. The mode the random section is currently in is shown by the number of flashes. 
 
-* ''' 1 flash''' Quantized - the CV is in a minor scale from 0 to 2 volts. Useful for Oscilator & [[SOLINA]] pitch
+* ''' 1 flash''' Quantized - the CV is in a minor scale from 0 to 2 volts. Useful for Oscilator & [[solina.md | SOLINA]] pitch
 * '''2 flashes''' Random (stepped) -  CV between 0 and 4 volts.
 * '''3 flashes''' Smoothed - As random, but the voltage changes more slowly between CVs.
 
 !!! Patch Suggestions
 
-If you want more than one input to the VCA, you will need to use a mixer module such as the [[2ATTCV]]. You can use a '''MULT''' if necessary however.
+If you want more than one input to the VCA, you will need to use a mixer module such as the [[2attcv.md | 2ATTCV]]. You can use a '''MULT''' if necessary however.
 
-If you want a smooth(er) transition between the CVs of the Random CV generator, this can be done with the [[https://wiki.aemodular.com/pmwiki.php/AeManual/SLEWEDGE| SLEW/EDGE]] module.
-
-
-(:cell:) Mini:MODULATORS.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
+If you want a smooth(er) transition between the CVs of the Random CV generator, this can be done with the [[slew-edge.md | SLEW/EDGE]] module.

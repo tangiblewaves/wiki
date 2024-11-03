@@ -1,8 +1,5 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! STOMP I/O
+# STOMP I/O
+[[img|modules/images/STOMP-IO.png|100]]
 
 [[https://www.tangiblewaves.com/store/p140/STOMP-IO.html | View Product Page]]
 
@@ -32,10 +29,3 @@ You can also use it to send a signal to an external synth, mixer or other device
 One immediate use found was the use of a bass synth pedal to boost the low end of the [[KICK]] module.
 
 If you plug the 2 3.5mm sockets straight to each other, (lead not supplied), this module can be an attenuator, freeing up more complex modules for other duties.
-
-(:cell:)Mini:STOMP-IO.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

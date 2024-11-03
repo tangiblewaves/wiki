@@ -1,10 +1,8 @@
-(:mini 200x400 :)
-
-!! Wonkystuff Kaestle
+# wonkystuff kæstle
 
 [[https://wonkystuff.net/product/kaestle/ | View the shop page]]   
 
-This is Wonkystuff's take on the Bastl Instruments reknown [[https://bastl-instruments.com/instruments/kastle/|Kastle minisynth]], re-engineered to fit the AE modular format.  Although set up as as a 2 operator FM synth, It offers several sorts of synthesis within its confines.  
+This is Wonkystuff's take on the Bastl Instruments reknown [[https://bastl-instruments.com/instruments/kastle/ | Kastle minisynth]], re-engineered to fit the AE modular format.  Although set up as as a 2 operator FM synth, It offers several sorts of synthesis within its confines.  
 
 Module power consumption: 
 
@@ -77,8 +75,3 @@ There is also an excellent video by RSKT:-
 
 
 Until this module, the only way to have CV control of an LFO was to use a regular oscillator and use a divider module to lower the resulting frequency.  This module makes that patch a  lot easier! Changing the frequency of the LFO using an Envelope is superb for making even basic sounds more interesting. Having a slower LFO, (or [[KeuerslagerkurtSloth |Kurt's Sloth]]), control the frequency is excellent for subtle variations in sound, very nice on filter cutoff for instance. 
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

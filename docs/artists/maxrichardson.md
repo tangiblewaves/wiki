@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! Artist
+# Max Richardson
 
-Mini:profile.jpg
+[[img|artists/images/maxrichardson.jpg|400]]
 
 Max Richardson is a freelance composer based in Merseyside, UK. His works are diverse, spanning from classical compositions to avant-garde electronica. Max’s works have previously been performed by members of the RLPO, alongside garnering national airplay on BBC Radio 6 Music.
 
@@ -25,7 +24,3 @@ I got hold of my AE system in 2020, and within about a week of owning a starter 
 %embed% https://youtu.be/quhSdDSmBR0 %%
 
 %embed% https://youtu.be/eJLnuI2EC9U %%
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! River of Electrons
+# River of Electrons
 
-Mini:profile.jpg
+[[img|artists/images/riversofelectrons.jpg|400]]
 
 River of Electrons is an identity of artist / musician Phil Jones who also makes music as Mentufacturer and runs the Synaesmedia YouTube channel.
 
@@ -22,8 +21,3 @@ This is my first AE Modular release: [[https://riverofelectrons.bandcamp.com/alb
 Much of what I do is in the computer. So I'm a heavy FL Studio user. Also working with Sonic Pi, VCV Rack, Processing, Pure Data, Lua Protoplug (a programmable VST).
 
 But this year I'm dabbling in out-of-the-box hardware and electronics. And AE Modular is my strategy for this. A kind of hub to pull the rest of the small hardware and electronics I've been collecting together into a unified whole. This includes the Bastl Kastle,  Korg NTS-1 and Monotron, an Arduino based Groovesizer, Zoom FX pedal, homemade "AtariPunk" console, self-programmed Arduinos and Microbits. And children's toys (ideally circuit-bent, but that's work in progress for a future release)
-
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

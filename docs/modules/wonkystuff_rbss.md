@@ -1,14 +1,11 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! Wonkystuff RBSS
+# wonkystuff RBSS
+[[img|modules/images/rbss.png|100]]
 
 The rbss (random bit-shift sequencer) module is inspired by the famous "Turing Machine" Eurorack module by Music Thing Modular which in turn was inspired by many previous shift-register sequence generators.
 
 When it is in stock, you can buy this module at [[https://wonkystuff.net/product/rbss/ | Wonkystuff]].
 
-'''NOTE''': if you have an older rbss module of serial number lower than 130, then you might have issues using it with the QUANTIZER module from tangible waves. This is due to some noise that is output by the module which the digital QUANTIZER module can't quite process. If you have this problem, then you can easily fix this yourself if you know how to use a soldering iron. Please follow the instructions on this page: [[https://wonkystuff.net/rbss-quantizer-issue/]]
+'''NOTE''': if you have an older rbss module of serial number lower than 130, then you might have issues using it with the QUANTIZER module from tangible waves. This is due to some noise that is output by the module which the digital QUANTIZER module can't quite process. If you have this problem, then you can easily fix this yourself if you know how to use a soldering iron. Please follow the instructions on [[https://wonkystuff.net/rbss-quantizer-issue/ | this page]]
 
 !!! Inputs
 
@@ -41,10 +38,3 @@ This video demonstrates how to use the audio output of the RBSS.
 
 Here is an ambient patch that uses 3x RBSS modules.
 %embed% https://youtu.be/T-sKgZNlKrM %%
-
-(:cell:) Mini:RBSS.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

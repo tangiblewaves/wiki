@@ -1,8 +1,5 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! JOYSTICK
+# JOYSTICK
+[[img|modules/images/joystick.png|100]]
 
 [[https://www.tangiblewaves.com/store/p130/joystick.html | View Product Page]]
 
@@ -37,21 +34,10 @@ It is important to remember it remains in each position - there is no automatic 
 
 !!! Patch Suggestions
 
-For audio mixing with the joystick, select CV source, then patch the 4 outputs to separate VCAs (e.g. [[https://wiki.aemodular.com/pmwiki.php/AeManual/4VCA|4VCA]]), you have 4 individual controllable signals which you can mix together with any of the mixer modules (e.g. [[4ATTMIX]]). The [[MIXCONSOLE]] module can have the signal straight from the Joystick module to control channel levels.
+For audio mixing with the joystick, select CV source, then patch the 4 outputs to separate VCAs (e.g. [[4vca.md | 4VCA]]), you have 4 individual controllable signals which you can mix together with any of the mixer modules (e.g. [[4attmix.md | 4ATTMIX]]). The [[mixconsole.md | MIXCONSOLE]] module can have the signal straight from the Joystick module to control channel levels.
 
 The joystick can be just like a normal mod or pitch wheel; by taking the Y output to what you want to control by the up/down movement. If this goes to the CV in of a VCA, then the signal level of what is input to the VCA will be controlled - e.g. input a LFO with the output going to a VCO the joystick will control vibrato.
 
 You can do this with the side to side movement (x axis) as well, controlling 2 parameters at once - this could be filter cutoff, an oscillator level,  LFO speed etc etc etc... 
 
-The trigger can be used for a modulation envelope (e.g. pressing the button triggers a slow ENV which varies the filter cutoff), can be good for the [[https://wiki.aemodular.com/pmwiki.php/AeManual/ALGODRONE|Algodrone]] module and for manual triggering of percussion sounds.
-
-
-
-(:cell:) Mini:JOYSTICK.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
-
-
+The trigger can be used for a modulation envelope (e.g. pressing the button triggers a slow ENV which varies the filter cutoff), can be good for the [[algodrone.md | Algodrone]] module and for manual triggering of percussion sounds.

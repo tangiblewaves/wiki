@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# KICK
+[[img|modules/images/kick.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! KICK
 [[ https://www.tangiblewaves.com/store/p73/KICK.html | View Product Page]]
 
 Analogue drum machine style kick (bass) drum
@@ -30,13 +28,6 @@ Module power consumption: 3 mAå
 
 !!! Patch Suggestions
 
-The Kick module doesn't go very low in Pitch for modern tastes, going through one of the filters can fix this - the [[https://wiki.aemodular.com/pmwiki.php/AeManual/NYLEFILTER|Nyle Filter]] is recommended.
+The Kick module doesn't go very low in Pitch for modern tastes, going through one of the filters can fix this - the [[nyle-filter.md |Nyle Filter]] is recommended.
 
-The [[https://wiki.aemodular.com/pmwiki.php/AeManual/DELAY| Lo Fi delay]] can be fun... 
-
-(:cell:) Mini:kick.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
+The [[delay.md | Lo Fi delay]] can be fun... 

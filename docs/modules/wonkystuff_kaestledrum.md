@@ -1,10 +1,8 @@
-(:mini 200x400 :)
-
-!! Wonkystuff Kaestle Drum
+# wonkystuff kæstle drum
 
 [[https://wonkystuff.net/product/kaestledrum/ | View the shop page]]   
 
-This is Wonkystuff's take on the Bastl Instruments  [[https://bastl-instruments.com/instruments/kastle-drum/|Kastle Drum]], re-engineered to fit the AE modular format. 
+This is Wonkystuff's take on the Bastl Instruments  [[https://bastl-instruments.com/instruments/kastle-drum/ | Kastle Drum]], re-engineered to fit the AE modular format. 
 
 
 Module power consumption: 
@@ -73,7 +71,3 @@ This module screams more than most to be patched with the rest of the AE; an ext
 If Wonkystuff ever upgrade the firmware, or provide different programming for the module, you will be able to find it here:-
 
 https://github.com/wonkystuff/kastle
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! haLF unusual
+# haLF unusual
 
-Mini:profile.jpg
+[[img|artists/images/halfunusual.jpg|400]]
 
 The ‘hai’ in ‘haiku’ translates to ‘joke’, ‘fun’, or ‘unusual’. halF unusuaL is Darren Bourne, whose musical career to date spans international sound engineering, production, performing and writing credits across a variety of genres and platforms from pop to film and sound design to contemporary dance and theatre. His current obsessions are improvisation, chance and the music / non-music boundary.
 
@@ -21,8 +20,3 @@ AE Modular and 0-Coast set:
 Naviar Records Interview and live set:
 
 %embed% https://www.youtube.com/watch?v=GLga0ePNdAg %%
-
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

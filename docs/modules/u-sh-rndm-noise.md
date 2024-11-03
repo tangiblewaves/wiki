@@ -1,8 +1,6 @@
-(:mini 150x200 :)
+# µSH-RNDM-NOISE
+[[img|modules/images/uSH_RANDOM_NOISE.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! µSH-RNDM-NOISE
 [[https://www.tangiblewaves.com/store/p170/uS%26H_%2F_RANDOM_%2F_NOISE.html  | View Product Page]]
 
 This 1/3 height micro module is jam packed with features such as:
@@ -10,7 +8,7 @@ This 1/3 height micro module is jam packed with features such as:
 * Noise
 * Random clock
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
@@ -47,11 +45,3 @@ Module power consumption: ? mA
 This module is very similar to the combination of [[AeManual/NOISE]] and [[AeManual/SAMPLEHOLD]] and all the patch suggestions for those modules apply here as well.
 
 Track and hold is a very unusual function to be offered even in modular world, it can be a very interesting source of CVs; it can also be used to generate a semi-repetitive CV depending on the input.
-
-
-(:cell:) Mini:uSH_RANDOM_NOISE.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

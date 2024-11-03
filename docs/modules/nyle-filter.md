@@ -1,9 +1,6 @@
-(:mini 100x400 :)
+# NYLE FILTER (STEINER TYPE)
+[[img|modules/images/nylefilter.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-
-!! NYLE FILTER (STEINER TYPE)
 [[ https://www.tangiblewaves.com/store/p47/NYLE_FILTER_%28Steiner_type%29.html | View Product Page]]
 
 
@@ -53,10 +50,3 @@ Here is a video by [[User/The 5th Volt]] explaining how to use the NYLE Filter
 
 AE Modular filter comparison:
 %embed% https://www.youtube.com/watch?v=ZY9VkSyMrik %%
-
-(:cell:) Mini:nylefilter.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

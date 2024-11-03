@@ -1,9 +1,6 @@
-(:mini 100x400 :)
+# RAINS
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! Rains
-[[https://www.tangiblewaves.com/store/p186/RAINS.html| View Product Page]]
+[[https://www.tangiblewaves.com/store/p186/RAINS.html | View Product Page]]
 
 RAINS is the AE modular adaption of Mutable Instruments' Rings module. Rings was (as not in production anymore) a resonator.
 
@@ -80,10 +77,3 @@ It is well worth experimenting with the different modes of Poly & Type, One I fo
 There are also several hidden "easter egg" modes, as per the original module; this link explains them pretty well, [[ https://www.infinitesimal.eu/modules/index.php/Mutable_Instruments_Rings | LINK]], but this video by    faux cyrillic is specific to the Rains and really helpful:-
 
 %embed% https://www.youtube.com/watch?v=_WYS1sy-Yr8 %%
-
-(:cell:) Mini:
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

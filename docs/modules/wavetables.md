@@ -1,8 +1,5 @@
-(:mini 200x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! WAVETABLES
+# WAVETABLES
+[[img|modules/images/wavetables.png|200]]
 
 [[https://www.tangiblewaves.com/store/p105/WAVETABLES.html | View Product Page]]
 
@@ -48,9 +45,3 @@ If you want something a bit more experimental, you can use a [[https://wiki.aemo
 Thanks to Felix from The Tuesday Night Machines for this excellent demo video:
 
 %embed% https://www.youtube.com/watch?v=XcHaxjhjuIY %%
-
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

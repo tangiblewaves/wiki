@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# SVFILTER (STATE VARIABLE)
+[[img|modules/images/svfilter.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! SVFILTER (STATE VARIABLE)
 [[ https://www.tangiblewaves.com/store/p61/SVFILTER_.html | View Product Page]]
 
 This filter module is a classic state variable filter.
@@ -50,10 +48,3 @@ It can be interesting to combine the different outputs from the filter as they e
 
 AE Modular filter comparison:
 %embed% https://www.youtube.com/watch?v=ZY9VkSyMrik %%
-
-(:cell:) Mini:svfilter.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

@@ -1,7 +1,6 @@
-(:mini 400x200 :)
-! Artist
+# Foggel
 
-Mini:profile.jpg
+[[img|artists/images/foggel.jpg|400]]
 
 I am a multi-instrumentalist and recovering singer-songwriter from Norway, residing in Denmark.
 
@@ -14,7 +13,3 @@ I use the Arturia MicroFreak to control the starter rack, and this helps me inte
 !! Social Media Links
 
 * [[https://soundcloud.com/user-401968979 | Soundcloud]]
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

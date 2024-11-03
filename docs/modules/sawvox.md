@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# SAWVOX
+[[img|modules/images/SAWVOX.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! SAWVOX
 [[https://www.tangiblewaves.com/store/p98/SAWVOX.html | View Product Page]]
 
 The SAWVOX module is a “complete” synth voice with two sawtooth oscillators, a filter and a VCA, all realized digitally with a tiny 8-bit microcontroller. The oscillators are detuned by a fixed rate to get a fatter sound, and can be switched to a single oscillator. Of course, due to the limited resources of the processor, the sound has the typical 8-bit lofi char, but the CV tracking is quite fine, and it can find its place in a lot of patches. All parameters can be CV controlled, eg. filter frequency and resonance.
@@ -40,10 +38,3 @@ If you haven't got the fine control you desire for a particular patch then, as a
 Here is a video by The 5th Volt which features this module.
 
 %embed% https://youtu.be/J5syne2sP6I %%
-
-(:cell:) Mini:SAWVOX.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

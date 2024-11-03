@@ -1,10 +1,8 @@
-(:mini 200x400 :)
-
-!! 2AUTO
+# kyaa 2AUTO
 
 This is a touch sensative knob movement recorder which generates CVs. The signal can be live, single trigger or looped amongst other permutations. There are 2 independent recorders.
 
-[[https://kyaa.co/product/2auto| View Kyaa's Shop Page]] - currently on pre-orders for the next production batch.
+[[https://kyaa.co/product/2auto | View Kyaa's Shop Page]] - currently on pre-orders for the next production batch.
 
 Module power consumption: 
 
@@ -47,8 +45,3 @@ Switches -
 RSKT has done another excllent video on this module:-
 
 %embed%  https://www.youtube.com/watch?v=GZRyBf_RDqc %%
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

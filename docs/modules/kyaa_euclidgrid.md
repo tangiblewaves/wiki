@@ -1,6 +1,5 @@
-(:mini 200x400 :)
-
-!! Euclid Grid
+# kyaa Euclid Grid
+[[img|modules/images/euclidgrid.png|200]]
 
 This is a 4 channel Euclidean step sequencer with a colourful animated display and hands on performance controls.
 
@@ -8,7 +7,8 @@ This is a 4 channel Euclidean step sequencer with a colourful animated display a
 
 [[https://kyaa.co/wp-content/uploads/2021/11/Euclid-Grid-Manual-v1.0.html | Module Manual]]
 
-Mini:euclidgrid.png
+TODO: Fix Table layout!
+
 
         '''Sequence'''  '''Display Colour'''
               A	   Cyan
@@ -116,8 +116,3 @@ Here is an introductory video by the 5th Volt...
 and this one with some amazing patches towards the end by RSKT...
 
 %embed% https://youtu.be/jHgDWFarmVM %%
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

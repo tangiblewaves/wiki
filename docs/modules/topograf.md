@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# TOPOGRAF
+[[img|modules/images/topograf.png|200]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! TOPOGRAF
 [[ https://www.tangiblewaves.com/store/p76/TOPOGRAF.html | View Product Page]]
 
 TOPOGRAF is a drum sequencer with three tracks, that works with a "topographic" principle; it contains a number of drum patterns arranged in a "virtual map"; and with two knobs MAP X and MAP Y you can set a position in this map. With one knob per channel the density is defined; and a CHAOS knob brings some randomness into the whole process. All in all a few knobs for a lot of drum patterns you probably wouldn't make this way by yourself - a nice source of inspiration and alo great for playing live.
@@ -81,11 +79,3 @@ You're going to have some pretty groovy bass lines with that
 * [[https://wiki.aemodular.com/pmwiki.php/AeManual/LOGIC| AND]]  the HH and the kick, and use it to trigger both your voice's EG and the S&H
 * Use the output of the S&H as you voice's pitch
 You'll have a stable melody that will skip steps according to the state of the Topograf
-
-(:cell:) Mini:topograf.png
-(:tableend:)
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

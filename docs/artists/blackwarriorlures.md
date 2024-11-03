@@ -1,7 +1,6 @@
-(:mini 400x400 :)
-! Black Warrior Lures
+# Black Warrior Lures
 
-Mini:profile.jpg
+[[img|artists/images/blackwarriorlures.jpg|400]]
 
 I'm a fisherman, and I make fishing content on YouTube. These are more than fishing videos. They are true documentary short films. After exhausting much of the music in the YouTube database, I decided to put my music training to work and score my own videos/films using modular synthesizers.
 
@@ -25,8 +24,3 @@ I have upgraded my AE modular synthesizer a MONSTACASE (4 rows of 20U). I don't 
 This year I bought an Avante Achromic AS8 column PA system. Boy, it's sleek, and it sounds great! It's a portable PA system design to make a wide swath of sound without it being painfully loud as most loudspeakers. I call it the Megalith!
  
 I compose all the music for my YouTube channel. Cameras are a pair of Z-cam E2C cinema cameras with vintage Canon FD lenses. Ninja V and a Ninja 2 video recorders recording in Apple Prores HQ.
- 
-
-[[AeMusic/MeetTheArtists | <-- Back to Artist Index]]
-
-This page is part of the index of artists of the AE Modular community. If you perform and record with your AE Modular system, then we would love for you to be featured here as well. Please read the information about how to join in [[ https://forum.aemodular.com/thread/772/page-on-wiki-meet-artists | this post on the forum]].

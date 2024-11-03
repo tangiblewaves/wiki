@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# POLAMIX
+[[img|modules/images/POLAMIX.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! POLAMIX
 [[https://www.tangiblewaves.com/store/p94/POLAMIX.html | View Product Page]]
 
 The POLAMIX is similar to the [[AeManual/2CVTOOL]] in that you can offset, attenuate and invert signals, but it also acts as a 3 channel mixer. Try to use this with 3 LFOs for modulation mayhem!
@@ -35,13 +33,3 @@ It makes an excellent submixer to combine the [[https://wiki.aemodular.com/pmwik
 Overview video by The Tuesday Night Machines:
 
 %embed% https://youtu.be/otmA2-36ZSw %%
-
-
-%embed%  %%
-
-(:cell:) Mini:POLAMIX.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

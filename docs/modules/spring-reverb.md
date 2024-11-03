@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# SPRINGREVERB
+[[img|modules/images/springreverb.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! SPRINGREVERB
 [[ https://www.tangiblewaves.com/store/p40/SPRINGREVERB_%28module_only%29.html | View Product Page]]
 
 Spring reverbs were an early attempt to create electronic reverb audio effects without requiring an actual large space or echo chamber. While their sound might not be very natural, its unique characteristics have gathered a big following among musicians. Spring reverbs are also relatively small and affordable.
@@ -41,12 +39,3 @@ The reverberated signal can, of course, be fed back into any module; the [[PHASE
 - In this [[http://forum.aemodular.com/thread/40/simple-diy-module-reverb-tank | AE Modular forum thread]], user NightMachines built a small reverb tank into a DIY module with exposed springs. In the following video you can see and hear the right hand plucking the springs at 19 seconds and later:
 
 %embed% https://www.youtube.com/watch?v=Xzqmevw1m3Y %%
-
-
-
-(:cell:) Mini:springreverb.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

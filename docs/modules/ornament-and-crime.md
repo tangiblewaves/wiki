@@ -1,13 +1,11 @@
-(:mini 200x400 :)
+# ORNAMENT & CRIME
+[[img|modules/images/ORNAMENT_CRIME.png|200]]
 
-!! ORNAMENT & CRIME
 [[ https://www.tangiblewaves.com/store/p154/ORNAMENT_%26_CRIME.html | View Product Page]]
 
 This is a clone of a special and well-known Eurorack module, which offers a hundred ways of processing and generating CV and modulation signals. The AE version behaves in any way just like the Eurorack module (except for the ability of processing negative voltages which simply don't exist in AE) and may well become the brain in your rack. The module is based on a Teensy 3.2 microcontroller board and can easily be reprogrammed. You can choose whether to get the original firmware or the alternative Hemisphere Suite pre-installed.
 
 Module power consumption: 60 mA
-
-Mini:ORNAMENT_CRIME.png
 
 !!! Inputs 
 
@@ -70,8 +68,3 @@ https://forum.aemodular.com/thread/2081/cv-output-high-stock-firmware
 Synthdad has a whole playlist on YouTube with tutorials and patch suggestions for various original modes and some Hemisphere applets:
 
 https://www.youtube.com/playlist?list=PL-oO_kqREhTeKHHsymeiFvyEeRVmWj0BZ
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

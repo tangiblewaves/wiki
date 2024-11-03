@@ -1,11 +1,9 @@
-!! WonkyStuff hh110
-
-
+# wonkystuff hh110 µModule
 
 This 1/3 height micro module is a clone of the open/closed hihat voice from the Boss DR-110. The duration of the open-hihat is brought to a front-panel control for a bit of manual variation.
 
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 [[ https://wonkystuff.net/product/hh110-micromodule/ | View Product Page]]
 

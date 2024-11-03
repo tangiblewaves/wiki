@@ -1,6 +1,6 @@
-(:mini 200x400 :)
+# MULTIFX
+[[img|modules/images/multifx.png|200]]
 
-!! MULTIFX
 [[ https://www.tangiblewaves.com/store/p51/MULTIFX.html | View Product Page]]
 
 A digital multi-FX unit which can be mono or stereo. There are 15 different programmes, each with 3 parameters that can be adjusted via the front panel knobs or CV. The programmes are listed on the display on the lower right hand side of the module, with the current selection being lit up.
@@ -8,8 +8,6 @@ A digital multi-FX unit which can be mono or stereo. There are 15 different prog
 Module power consumption: 64 mA
 
 The video at the bottom of this page gives an excellent demo of what this module can do.
-
-Mini:multifx.png
 
 !!! Inputs
 
@@ -36,6 +34,9 @@ Mini:multifx.png
 * '''Par 2''' Knob - sets the amount of Parameter 2 for the selected program, usually Reflections/repeats level
 * '''Par 3''' Knob - sets the amount of Parameter 3 for the selected program, usually Brightness/LPF cut off.
 
+
+TODO: Fix Table layout
+
 !!! Effects Parameters
 || border=1 cellpadding="5"
 ||! Program ||! Param 1 ||! Param 2 ||! Param 3 ||
@@ -58,11 +59,11 @@ Mini:multifx.png
 
 !!! Patch Suggestions
 
-This module is useful to create a stereo output from the AE modular, and can be sent out via the 2 I/Os on the Master module, or 2 of the [[https://wiki.aemodular.com/pmwiki.php/AeManual/4IO|4 I/O module]] routes.
+This module is useful to create a stereo output from the AE modular, and can be sent out via the 2 I/Os on the Master module, or 2 of the [[4io.md |4I/O module]] routes.
 
 The reverbs and shimmer are excellent for drones/pads etc.
 
-It can be used in conjunction with the [[https://wiki.aemodular.com/pmwiki.php/AeManual/DELAY|Lo-fi delay]] to get echo type sounds with other FX, usually reverb.
+It can be used in conjunction with the [[delay.md | Lo-fi delay]] to get echo type sounds with other FX, usually reverb.
 
 The Mono output can be excellent to feed back into the AE modular to process the sound further, e.g. a filter on a reverb'ed lead sound can be really good. Do watch for causing feedback within the AE modular.
 
@@ -70,7 +71,3 @@ A slow attack envelope can increase one or more of the parameters which, usually
 
 This video by TheTuesdayNightMachines is a great demo of the different modes and effects of this module
 %embed% https://youtu.be/TW_Qw_0zdlM %%
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

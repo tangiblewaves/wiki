@@ -54,9 +54,9 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[krakenkraft.md|Krakenkraft]] - Ambient electronica with Berlin School influences
 
-[[martynstonehouse .md| Martyn Stonehouse aka DATAStream]] - Music for Videogames Wizard
+[[martynstonehouse.md| Martyn Stonehouse aka DATAStream]] - Music for Videogames Wizard
 
-[[mathiascapdet .md| Mathias Capdet]] - Exploring generative processes
+[[mathiascapdet.md| Mathias Capdet]] - Exploring generative processes
 
 [[maxrichardson.md|Max Richardson]] - From classical compositions to avant-garde electronica
 

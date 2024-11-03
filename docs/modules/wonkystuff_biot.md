@@ -1,7 +1,5 @@
-(:mini 100x400 :)
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! BioT
+# wonkystuff BioT
+[[img|modules/images/BioT-Panel.png|100]]
 
 A touch plate for the AE Modular. You can buy the DIY kit from either of these websites:
 
@@ -24,13 +22,3 @@ Also try with the audio signal directly through it, rather than as a CV control.
 See also this video from Max Richardson as a demonstration...
 
 %embed% https://www.youtube.com/shorts/wqhNF0M0uoM %%
-
-
-(:cell:) Mini:BioT-Panel.png
-(:tableend:)
-
-
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

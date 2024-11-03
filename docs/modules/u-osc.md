@@ -1,9 +1,8 @@
-(:mini 150x200 :)
+# µOSC
+[[img|modules/images/uOSC.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! µOSC
-[[https://www.tangiblewaves.com/store/p180/uUSC.html  | View Product Page]]
+[[https://www.tangiblewaves.com/store/p220/uOSC.html | View Product Page]]
+
 
 This micro module is a tiny, multifunctional oscillator module that offers a variety of waveforms:
 * Sawtooth
@@ -11,9 +10,8 @@ This micro module is a tiny, multifunctional oscillator module that offers a var
 * Triangle/Sine
 * three different wavetables
 It offers knobs and CV control for pitch and shape (variations of the base waveform). Additionally, it can be controlled via IMDI and supports note/pitch, pitchbend, Assignable controller for shape and pitchbend range can be set via IMDI/MIDI by the specified controller message.
-.
 
-This module needs to be installed on the [[AeManual/uBASE | µBASE]] module!
+This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
@@ -45,12 +43,3 @@ red: sawtooth, green: pulse, orange: triangle/sine, blinking ###EXPLAIN: wavetab
 * in wavetable modes: scans through the wavetable waveforms
 
 !!! Patch Suggestions
-
-
-
-(:cell:) Mini:uOSC.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
