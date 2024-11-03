@@ -66,7 +66,7 @@ This setting has no effect in Mode 3.
 Short pressing the MAN TRIG button exits the Configuration mode and returns to regular operation.
 
 
-! Patch Suggestions
+!!! Patch Suggestions
 
 The most obvious use for this module is "echo" type FX, repeating a sound as set by the module controls.
 
