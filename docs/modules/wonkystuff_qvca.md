@@ -20,7 +20,7 @@ https://wonkystuff.net/product/qvca-black/  The current model with a black front
 
 * There are none!
 
-! Patch Suggestions
+!!! Patch Suggestions
 
 This is a good module to do stereo with, as the panning can be CV controlled.  Send to the CV output of the left or right channel to the CV input of the channel doing the other side.  
 

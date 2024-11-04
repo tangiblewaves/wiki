@@ -13,11 +13,11 @@ Module power consumption: 15mA
 
 Mini:mixconsole3ch.png
 
-! Inputs
+!!! Inputs
 
 * '''IN 1''' - '''IN 3''' - the signal in for each of the 3 channels.
 * '''CV 1''' - '''CV 3''' - the CV input for each channel which works in conjunction with the same numbered level knob.
-! Controls
+!!! Controls
 
 Each channel has 4 knobs with the same function, (Channel number is by the level knob):-
 
@@ -28,6 +28,6 @@ Each channel has 4 knobs with the same function, (Channel number is by the level
 
 Do bear in mind that the amount of signal sent to the FXs (and their return level) will also affect the apparent loudness of the sound as well as the level control.
 
-! Patch Suggestions
+!!! Patch Suggestions
 
 Please see the [[mixconsole.md | MIXCONSOLE]] page for further reading.

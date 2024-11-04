@@ -35,26 +35,25 @@ The video at the bottom of this page gives an excellent demo of what this module
 * '''Par 3''' Knob - sets the amount of Parameter 3 for the selected program, usually Brightness/LPF cut off.
 
 
-TODO: Fix Table layout
-
 !!! Effects Parameters
-|| border=1 cellpadding="5"
-||! Program ||! Param 1 ||! Param 2 ||! Param 3 ||
-||REVERB 1 ||Reverb time ||High Filter ||Low Filter ||
-||REVERB 2||Reverb time ||High Filter ||Low Filter ||
-||DEEP SPACE ||Reverb time ||Delay Time ||High Filter ||
-||RESOVERB ||Reverb time || Resonance frequency ||Resonance feedback ||
-||SHIMMER ||Shimmer ||Shimmer feedback ||Reverb time ||
-||PINGPONG ||Delay time ||Feedback ||HighFilter ||
-||DUAL DLY||Delay Time Left ||Delay Time Right ||Feedback ||
-||DELAY+REV ||Delay time ||Feedback ||Reverb mix ||
-||FLANGER ||Reverb mix ||Flanger Rate ||Flanger mix ||
-||CHORUS ||Reverb mix ||Chorus Rate ||Chorus mix ||
-||PITCH SH ||Pitch +/- 4 semitones|| || ||
-||PITCH DLY ||Pitch Shift ||Delay time ||Delay mix ||
-||TREM REV ||Reverb mix ||Tremolo rate ||Tremolo mix ||
-||GLITCH DLY ||Delay time ||Feedback/Alias ||Pitch shift ||
-||RING CRSH||OSC Pitch ||Crusher mix ||Reverb mix ||
+
+|Program |Param 1 |Param 2 |Param 3 |
+| -------- | -------- |-------- | -------- |
+|REVERB 1 |Reverb time |High Filter |Low Filter |
+|REVERB 2|Reverb time |High Filter |Low Filter |
+|DEEP SPACE |Reverb time |Delay Time |High Filter |
+|RESOVERB |Reverb time | Resonance frequency |Resonance feedback |
+|SHIMMER |Shimmer |Shimmer feedback |Reverb time |
+|PINGPONG |Delay time |Feedback |HighFilter |
+|DUAL DLY|Delay Time Left |Delay Time Right |Feedback |
+|DELAY+REV |Delay time |Feedback |Reverb mix |
+|FLANGER |Reverb mix |Flanger Rate |Flanger mix |
+|CHORUS |Reverb mix |Chorus Rate |Chorus mix |
+|PITCH SH |Pitch +/- 4 semitones| | |
+|PITCH DLY |Pitch Shift |Delay time |Delay mix |
+|TREM REV |Reverb mix |Tremolo rate |Tremolo mix |
+|GLITCH DLY |Delay time |Feedback/Alias |Pitch shift |
+|RING CRSH|OSC Pitch |Crusher mix |Reverb mix |
 
 
 !!! Patch Suggestions

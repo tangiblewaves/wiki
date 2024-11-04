@@ -1,5 +1,5 @@
 # NYLE FILTER (STEINER TYPE)
-[[img|modules/images/nylefilter.png|100]]
+[[img|modules/images/nylefilter.png|200]]
 
 [[ https://www.tangiblewaves.com/store/p47/NYLE_FILTER_%28Steiner_type%29.html | View Product Page]]
 

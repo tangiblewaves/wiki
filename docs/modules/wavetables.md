@@ -3,7 +3,7 @@
 
 [[https://www.tangiblewaves.com/store/p105/WAVETABLES.html | View Product Page]]
 
-The WAVETABLES module is a sound module based on the wavetable technology first heard on the PPG range of synthesisers. It has been developed in close collaboration with Paula Maddox from [[http://dove-audio.com/|DOVE Audio]] who is also the designer of such classic synths as the Modal 002, Modal 001 and Modal 008 from Modal Electronics.
+The WAVETABLES module is a sound module based on the wavetable technology first heard on the PPG range of synthesisers. It has been developed in close collaboration with Paula Maddox from [[http://dove-audio.com/ | DOVE Audio]] who is also the designer of such classic synths as the Modal 002, Modal 001 and Modal 008 from Modal Electronics.
  
 There are 7 different tables each with their own unique sound, from very gentle, though vocal sounds, into rich bell like tones to harsh digital tones. Each table has a number of waveforms that can be morphed into each other as you scan through them with either a potentiometer or CV control.
 
@@ -33,13 +33,13 @@ Module power consumption: 40 mA
  
 !!! Patch Suggestions
 
-The output of this module obviously can be run through the rest of the AE system, a hybrid digital/analogue synth at a very good price!   The [[https://wiki.aemodular.com/pmwiki.php/AeManual/NYLEFILTER| Nyle filter]] with its CV adjustable resonance is recommended...
+The output of this module obviously can be run through the rest of the AE system, a hybrid digital/analogue synth at a very good price!   The [[ nyle-filter.md | Nyle filter]] with its CV adjustable resonance is recommended...
 
-The CV control of the wavetable position is an amazing tool; using an [[https://wiki.aemodular.com/pmwiki.php/AeManual/ADSR| envelope]] you can get subtle or bonkers effects that change as you hold a key down. 
+The CV control of the wavetable position is an amazing tool; using an [[ adsr.md | envelope]] you can get subtle or bonkers effects that change as you hold a key down. 
 
-In a similar vein, using an LFO square wave and the wave mod knob, you can set the wavetable position so it alternates between 2 waveforms.  An attuenator, (e.g. [[ https://wiki.aemodular.com/pmwiki.php/AeManual/2CVTOOL| 2CVTOOL]] can be helpful here.
+In a similar vein, using an LFO square wave and the wave mod knob, you can set the wavetable position so it alternates between 2 waveforms.  An attuenator, (e.g. [[ 2cvtool.md| 2CVTOOL]] can be helpful here.
 
-If you want something a bit more experimental, you can use a [[https://wiki.aemodular.com/pmwiki.php/AeManual/SAMPLEHOLD| Sample-and-Hold]] to randomly select the waveform, and if you put that through the [[https://wiki.aemodular.com/pmwiki.php/AeManual/SLEWEDGE| SLEW LIMITER]]  first  you can control how smoothly it jumps between waveforms. 
+If you want something a bit more experimental, you can use a [[ sample-and-hold.md | Sample-and-Hold]] to randomly select the waveform, and if you put that through the [[ slew-edge.md | SLEW LIMITER]]  first  you can control how smoothly it jumps between waveforms. 
 
 !!! Demo
 Thanks to Felix from The Tuesday Night Machines for this excellent demo video:

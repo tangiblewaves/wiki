@@ -7,14 +7,13 @@ This is a 4 channel Euclidean step sequencer with a colourful animated display a
 
 [[https://kyaa.co/wp-content/uploads/2021/11/Euclid-Grid-Manual-v1.0.html | Module Manual]]
 
-TODO: Fix Table layout!
 
-
-        '''Sequence'''  '''Display Colour'''
-              A	   Cyan
-              B	   Magenta
-              C	   Yellow
-              D	   Green
+| Sequence | Display Colour |
+| :-: | :-: |
+| A | Cyan |
+| B | Magenta |
+| C | Yellow |
+| D | Green |
 
 
 Module power consumption: 2.5 mA
@@ -65,7 +64,7 @@ Step modes determine how the sequence plays. These are the available modes:-
 '''How to perform a sequence.'''
 
 * '''Mute'''	Stops the active sequence from playing. Can be a toggle switch, or  muted as the button is held down.
-* '''Fill'''	        Adds additional notes to the active sequence. Can be a toggle switch, or the fill plays whilst the button is  held down. If you want to trigger fills on the other sequences, you need to use the lettered inputs; in this way it is possible to have fills triggered on all 4 sequences simultaneously. The Gate output on the [[JOYSTICK]] module could be used, or the  [[6MUTE]] controlling +5V CVs from, for example, the [[2ATTCV]] module.
+* '''Fill'''	        Adds additional notes to the active sequence. Can be a toggle switch, or the fill plays whilst the button is  held down. If you want to trigger fills on the other sequences, you need to use the lettered inputs; in this way it is possible to have fills triggered on all 4 sequences simultaneously. The Gate output on the [[ joystick.md | JOYSTICK ]] module could be used, or the  [[ 6mute.md | 6MUTE ]] controlling +5V CVs from, for example, the [[ 2attcv.md | 2ATTCV ]] module.
 
 '''What is a Fill?'''
 On Euclid Grid, a Fill is a secondary Euclidean sequence that is overlaid over the first. They are represented with the color white.
@@ -105,9 +104,9 @@ A Euclid sequence will always try to evenly space the triggers as much as possib
 
 and the key here is to then '''run the sequence in vertical mode'''.  Variations on this idea are myriad....
 
-The individual trigger outs can also be used to vary your sequence, by using an attenuator  if needed to give you control over the amount. The [[2ATTCV]] and [[4ATTMIX]] give you the attenuation/ control required. Might also be good with the [[ADSR]].... 
+The individual trigger outs can also be used to vary your sequence, by using an attenuator  if needed to give you control over the amount. The [[ 2attcv.md | 2ATTCV ]] and [[ 4attmix.md | 4ATTMIX ]] give you the attenuation/ control required. Might also be good with the [[ adsr.md | ADSR ]].... 
 
-As this module can produce 4 independent patterns of triggers, plus the individual column outs, module like the [[LOGIC]], [[3VCSWITCH]] and [[OR2x4]] may well be interesting...
+As this module can produce 4 independent patterns of triggers, plus the individual column outs, module like the [[ logic.md | LOGIC ]], [[ 3vcswitch.md | 3VCSWITCH]] and [[ or2x4.md | OR2x4]] may well be interesting...
 
 Here is an introductory video by the 5th Volt...
 
