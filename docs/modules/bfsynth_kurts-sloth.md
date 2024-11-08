@@ -7,7 +7,7 @@ Kurt's Sloth comes as a complete kit with everything you need included. The buil
 
 There are three, slowly moving outputs which are perfect for modulating parameters to bring movement to your patches. One large cycle usually takes about 15 seconds. Each output can 'orbit' around two different CV points, and can change from the one center to the other, seemingly at random, with little user control.
 
-Also check out the newer module from BF Synth: [BF-21 2SLOTH](bfsynth_bf21-2sloth.md)
+Also check out the newer module from BF Synth: [[bfsynth_bf21-2sloth.md | BF-21 2SLOTH]]
 
 !!! Inputs
 

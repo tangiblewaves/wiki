@@ -86,7 +86,7 @@ Using the existing codes as example you can either make changes to them or devel
 [[img|modules/images/ide-board.png|500]]
 
 
-'''WARNING''' It is possible to "brick" your GRAINS with certain operations when you develop and test your own firmware programs! This has happened once and you can find how that happened and how it was resolved in this [[https://forum.aemodular.com/thread/1858/serialport-show-anymore-brick-grains|thread on the forum]].
+'''WARNING''' It is possible to "brick" your GRAINS with certain operations when you develop and test your own firmware programs! This has happened once and you can find how that happened and how it was resolved in this [[ https://forum.aemodular.com/thread/1858/serialport-show-anymore-brick-grains | thread on the forum]].
 
 !!! Patch examples
 
@@ -102,7 +102,7 @@ https://forum.aemodular.com/board/24/programming-grains
 This code repository contains various firmwares that have been developed specifically for the AE Modular GRAINS module. This has started with the work by German author and software developer Mathias aka @visuellemusik. We encourage you to analyse the code and post your own firmware which we would add to this growing repository. With V2 of GRAINS building your own firmware using the Mozzi Library is possible now, too.
 With such a firmware the Mode-Switch as explained above and also symbolized in the schematics has to be set to 'M'. Please be aware that some versions of the Mozzi-Library did not work as expected in combination with certain versions of the Arduino IDE. An overview of recommended combinations of the two environments, including prereleases of Mozzi can be found here: https://github.com/sensorium/Mozzi/releases
 
-[[https://github.com/aemodular/GRAINS]]
+[[ https://github.com/aemodular/GRAINS ]]
 
 You can download each firmware as an individual zip file or the whole lot from the [[https://github.com/aemodular/GRAINS/releases | Release Page]].
 
