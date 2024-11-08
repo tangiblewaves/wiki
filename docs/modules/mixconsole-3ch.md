@@ -11,8 +11,6 @@ The great thing is that you can chain as many of the 3CH modules as you like so 
 
 Module power consumption: 15mA
 
-Mini:mixconsole3ch.png
-
 !!! Inputs
 
 * '''IN 1''' - '''IN 3''' - the signal in for each of the 3 channels.
