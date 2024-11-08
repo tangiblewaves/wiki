@@ -18,8 +18,6 @@ The outputs are buffered and have a small amount of gain. Each output has multip
 
 Module power consumption: <1 mA
 
-Mini:wsmm33.png
-
 !!! Inputs
 
 Version 1

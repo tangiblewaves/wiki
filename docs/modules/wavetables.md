@@ -7,8 +7,6 @@ The WAVETABLES module is a sound module based on the wavetable technology first 
  
 There are 7 different tables each with their own unique sound, from very gentle, though vocal sounds, into rich bell like tones to harsh digital tones. Each table has a number of waveforms that can be morphed into each other as you scan through them with either a potentiometer or CV control.
 
-Mini:wavetables.png
-
 Module power consumption: 40 mA
 
 !!! Inputs
