@@ -1,8 +1,5 @@
-(:mini 200x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! AEuroPi
+# AEuroPi
+[[img|modules/images/AEuroPi_current_panel_W.png|200]]
 
 [[https://www.tindie.com/products/fauxcyrillic/aeuropi/ | View Product Page]]
 
@@ -118,11 +115,3 @@ https://forum.aemodular.com/thread/2745/aeuropi-firmware
 API documentation is available here:
 
 https://allen-synthesis.github.io/EuroPi/
-
-
-(:cell:) Mini:AEuroPi_current_panel_W.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

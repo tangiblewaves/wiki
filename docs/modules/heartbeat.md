@@ -1,9 +1,5 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-
-!! HEARTBEAT
+# HEARTBEAT
+[[img|modules/images/heartbeat.png|100]]
 
 [[https://www.tangiblewaves.com/store/p157/HEARTBEAT.html | View Product Page]]
 
@@ -49,10 +45,3 @@ The use of a master clock that gives up to 6 different outputs means you could h
 There is an extender module which gives the use more possibilities:-
 
 [[heartbeat-extender.md|HEARTBEATEXTENDER]]
-
-(:cell:) Mini:HEARTBEAT.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

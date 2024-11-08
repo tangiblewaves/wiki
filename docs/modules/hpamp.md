@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# HPAMP
+[[img|modules/images/hpamp.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! HPAMP
 [[ https://www.tangiblewaves.com/store/p36/HPAMP.html | View Product Page]]
 
 This module provides an output for 1 or 2 pairs of headphones. It means you can listen to the AE modular without external studio equipment.
@@ -31,10 +29,3 @@ This module is essential if you want to play with just your your AE modular, and
 The [[https://wiki.aemodular.com/pmwiki.php/AeManual/MULTIFX|Multi-FX module]] is great for taking a mono signal and making it stereo before that goes to the HPAMP module. Another option is the [[https://wiki.aemodular.com/pmwiki.php/AeManual/MIXCONSOLE|Mixconsole]].
 
 '''NOTE:''' due to the signal amplification there can be a noticeable hum or noise when using this to connect to line level equipment like recorders or mixers. For mixing and recording it is better to use the outputs from the Master module or 4I/O which are line level.
-
-(:cell:) Mini:hpamp.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

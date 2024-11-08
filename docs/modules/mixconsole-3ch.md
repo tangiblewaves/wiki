@@ -1,5 +1,5 @@
 # MIXCONSOLE/3CH
-[[img|modules/images/mixconsole3ch.png|300]]
+[[img|modules/images/mixconsole3ch.png|400]]
 
 [[ https://www.tangiblewaves.com/store/p109/MIXCONSOLE_-_3CH.html | View Product Page]]
 

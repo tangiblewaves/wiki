@@ -1,5 +1,4 @@
-(:mini 200x400:)
-!! TUBE-VU
+# TUBE-VU
 
 [[https://www.tangiblewaves.com/store/p141/TUBE-VU.html | Product Page]]
 
@@ -7,7 +6,6 @@ Please note that this module must have a separate 9V power supply to the rest of
 
 A brilliant module for people who use their AE live.
 
-Mini:TUBE-VU.png
 
 !!! Input
 
@@ -41,7 +39,3 @@ The brighter the tube the louder the signal...
 !!! Patch Suggestions
 
 The main reason for 2 circuits in this module is so you can do stereo, but it can be really good to have 2 different sounds so the Tubes vary individually.
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
