@@ -86,7 +86,8 @@ Potentiometers are RK09 type, 20mm high. Typically no additional knobs, only the
 
 For connecting to the bus cable, each module has a 2x5 male pin header at the right bottom end of the module
 
-Attach:pcbcontrols.png
+[[img|diy/images/pcbcontrols.png|300]]
+
 
 #### Front Panels
 
