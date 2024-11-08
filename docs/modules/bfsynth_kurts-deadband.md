@@ -1,8 +1,8 @@
-! BF Synth - Kurt's Dead Band
+# BF Synth - Kurt's Dead Band
 
 Kurt's Dead Band module is a unique waveshaper, it is able to shape both audio and CV/DC inputs. It will introduce a so-called 'Dead Band': a portion of your input wave will be snapped to one voltage of your choice. In this way, you can introduce a 'pause' in your waveform. On audio it can give phaser-like effects, but depending on the complexity of the input waveform, it can also sound like a unique kind of filter. On CV you can introduce a steady 'pause' in your CV signal, or you can introduce a sudden vertical 'bump' if you use the vertical dead band setting. You can determine the location of the Dead Band (eg at 2V), and also the size around that voltage that gets snapped to the preset voltage. The location can be controlled with CV input.
 
-You can purchase the module here: [[https://www.tindie.com/products/bfsynths/kurts-dead-band-kit/]]
+You can purchase the module here: [[https://www.tindie.com/products/bfsynths/kurts-dead-band-kit/ ]]
  
 !! Inputs
  
