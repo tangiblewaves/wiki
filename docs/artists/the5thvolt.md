@@ -8,7 +8,7 @@ I've also started and maintain the [[https://forum.aemodular.com | AE Modular fo
 
 !! Links
 
-* [[https://the5thvolt.com | www.the5thvolt.com]]
+* [[https://the5thvolt.com | www.the5thvolt.com ]]
 * [[https://youtube.com/c/the5thvolt | YouTube]]
 * [[https://the5thvolt.bandcamp.com | Bandcamp]]
 * [[https://www.instagram.com/the5thvolt/ | Instagram]]

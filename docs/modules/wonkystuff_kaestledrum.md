@@ -1,5 +1,7 @@
 # wonkystuff kæstle drum
 
+[[img|/modules/images/wskaestledrum.jpeg|200]]
+
 [[https://wonkystuff.net/product/kaestledrum/ | View the shop page]]   
 
 This is Wonkystuff's take on the Bastl Instruments  [[https://bastl-instruments.com/instruments/kastle-drum/ | Kastle Drum]], re-engineered to fit the AE modular format. 

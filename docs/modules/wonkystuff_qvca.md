@@ -1,5 +1,7 @@
 # wonkystuff qvca
 
+[[img|/modules/images/wsqvca.jpeg|100]]
+
 This is quad VCA which is designed only for audio use (unlike the standard Tangible Waves [[2VCA]] which can be applied to both audio and CV signals).
 
 https://wonkystuff.net/product/qvca/  The original production run of red fronted modules.

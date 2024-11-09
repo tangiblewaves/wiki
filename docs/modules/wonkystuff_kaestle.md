@@ -1,5 +1,7 @@
 # wonkystuff kæstle
 
+[[img|/modules/images/wskaestle.jpeg|200]]
+
 [[https://wonkystuff.net/product/kaestle/ | View the shop page]]   
 
 This is Wonkystuff's take on the Bastl Instruments reknown [[https://bastl-instruments.com/instruments/kastle/ | Kastle minisynth]], re-engineered to fit the AE modular format.  Although set up as as a 2 operator FM synth, It offers several sorts of synthesis within its confines.  
