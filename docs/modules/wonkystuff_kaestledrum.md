@@ -5,9 +5,7 @@
 This is Wonkystuff's take on the Bastl Instruments  [[https://bastl-instruments.com/instruments/kastle-drum/ | Kastle Drum]], re-engineered to fit the AE modular format. 
 
 
-Module power consumption: 
-
-Mini:
+Module power consumption: ? mA
 
 !!! Inputs
 

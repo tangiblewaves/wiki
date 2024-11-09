@@ -4,9 +4,8 @@
 
 This is Wonkystuff's take on the Bastl Instruments reknown [[https://bastl-instruments.com/instruments/kastle/ | Kastle minisynth]], re-engineered to fit the AE modular format.  Although set up as as a 2 operator FM synth, It offers several sorts of synthesis within its confines.  
 
-Module power consumption: 
+Module power consumption: ? mA
 
-Mini:
 
 !!! Inputs
 

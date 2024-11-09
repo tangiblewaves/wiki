@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# IMDI HEART
+[[img|modules/images/imdiheart.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! IMDI HEART
 [[https://www.tangiblewaves.com/store/p15/IMDI%2FHEART_.html | View Product Page]]
 
 IMDI HEART is the, umm, heart for the usage of IMDI within AE modular. It is derived from wonkystuff's mb/1, extended by some additional functionality.
@@ -64,11 +62,3 @@ NOTE OFF: Send an "all notes off" message to all outputs. Helpful when "note han
 This video describes how to use the [[https://wiki.aemodular.com/pmwiki.php/AeManual/IMDI HEART|IMDI HEART]] module: 
 
 (to be added)
-
-
-(:cell:) Mini:imdiheart.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

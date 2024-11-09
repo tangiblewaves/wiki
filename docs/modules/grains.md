@@ -1,8 +1,6 @@
-(:mini 100x400 :)
+# GRAINS
+[[img|modules/images/grains.png|100]]
 
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! GRAINS
 [[https://www.tangiblewaves.com/store/p86/GRAINS.html | View Product Page]]
 
 GRAINS is a programmable multipurpose module that has first been developed by [[https://www.ginkosynthese.com/ | Ginkosynthese]] for Eurorack. The AE Modular version is 100% compatible with the source code for the original, but there are a few added features. It is based on the Atmega 328 micro controller, well known as the core of the Arduino Uno, Nano and other boards, and can act as a granular sound player as well as different other functions depending on the firmware. It can be programmed directly by the Arduino IDE via the integrated USB socket on the front side of the module via the included USB cable. 
@@ -73,7 +71,8 @@ To install those firmwares on the module you need to follow these steps:
 * Download a firmware from the [[https://www.ginkosynthese.com/grains-codes | Ginkosynthese website]]
 * Connect the included USB cable between the GRAINS module and your PC
 
-Attach:grains_schematics_v2.png
+[[img|modules/images/grains_schematics_v2.png|500]]
+
 
 The firmware codes from the Ginkosynthese website are mostly single files with the ending .ino which means that they are Arduino sketches. You can open them in the Arduino IDE by double clicking on the filename.
 
@@ -84,9 +83,10 @@ Once the IDE shows that upload is complete you can disconnect the USB cable and 
 !!!Developing your own Firmware
 Using the existing codes as example you can either make changes to them or develop your own firmware from scratch. The following diagram shows how you can access the various inputs, outputs and controls from within your code:
 
-%width=640px% Attach:ide-board.png
+[[img|modules/images/ide-board.png|500]]
 
-'''WARNING''' It is possible to "brick" your GRAINS with certain operations when you develop and test your own firmware programs! This has happened once and you can find how that happened and how it was resolved in this [[https://forum.aemodular.com/thread/1858/serialport-show-anymore-brick-grains|thread on the forum]].
+
+'''WARNING''' It is possible to "brick" your GRAINS with certain operations when you develop and test your own firmware programs! This has happened once and you can find how that happened and how it was resolved in this [[ https://forum.aemodular.com/thread/1858/serialport-show-anymore-brick-grains | thread on the forum]].
 
 !!! Patch examples
 
@@ -102,7 +102,7 @@ https://forum.aemodular.com/board/24/programming-grains
 This code repository contains various firmwares that have been developed specifically for the AE Modular GRAINS module. This has started with the work by German author and software developer Mathias aka @visuellemusik. We encourage you to analyse the code and post your own firmware which we would add to this growing repository. With V2 of GRAINS building your own firmware using the Mozzi Library is possible now, too.
 With such a firmware the Mode-Switch as explained above and also symbolized in the schematics has to be set to 'M'. Please be aware that some versions of the Mozzi-Library did not work as expected in combination with certain versions of the Arduino IDE. An overview of recommended combinations of the two environments, including prereleases of Mozzi can be found here: https://github.com/sensorium/Mozzi/releases
 
-[[https://github.com/aemodular/GRAINS]]
+[[ https://github.com/aemodular/GRAINS ]]
 
 You can download each firmware as an individual zip file or the whole lot from the [[https://github.com/aemodular/GRAINS/releases | Release Page]].
 
@@ -131,10 +131,3 @@ https://forum.aemodular.com/thread/1608/karplus-strong-synthesis
 Another cool firmware is the Poly Ramp drone oscillator which you can find here:
 
 https://github.com/wonkystuff/grains_polyramp
-
-(:cell:) Mini:GRAINS_V2.png
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

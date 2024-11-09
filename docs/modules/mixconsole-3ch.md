@@ -1,5 +1,5 @@
 # MIXCONSOLE/3CH
-[[img|modules/images/mixconsole3ch.png|300]]
+[[img|modules/images/mixconsole3ch.png|400]]
 
 [[ https://www.tangiblewaves.com/store/p109/MIXCONSOLE_-_3CH.html | View Product Page]]
 
@@ -10,8 +10,6 @@ The great thing is that you can chain as many of the 3CH modules as you like so 
 (28 is the maximum number because all these modules have to be situated directly next to each other and on the widest available case you can only fit 8x 3CH and one MIXCONSOLE module in one row.)
 
 Module power consumption: 15mA
-
-Mini:mixconsole3ch.png
 
 !!! Inputs
 

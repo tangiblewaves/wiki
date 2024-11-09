@@ -1,10 +1,4 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-
-
-!! BF-31 Endless Arpeggios: 5STEPS for AE
+# BF-31 Endless Arpeggios: 5STEPS for AE
 
 (formerly known as Kurt's Five Steps)
 
@@ -14,7 +8,7 @@ It takes a CV as input, for example a triangle LFO, and converts it into a stepp
 
 The second input voltage (Root CV) gets added with all five values of the output CV. As such, it effectively ‘transposes’ your complete sequence. 
 
-This is [[https://www.tindie.com/products/bfsynths/bf-31-endless-arpeggios-5steps-for-ae/|BF Synth's Tindie]] page for this module, his first not sold as a kit.
+This is [[https://www.tindie.com/products/bfsynths/bf-31-endless-arpeggios-5steps-for-ae/ |BF Synth's Tindie]] page for this module, his first not sold as a kit.
 
 
 !!! Inputs
@@ -58,13 +52,3 @@ https://www.tangiblewaves.com/store/c12/CV_Generation_%2F_Manipulation.html
 Zeno (Keuerlagerkurt) has done an introductory video:-
 
 %embed% https://www.youtube.com/watch?v=RtrSgU_20dU %%
-
-
-
-(:cell:) Mini:KK5steps.png
-
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]

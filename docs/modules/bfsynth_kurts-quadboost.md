@@ -1,4 +1,4 @@
-! Kurt’s Quad Boost
+# Kurt’s Quad Boost
 
 Kurt’s Quad Boost is a module consisting of four transistor amplifier circuits, inspired by the old-school ‘LPB-1’ guitar pedal. Each amplifier circuit has its own dedicated ‘Boost’ knob that controls the input volume. The amplification has a distinct ‘transistor sound’. Due to the non-linear nature of this simple component, it is by no means a clean boost at all. Depending on the input volume, you will get everything in between crispy high end accents and deep low-end fatness.
 

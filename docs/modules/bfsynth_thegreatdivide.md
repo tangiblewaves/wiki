@@ -1,8 +1,4 @@
-(:mini 100x400 :)
-
-(:table border=0 width=100% :)
-(:cell width=80% :) 
-!! The Great Divide
+# The Great Divide
 
 This is an R2R circuit, quite versatile for mixing CV and trigger signals. There are two independent circuits in this module, with a small variation.
 
@@ -37,13 +33,3 @@ It can generate a range of CVs for pitch or other duties from one input, and wil
 R2R mixing is done by choosing different inputs: 1 is the quietest (lowest voltage), 128 the loudest (highest voltage).
 
 It really is a module to experiment with, highly recommended for larger AE systems. 
-
-(:cell:) Mini:KKGreatDivide.png
-
-(:tableend:)
-
-[[AeManual/Modules | <-- Back to the Module Index]]
-
-This manual is a community work in progress. If you would like to help out with completing this manual please send a PM to @admin at the [[http://forum.aemodular.com | AE Modular Forum]].  The status of each page can be seen on the Trello board at [[https://trello.com/b/HNd0dBt7/ae-manuals]]
-
-
