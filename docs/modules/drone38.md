@@ -35,4 +35,4 @@ It is designed to be used with the [[dronx.md|Dronx Mixer/FX module]] but does n
 
 There is a video by the 5th Volt...
 
-%embed% https://www.youtube.com/watch?v=bkpZkUtRAy4 %
+%embed% https://www.youtube.com/watch?v=bkpZkUtRAy4 %%

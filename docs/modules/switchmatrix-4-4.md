@@ -39,7 +39,7 @@ This module has many uses:
 * as a trigger sequencer
 * for visual effects
 
-It can be handy for quick octave changes, have the same  modulation on 2 inputs but one is 1V higher (lots ways doing that - easiest is [[2ATTCV]] module +5V switch and level adjust), then just switch when performing.
+It can be handy for quick octave changes, have the same  modulation on 2 inputs but one is 1V higher (lots ways doing that - easiest is [[2attcv.md | 2ATTCV]] module +5V switch and level adjust), then just switch when performing.
 
 Using the preset up/down trigger inputs you can add or change sounds to a rhythm pattern....
 

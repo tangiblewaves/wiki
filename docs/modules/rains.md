@@ -1,4 +1,5 @@
 # RAINS
+[[img|modules/images/rains.png|200]]
 
 [[https://www.tangiblewaves.com/store/p186/RAINS.html | View Product Page]]
 
@@ -62,18 +63,18 @@ This control can be an increase to the knob position (+ side of the dial) or ded
 
 This is not a normal filter module!  I highly recomend starting off quite simple; use 2 LFOs and put one in '''IN''' or '''STRUM''' and move the other around to see what each parameter does. 
 
-The Rains module can make some very lush/full string sounds and similar, so the [[AeManual/PHASER | Phaser]], [[AeManual/MULTIFX| Multifx]] and [[AeManual/SPRINGREVERB| Spring Reverb]] are great with it. 
+The Rains module can make some very lush/full string sounds and similar, so the [[phaser.md | Phaser]], [[multifx.md | Multifx]] and [[spring-reverb.md | Spring Reverb]] are great with it. 
 
-It begs to have lots of CVs put into it, so envelopes, LFOs etc are needed. Of particular note are [[AeManual/MODULATORS| Modulators]], the [[AeManual/JOYSTICK| Joystick ]] module and [[AeManual/KeuerslagerkurtSloth| Sloth ]].
+It begs to have lots of CVs put into it, so envelopes, LFOs etc are needed. Of particular note are [[modulators.md | Modulators]], the [[joystick.md | Joystick ]] module and [[bfsynth_kurts-sloth.md | Sloth ]].
 
-To combine the 3 different outs the [[AeManual/POLAMIX| Polamix]] is ideal.
+To combine the 3 different outs the [[polamix.md | Polamix]] is ideal.
 
-It can do some excellent tuned percussion sounds with no inputs, triggered from a sequencer like the [[AeManual/TRIQ164 | TRI164 ]] means the other channels could trigger other sounds in time with it, or envelopes to affect the Rain's sound.... 
+It can do some excellent tuned percussion sounds with no inputs, triggered from a sequencer like the [[triq164.md | TRI164 ]] means the other channels could trigger other sounds in time with it, or envelopes to affect the Rain's sound.... 
 
-The Rains has the most impact on incoming noises if they are fairly simple but, having said that, it can make some incredible sounds when fed from the [[AeManual/WAVETABLES| Wavetables ]] Oscillator. 
+The Rains has the most impact on incoming noises if they are fairly simple but, having said that, it can make some incredible sounds when fed from the [[wavetables.md | Wavetables ]] Oscillator. 
 
 It is well worth experimenting with the different modes of Poly & Type, One I found particularly nice when just triggering the Rains on its own was Green LED on Poly and Orange LED on Type.
 
-There are also several hidden "easter egg" modes, as per the original module; this link explains them pretty well, [[ https://www.infinitesimal.eu/modules/index.php/Mutable_Instruments_Rings | LINK]], but this video by    faux cyrillic is specific to the Rains and really helpful:-
+There are also several hidden "easter egg" modes, as per the original module; this  [[ https://www.infinitesimal.eu/modules/index.php/Mutable_Instruments_Rings | link]] explains them pretty well, but this video by    faux cyrillic is specific to the Rains and really helpful:
 
 %embed% https://www.youtube.com/watch?v=_WYS1sy-Yr8 %%

@@ -25,6 +25,6 @@ Also check out the newer module from BF Synth: [[bfsynth_bf21-2sloth.md | BF-21 
 
 !!! Patch Suggestions
 
-Great on filter cutoff and resonance (via attentuators). The [[AeManual/NYLEFILTER| Nyle Filter]] is the only AE filter with CV control of resonance.
+Great on filter cutoff and resonance (via attentuators). The [[nyle-filter.md | NYLEFILTER]] is the only AE filter with CV control of resonance.
 
 Using to create a gentle variation on LFO frequency can be very nice, especially on vibrato.

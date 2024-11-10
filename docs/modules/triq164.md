@@ -1,5 +1,5 @@
 # TRIQ164
-[[img|modules/images/triq164.png|100]]
+[[img|modules/images/triq164.png|200]]
 
 [[ https://www.tangiblewaves.com/store/p52/TRIQ164.html | View Product Page]]
 
@@ -41,11 +41,11 @@ The programmed sequences will be automatically saved after 30 seconds are then r
 
 For sequences shorter than 16 steps, connect a step output to RESET.  For example, if you want a 4-step sequence, connect STEP OUTPUT PIN 5 to RESET.
 
-You can use a TRIQ164 channel to trigger the clock on the [[SEQ16]] or [[SEQ8]] modules so you can do different rhythms/ time signatures with them around your master tempo clock going into the TRIQ164.
+You can use a TRIQ164 channel to trigger the clock on the [[seq16.md | SEQ16]] or [[seq8.md | SEQ8]] modules so you can do different rhythms/ time signatures with them around your master tempo clock going into the TRIQ164.
 
 As with all AE modules, it can be "abused" - (AE does stand for Abused electronics!), with a high clock rate it can become an audio FX generator or processor. please see the thread on the forum
 
 https://forum.aemodular.com/thread/1595/triq164-module?page=1&scrollTo=13144
 
-Here is a video by [[User/The 5th Volt]] which explains how to use the TRIQ164:
-%embed% https://youtu.be/HrwxXI29Ack %embed%
+Here is a video by [[/artists/the5thvolt | The 5th Volt]] which explains how to use the TRIQ164:
+%embed% https://youtu.be/HrwxXI29Ack %%

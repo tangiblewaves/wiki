@@ -2,7 +2,7 @@
 
 This is an R2R circuit, quite versatile for mixing CV and trigger signals. There are two independent circuits in this module, with a small variation.
 
-This is BF Synth's [[https://www.tindie.com/products/bfsynths/the-great-divide-kit-2-x-r2r-module/|Tindie page]] where you can buy the kit.
+This is BF Synth's [[https://www.tindie.com/products/bfsynths/the-great-divide-kit-2-x-r2r-module/ | Tindie page]] where you can buy the kit.
 
 It is based on Olegtron's R2R circuit; a quote from his page:-
 
@@ -12,7 +12,7 @@ It is based on Olegtron's R2R circuit; a quote from his page:-
 
 If you wish to get some signals out of the module, they’re available all around the place: the unused jacks provide each a different mixture of the signals, according to how near the signals are to each other, and to ground. The signals plugged to jacks near to the output are emphasized in the mix, and the output level is likely to be smaller when taken from near the ground."
 
-​For more info, https://www.olegtron.com/olegtron-r2r-1
+<!-- ​For more info, https://www.olegtron.com/olegtron-r2r-1 (commented out because of error message "Looks like this domain isn't connected to a website yet" -->
 
 !!! Inputs/Outputs
 

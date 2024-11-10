@@ -26,6 +26,6 @@ Module power consumption: 4 mA
 
 Use this to raise or lower certain frequencies of a sound source before sending it to the MIXCONSOLE or other mixing module.
 
-It can be useful to free up a [[waspfilter.md|filter module]] is some cases, e.g. roll the top off a bass pitch to make it deeper sounding. 
+It can be useful to free up a [[wasp-filter.md|filter module]] is some cases, e.g. roll the top off a bass pitch to make it deeper sounding. 
 
 If you want to risk your speakers/headphones, you can feed one channel's output  into the input of the other channel so you boost the signal twice. 

@@ -42,7 +42,7 @@ Here's a patch for a low pass gate:
 
 This module does not have CV control of resonance, but it can be created by putting one of the filter outputs through a VCA whose level is controlled by the CV modulation source (e.g. LFO or envelope), then feeding the VCA output back into the same filter module - you may need a mixer module, or use a '''mult''' if necessary as the inputs have different levels. Try the low input for the feed back from the VCA first....
 
-It can be interesting to combine the different outputs from the filter as they each create different sonic variation with the cutoff/resonance etc.  This can be taken further by the different outs getting different treatment before being combined again. A good use for this is the [[https://wiki.aemodular.com/pmwiki.php/AeManual/DELAY| Lo-Fi delay]] on the high pass &/or Bandpass filters to have a less "muddy" bottom end.
+It can be interesting to combine the different outputs from the filter as they each create different sonic variation with the cutoff/resonance etc.  This can be taken further by the different outs getting different treatment before being combined again. A good use for this is the [[delay.md | Lo-Fi delay]] on the high pass &/or Bandpass filters to have a less "muddy" bottom end.
 
 !!! Sound Examples
 

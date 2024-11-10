@@ -58,7 +58,8 @@ RNS: Enables Running status for the outputs. MIDI running status skips sending r
 RST CTRL: Sends a "reset all controllers" message to all outputs immediately. Useful when certain module settings are unknown and have to be reset to their initial state. 
 NOTE OFF: Send an "all notes off" message to all outputs. Helpful when "note hangers" have ocurred.
 
-
+<!--
 This video describes how to use the [[https://wiki.aemodular.com/pmwiki.php/AeManual/IMDI HEART|IMDI HEART]] module: 
 
 (to be added)
+-->

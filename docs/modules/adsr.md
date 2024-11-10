@@ -36,11 +36,11 @@ Module power consumption: 10 mA
 
 Envelopes are one of the basic modulation sources in subtractive synthesis. They are usually used to modulate amplitude, pitch or a filter. 
 
-The CV control of the envelope is extremely useful for doing characteristics like shorter release for higher pitch notes, lowering the sustain volume on higher (or lower) pitch notes so the sound stays more even in the mix - you may need an inverter like on the [[cvtool.md|CVTOOL]].
+The CV control of the envelope is extremely useful for doing characteristics like shorter release for higher pitch notes, lowering the sustain volume on higher (or lower) pitch notes so the sound stays more even in the mix - you may need an inverter like on the [[2cvtool.md|2CVTOOL]].
 
 If you are wanting to do tremolo (volume) on a sustained note then this module is ideal; put the control CV (e.g. LFO, [[joystick.md|JOYSTICK]] or Midi CC20 via master module) into the sustain CV and away you go - you are likely to need an attenuator...
 
-One fun thing to do is to have an LFO or [sandh.md|S&H]] doing a slight variation (i.e. use an attenuator) to the decay &/or release CV, nice on most things and can be brilliant on a percussion sound.
+One fun thing to do is to have an LFO or [sample-and-hold.md|S&H]] doing a slight variation (i.e. use an attenuator) to the decay &/or release CV, nice on most things and can be brilliant on a percussion sound.
 
 The ADSR can also trigger itself when the output END is patched into the GATE input. Depending on the values of ATTACK and DECAY this can make it into a slow moving LFO (low frequency oscillator) or oscillator in audio range, with varied waveforms which can, of course, be modulated via CV on this module. This can be excellent.....
 

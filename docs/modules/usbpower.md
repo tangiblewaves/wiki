@@ -21,6 +21,6 @@ None.
 
 !!! Patch Suggestions
 
-The +5 volt out can be used as a modulation source, although other modules provide a constant voltage as well. Use a [[4ATTMIX]] or [[2ATTCV]] to attenuate as needed.
+The +5 volt out can be used as a modulation source, although other modules provide a constant voltage as well. Use a [[4attmix.md | 4ATTMIX]] or [[2attcv.md | 2ATTCV]] to attenuate as needed.
 
 This module comes with a USB light so mount the module so it shines down over your patching/playing area, or at least not into your eyes....

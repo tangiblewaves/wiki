@@ -65,9 +65,9 @@ In addition to the builtin algorithms new ones can be "found" by repeatedly pres
 Here is a very short video on how the Algodrone can sound like.
 %embed% https://youtu.be/-B2jgMYxYU8 %%
 
-Here is a video by Matt Wand (who has actually contributed a number of algorithms for this module) showing off the various ways in which this module can be used.
+Here is a video by Matt Wand (who has actually contributed a number of algorithms for this module) showing off the various ways in which this module can be used: https://vimeo.com/392829975
+<!-- (it seems that embed does not work for vimeo) %embed% https://vimeo.com/392829975 %% -->
 
-%embed% https://vimeo.com/392829975 %%
 
 Overview video by The Tuesday Night Machines:
 %embed% https://youtu.be/Q6Mz9qpbUwo %%

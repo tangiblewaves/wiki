@@ -24,6 +24,6 @@ This module allows you to mute up to a maximum of 6 independent channels via the
 
 The most obvious use is for dropping in and out separate parts of your AE audio in a live situation.
 
-It can be excellent used in conjunction with a rhythm patch to drop a percussion sound in/out which can totally change the feel of the groove. This could be one sound from the [[https://wiki.aemodular.com/pmwiki.php/AeManual/DRUMKIT010|Drum Kit Module]], one from the [[https://wiki.aemodular.com/pmwiki.php/AeManual/KICK|Kick Module]] and sounds from the [[https://wiki.aemodular.com/pmwiki.php/AeManual/ALGODRONE|Algodrone Module]] amongst others
+It can be excellent used in conjunction with a rhythm patch to drop a percussion sound in/out which can totally change the feel of the groove. This could be one sound from the [[drumkit010.md|Drum Kit Module]], one from the [[kick.md|Kick Module]] and sounds from the [[algodrone.md|Algodrone Module]] amongst others
 
 Muting any sort of CV signal can be useful; a good example is pitch modulation (vibrato) on/off. Another is an offset voltage which opens or closes the filter depending on the mute switch position. There are many, many others...

@@ -29,8 +29,8 @@ Module power consumption: 2 mA
 
 This is (currently) one of the few modules that can invert a signal so can be invaluable. For example; you want a filter to close as a key is held and then open once released the easiest way to do this is to invert the CV out from an envelope generator. Another common example is inverting a trigger so something else is making noise when the trigger is not "on", useful for rhythm patches...
 
-This module can be useful to provide a knob control to a parameter that doesn't otherwise have one. For example CV2 on the [[ms20filter.md|MS20 filter module]].
+This module can be useful to provide a knob control to a parameter that doesn't otherwise have one. For example CV2 on the [[ms20-filter.md|MS20 filter module]].
 
-It can also be good with the [[joystik.md|JOYSTICK]] module, for instance if you want a CV being controlled by that also have another adjustment.
+It can also be good with the [[joystick.md|JOYSTICK]] module, for instance if you want a CV being controlled by that also have another adjustment.
 
 Currently only the [[mixconsole.md| Mixconsole]] has CV control of the channel input levels on a mixer; you can use the 2CVTOOL to set a minimum level with the offset, and then the modulation amount (i.e. volume) is controlled by this module's level knob. Excellent with Envelopes but works with LFOs as well....

@@ -22,8 +22,8 @@ The most straight-forward use of the Quad Boost is to boost signals that are low
 
 A more interesting approach to exploit the transistor sound is by controlling your incoming waves with a VCA module. Depending on the input volume, the timbre or tone of the output can drastically change. So setting a slow LFO to modulate the incoming volume via the VCA, will create an interesting shift in tone and make your patch come alive. More drastic volume changes, for example using the 2Env for short notes, can also give really musical results. 
 
-A sound demo patching different volumes of the same triangle wave in the Quad Boost: 
+A sound demo patching different volumes of the same triangle wave in the Quad Boost:
 
-https://youtu.be/ON03Z60CjNg
+%embed% https://youtu.be/ON03Z60CjNg %%
 
 It is also worth noting that the circuit might behave differently depending on the module you patch behind it. Don’t be afraid, you can’t break anything! But if you use ‘unbuffered’ modules right after the Quad Boost output, you might notice some volume drops. This is due to the simplicity of this circuit (for the electronic geeks: it has a rather moderate output impedance ranging from 5k to 50k depending on the specific resistor values you use). I myself have noted no problems yet, but I mostly feed it straight into the mixer. Just wanted to give a quick heads up!

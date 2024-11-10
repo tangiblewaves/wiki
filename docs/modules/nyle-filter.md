@@ -42,9 +42,9 @@ Put a LFO through an attenuator so you can control the amount (e.g. 2CVTOOL), to
 
 By using the various filter type inputs, this module can be used to combine sounds and, in effect, mix them by tweaking the filter controls. Try a Kick drum through the Lowpass, strings/pad through the bandpass and a percussion sound though the highpass filter.
 
-Here is a video by [[User/The 5th Volt]] explaining how to use the NYLE Filter
+Here is a video by [[/artists/the5thvolt.md | The 5th Volt]] explaining how to use the NYLE Filter
 
-%embed% https://youtu.be/0Pr2oRu_BCo %embed%
+%embed% https://youtu.be/0Pr2oRu_BCo %%
 
 !!! Sound Examples
 

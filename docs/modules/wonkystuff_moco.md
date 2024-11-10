@@ -37,8 +37,8 @@ Wonkystuff have an excellent introductory video to this module:-
 
 %embed% https://www.youtube.com/watch?v=5MWcSaScPGY %%
 
-Though the video demonstrates the CV input with an LFO, the use of an envelope to mix your audio signals can mean you can have some superb sonic changes consistently on each key press/activation, not necessarily needing a filter...  For this, the Tangible Waves [[4VCA]] module is excellent due to having the mix outputs.
+Though the video demonstrates the CV input with an LFO, the use of an envelope to mix your audio signals can mean you can have some superb sonic changes consistently on each key press/activation, not necessarily needing a filter...  For this, the Tangible Waves [[4vca.md | 4VCA]] module is excellent due to having the mix outputs.
 
-As almost demonstrated in the video, you can produce a 2, 3 or 4 step beat/pulse with this module and an LFO. This is shown is mixing VCOs but these CVs could go to "mix" other sounds, raise a filter cutoff, go to an envelope module ([[ADSR]] could be interesting) and anywhere else you can think of to send a CV...
+As almost demonstrated in the video, you can produce a 2, 3 or 4 step beat/pulse with this module and an LFO. This is shown is mixing VCOs but these CVs could go to "mix" other sounds, raise a filter cutoff, go to an envelope module ([[adsr.md | ADSR]] could be interesting) and anywhere else you can think of to send a CV...
 
-For randomness, try the [[https://wiki.aemodular.com/pmwiki.php/AeManual/WonkyStuffRBSS| Wonkystuff rbss]] as the CV in, or could use [[https://wiki.aemodular.com/pmwiki.php/AeManual/SAMPLEHOLD| sample and hold]].
+For randomness, try the [[wonkystuff_rbss | Wonkystuff rbss]] as the CV in, or could use [[sample-and-hold.md | sample and hold]].

@@ -19,7 +19,7 @@ Module power consumption: ? mA
 
 !!! Patch Suggestions
 
-While this module seems to provide similar functionality as the [[AeManual/4BUFFER]] module, it is missing the linking feature. So if you want to multiply one input signal to many outputs, then you need to patch it internally, eg.:
+While this module seems to provide similar functionality as the [[4buffer.md | 4BUFFER]] module, it is missing the linking feature. So if you want to multiply one input signal to many outputs, then you need to patch it internally, eg.:
 
 * Patch an input signal to IN1
 * Patch OUT1a to IN2

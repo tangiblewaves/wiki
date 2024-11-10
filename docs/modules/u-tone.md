@@ -3,7 +3,7 @@
 
 [[https://www.tangiblewaves.com/store/p183/uTONE.html  | View Product Page]]
 
-This 1/3 height micro module provides a two channel EQ which allows you to control the higher and lower frequency of the incoming signal. It is essentially one channel of the [[AeManual/2TONE| 2TONE ]] module.
+This 1/3 height micro module provides a two channel EQ which allows you to control the higher and lower frequency of the incoming signal. It is essentially one channel of the [[2tone.md | 2TONE ]] module.
 
 This module needs to be installed on the [[u-base.md | µBASE]] module!
 

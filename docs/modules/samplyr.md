@@ -48,7 +48,7 @@ The display shows the folder and file number of the currently selected sample at
 
 When in Edit mode, the display can also display information about the currently selected sample, such as filename, size, length and other info. It will also show the parameter which is currently editable, or related functions eg.
 
-* <<exit
+*  exit
 * sample start
 * sample end
 * loop start
@@ -64,10 +64,11 @@ When in Edit mode, the display can also display information about the currently 
 * wav info
 * track calib
 * display off
-* >>save 
+* save 
 
 !!! Edit Mode
-To enter the edit mode, click the encoder; then, the program number is replaced with the menu options. Turning the encoder scrolls through the menu options; a further click selects the editing of the according value, like start/endpoints, loop points etc. Turning the encoder changes the value, another click on the encoder returns to menu selection. The leftmost menu option is "Save"; clicking here stores the defined settings to the SD-Card. To leave Edit Mode without saving use <<exit instead. Please note: if you switch to a different preset, your current edits will be lost unless you stored them before.
+
+To enter the edit mode, click the encoder; then, the program number is replaced with the menu options. Turning the encoder scrolls through the menu options; a further click selects the editing of the according value, like start/endpoints, loop points etc. Turning the encoder changes the value, another click on the encoder returns to menu selection. The leftmost menu option is "Save"; clicking here stores the defined settings to the SD-Card. To leave Edit Mode without saving use "exit" instead. Please note: if you switch to a different preset, your current edits will be lost unless you stored them before.
 
 XFade (Cross Fade) can be used to eliminate or at least mitigate unwanted clicks or other artifacts when the sample is looping. It works in a way that the sample-volume will be decreased right before the loop-end and increased directly after the loop start. The higher the setting is, the longer the time that crossfading effect takes place will be.
 

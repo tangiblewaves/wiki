@@ -37,7 +37,7 @@ Module power consumption: 25 mA
 
 The usual patch would be either direct to the filter, or via the [[4ATTMIX|4ATT/Mix]] if you are combining more than one  oscillator, noise etc.
 
-Audio pitch modulation of [[NYLEFILTER|filters]] and pitch can be really good, the latter can be FM synthesis in some circumstances. 
+Audio pitch modulation of [[nyle-filter.md | filters]] and pitch can be really good, the latter can be FM synthesis in some circumstances. 
 
 This video explains how to use this module in a very basic patch.
 

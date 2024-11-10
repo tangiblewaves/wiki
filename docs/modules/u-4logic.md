@@ -9,4 +9,4 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
-This module works exactly like the bigger [[AeManual/LOGIC]] module. Please check its wiki page for more information, and patch suggestions.
+This module works exactly like the bigger [[logic.md| LOGIC]] module. Please check its wiki page for more information, and patch suggestions.

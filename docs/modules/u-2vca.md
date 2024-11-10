@@ -3,7 +3,7 @@
 
 [[https://www.tangiblewaves.com/store/p171/u2VCA.html  | View Product Page]]
 
-This 1/3 height micro module provides a two channel VCA similar to the [[AeManual/4VCA]] module.
+This 1/3 height micro module provides a two channel VCA similar to the [[4vca.md|4VCA]] module.
 
 This module needs to be installed on the [[u-base.md | µBASE]] module!
 
@@ -26,4 +26,4 @@ Module power consumption: ? mA
 
 !!! Patch Suggestions
 
-This can be used for attenuating Audio or CV signals. Check out the patch suggestions for [[AeManual/2VCA]] and [[AeManual/4VCA]].
+This can be used for attenuating Audio or CV signals. Check out the patch suggestions for [[2vca.md | 2VCA]] and [[4vca.md | 4VCA]].

@@ -7,7 +7,7 @@ There is a user guide for this module on the Tangible Waves shop SEQ16 page whic
 
 A 16 step sequence suits many styles of music, and is needed for "Berlin School " EM. If you only need 8 steps usually, you can consider the SEQ16's little brother, the SEQ8.  There are slight differences too, in general the SEQ16 has more possibilities. There could be reasons to have both in a larger AE system!
 
-You can download a printable manual for offline reading: [[(Attach:)seq16_manual.pdf]]
+You can download a printable manual for offline reading: [[ https://www.tangiblewaves.com/uploads/2/6/6/8/26688354/seq16_manual.pdf | SEQ16 Manual]]
 
 Module power consumption: 7 mA
 
@@ -60,23 +60,20 @@ On the right side of the module:
 
 !!! Patch Suggestions
 
-Unless you have a non-Midi system, you will need either the Beat divider or MM Divider module to step down the very fast MIDI clock to a usable clock; the former is simpler but the latter gives you many more options....
+Unless you have a non-Midi system, you will need either the [[midiclock-divider.md | MIDICLOCK DIVIDER]] or [[mm-div.md | MM DIV]] module to step down the very fast MIDI clock to a usable clock; the former is simpler but the latter gives you many more options....
 
-https://wiki.aemodular.com/pmwiki.php/AeManual/BEATDIVIDER
-
-https://wiki.aemodular.com/pmwiki.php/AeManual/MM-DIV
 
 The main intention of  this module is to provide pitch CV to oscillators, with the gate outputs for VCAs, envelope generators etc. 
 
 It can be really good as a modulation generator on e.g. filter cut off. This can use the same CV as the VCOs so the filter opens more as the pitch is higher. The CV can, of course, be processed by any of the various modules like slew/edge, 2CVTool etc. With 3 CV outs, the SEQ16 is ripe for this...
 
-The ACC out can be used to trigger additional sound (e.g. a VCA controlling a noise source), additional pitch variation in your sequence (via an attenuator like the [[2ATTCV]] module), filter cut off frequency (best via an attenuator again) many other things that can vary your sequence/sound very nicely! 
+The ACC out can be used to trigger additional sound (e.g. a VCA controlling a noise source), additional pitch variation in your sequence (via an attenuator like the [[2attcv.md|2ATTCV]] module), filter cut off frequency (best via an attenuator again) many other things that can vary your sequence/sound very nicely! 
 
-The individual trigger outs can also be used to vary your sequence, by using an attenuator again to give you control over the amount (pitch) just connect to an input of the relevant VCO. If your input(s) are full, use a [[4ATTMIX]] or similar to combine the CVs before going to the VCO. The 2ATT/CV and 4ATT/MIX give you the attenuation/ control required.
+The individual trigger outs can also be used to vary your sequence, by using an attenuator again to give you control over the amount (pitch) just connect to an input of the relevant VCO. If your input(s) are full, use a [[4attmix.md | 4ATTMIX]] or similar to combine the CVs before going to the VCO. The 2ATT/CV and 4ATT/MIX give you the attenuation/ control required.
 
 If you are using an LFO to clock the SEQ16, it can be really interesting to feed a CV back to the LFO rate, again an attenuator will give you fine control. 
 
-For the more experimental among you, using a [[LOGIC]] module, or other trigger manipulation into the reset input can be interesting. Doing the same in to the clock input can be excellent as long as it all stays in time with the rest of the music!
+For the more experimental among you, using a [[logic.md | LOGIC]] module, or other trigger manipulation into the reset input can be interesting. Doing the same in to the clock input can be excellent as long as it all stays in time with the rest of the music!
 
 Here is a tutorial video made by The 5th Volt:
 %embed% https://youtu.be/xK-1NDD-RyQ %%

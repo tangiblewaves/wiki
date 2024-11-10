@@ -16,9 +16,9 @@ Module power consumption: 16 mA
 
 !!! Outputs
 * 2x '''RAMP''' - ramp/sawtooth wave output
-* 2x '''TRI''' - triangle wave output, quieter than the other outputs so it might need amplification via the [[http://wiki.aemodular.com/pmwiki.php/AeManual/2SIGNALAMP | 2SIGNALAMP]] module for example
+* 2x '''TRI''' - triangle wave output, quieter than the other outputs so it might need amplification via the [[2signalamp.md | 2SIGNALAMP]] module for example
 * 2x '''SQUARE''' - square wave output
-* '''BUS CV''' - pitch control voltage form the [[http://wiki.aemodular.com/pmwiki.php/AeManual/MASTER | MASTER I/O]] module's MIDI-CV converter 
+* '''BUS CV''' - pitch control voltage form the [[master.md| MASTER I/O]] module's MIDI-CV converter 
 
 !!! Controls
 * '''MOD DEPTH''' Potentiometer - attenuator for the MOD input control voltage

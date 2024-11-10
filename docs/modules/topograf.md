@@ -65,17 +65,17 @@ Gaetan from the forum [[http://forum.aemodular.com/post/3554/thread | suggests]]
 
 '''Example for a bass line'''
 * Trigger the envelope generator of your voice with the topograph's kick
-* Patch the same kick trigger to your [[SEQ16]] clock
-* Patch the [[SEQ16]] to control the pitch of your bass line
+* Patch the same kick trigger to your [[seq16.md | SEQ16]] clock
+* Patch the [[seq16.md | SEQ16]] to control the pitch of your bass line
 Now, every time topograph sends a kick, your sequence will advance one step.
 
 '''More fun'''
-* [[https://wiki.aemodular.com/pmwiki.php/AeManual/LOGIC| AND]] together the kick and snare, and use them to trigger your voice's EG
-* Use the hihat to clock the [[SEQ16]]
+* [[logic.md | AND]] together the kick and snare, and use them to trigger your voice's EG
+* Use the hihat to clock the [[seq16.md | SEQ16]]
 You're going to have some pretty groovy bass lines with that
 
 '''Or for a melody'''
-* Clock your [[SEQ16]] with a regular clock, and send the output to a [[https://wiki.aemodular.com/pmwiki.php/AeManual/SAMPLEHOLD| Sample & Hold]]
-* [[https://wiki.aemodular.com/pmwiki.php/AeManual/LOGIC| AND]]  the HH and the kick, and use it to trigger both your voice's EG and the S&H
+* Clock your [[seq16.md | SEQ16]] with a regular clock, and send the output to a [[sample-and-hold.md | Sample & Hold]]
+* [[logic.md | AND]]  the HH and the kick, and use it to trigger both your voice's EG and the S&H
 * Use the output of the S&H as you voice's pitch
 You'll have a stable melody that will skip steps according to the state of the Topograf

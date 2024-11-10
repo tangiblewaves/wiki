@@ -2,7 +2,7 @@
 
 [[img|modules/images/4io.png|100]]
 
-[[https://www.tangiblewaves.com/store/p46/4I%2FO.html| View Product Page]]
+[[https://www.tangiblewaves.com/store/p46/4I%2FO.html | View Product Page]]
 
 An extremely useful module to have if you want to interface other equipment with your AE modular. The most important job is to prevent  a CV outside the 0 to +5 volts range from entering the AE system as this would damage it.
 
@@ -12,7 +12,7 @@ Module power consumption: 0.2 mA
 
 * '''I/O 1''' - 3.5mm jack socket - mono signal sent to I/O patch socket 1
 * '''I/O 2''' - 3.5mm jack socket - signal sent to I/O patch socket 2
-*''' I/O 3''' - 3.5mm jack socket - mono signal sent to I/O patch socket 3
+* ''' I/O 3''' - 3.5mm jack socket - mono signal sent to I/O patch socket 3
 * '''I/O 4''' - 3.5mm jack socket - signal sent to I/O patch socket 4
 
 They are labelled I/O as you can also send the signal input into the AE patch in/outs (in the AE system's usual location for outputs) and out to your external equipment via these sockets

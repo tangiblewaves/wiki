@@ -3,7 +3,7 @@
 
 [[https://www.tangiblewaves.com/store/p94/POLAMIX.html | View Product Page]]
 
-The POLAMIX is similar to the [[AeManual/2CVTOOL]] in that you can offset, attenuate and invert signals, but it also acts as a 3 channel mixer. Try to use this with 3 LFOs for modulation mayhem!
+The POLAMIX is similar to the [[2cvtool.md|2CVTOOL]] in that you can offset, attenuate and invert signals, but it also acts as a 3 channel mixer. Try to use this with 3 LFOs for modulation mayhem!
 
 Module power consumption: 2 mA
 
@@ -26,9 +26,9 @@ Module power consumption: 2 mA
 
 !!! Patch Suggestions
 
-This module is excellent for combining CVs, e.g. an [[https://wiki.aemodular.com/pmwiki.php/AeManual/ADSR| Envelope]] and [[https://wiki.aemodular.com/pmwiki.php/AeManual/2LFO| LFO]] to go to one destination (e.g. Filter cut off frequency); you can set the level of modulation for each of 3 CVs input, and this is very tweakable during a performance. 
+This module is excellent for combining CVs, e.g. an [[adsr.md | Envelope]] and [[2lfo.md | LFO]] to go to one destination (e.g. Filter cut off frequency); you can set the level of modulation for each of 3 CVs input, and this is very tweakable during a performance. 
 
-It makes an excellent submixer to combine the [[https://wiki.aemodular.com/pmwiki.php/AeManual/2OSCD| oscillator]] outputs for different timbres, this could be the multiple outputs from one VCO or up to 3 separate ones...
+It makes an excellent submixer to combine the [[2oscd.md | oscillator]] outputs for different timbres, this could be the multiple outputs from one VCO or up to 3 separate ones...
 
 Overview video by The Tuesday Night Machines:
 

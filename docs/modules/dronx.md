@@ -4,7 +4,7 @@
 
 [[ https://www.tangiblewaves.com/store/p120/DRONX.html | View Product Page]]
 
-This is a 6 channel mixer, with tone controls and built in delay FX. It is optimised for use with the [[https://wiki.aemodular.com/pmwiki.php/AeManual/DRONE38|Drone38 module]] but is useful for larger AE systems regardless.
+This is a 6 channel mixer, with tone controls and built in delay FX. It is optimised for use with the [[drone38.md|Drone38 module]] but is useful for larger AE systems regardless.
 
 Another possible mixer is the [[mixconsole.md|Mixconsole]].
 

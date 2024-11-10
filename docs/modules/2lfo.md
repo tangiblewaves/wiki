@@ -45,6 +45,3 @@ Patching two unsynched LFOs through a [[logic.md|logic module]] then to a sequen
 Combined LFOs connected to [[3vcswitch.md|VC switches]] or a [[trip.md|multiplexer]] results in a simple and versatile trigger sequencer.
 
 When cranked up to audio range (RANGE knob all the way to the right in FAST mode) may be used as audio oscillator.
-
-
-This module is very similar to the [[lfo.md | single LFO module.]] Please see a video for further info about LFOs on that page.

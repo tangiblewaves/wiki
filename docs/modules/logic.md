@@ -26,6 +26,8 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
 
 * '''NAND''' - (Not AND) outputs a LOW signal when '''both''' input signals are HIGH.  Otherwise outputs HIGH.  This is the truth table:
 
+**NAND**
+
   | Input A | Input B | Output |
   | :-: | :-: | :-: |
   | 0 | 0 | 1 |
@@ -36,6 +38,8 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
 
 * '''AND''' - outputs a HIGH signal when '''both''' input signals are HIGH.  Otherwise, outputs LOW.
 
+**AND**
+
   | Input A | Input B | Output |
   | :-: | :-: | :-: |
   | 0 | 0 | 0 |
@@ -45,6 +49,8 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
 
 
 * '''XOR''' - (Exclusive OR) outputs a HIGH signal when '''either''' input signal is HIGH but '''not when both''' are HIGH or LOW.
+
+**XOR**
 
   | Input A | Input B | Output |
   | :-: | :-: | :-: |
@@ -81,15 +87,14 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
 
 - You can create new truth tables (LOGIC gate operators or logic rules) by patching the output of one group to one of the inputs of the other group or to the inverters.  For example, connecting XOR1 to IN3 would result in INV3 outputing HIGH when both signals are HIGH '''or''' LOW, but not when one of them is HIGH and the other one LOW, resulting in a XNOR gate (Exclusive Not OR gate).  See the truth table and notice that it's the exact opposite of the XOR truth table.
 
-TODO: Fix Table Layout
+**XNOR**
 
-||border=1 width=50%
-||! XNOR ||||||
-||! Input A ||! Input B ||! Output ||
-|| 0 || 0 || 1 ||
-|| 0 || 1 || 0 ||
-|| 1 || 0 || 0 ||
-|| 1 || 1 || 1 ||
+| Input A | Input B | Output |
+| :-: | :-: | :-: |
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
 
 Combine a number of these modules and you get a crazy GATE / TRIGGER sequencer.
 
