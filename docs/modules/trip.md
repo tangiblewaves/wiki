@@ -70,8 +70,8 @@ Short pressing the MAN TRIG button exits the Configuration mode and returns to r
 
 The most obvious use for this module is "echo" type FX, repeating a sound as set by the module controls.
 
-It can be good on CVs, try it off an [[https://wiki.aemodular.com/pmwiki.php/AeManual/2LFO| LFO]] going to filter cutoff....
+It can be good on CVs, try it off an [[2lfo.md | LFO]] going to filter cutoff....
 
-An excellent module for helping produce sound FX, try  [[NOISE]] through a VCA controlled by this module as a starting point. 
+An excellent module for helping produce sound FX, try  [[noise.md | NOISE]] through a VCA controlled by this module as a starting point. 
 
 Most people run this module from an LFO to provide the initial trigger, but there's no reason it can't be one of the AE modular's sequencer clocks or trigger outs... This can be excellent to then provide a modulation source that (sort of) works with the tempo.

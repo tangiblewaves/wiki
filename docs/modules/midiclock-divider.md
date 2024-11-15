@@ -10,7 +10,7 @@ This module is designed to break the 24 pulses per quarter note from Midi into m
 
 It can be used to divide other clocks, e.g. an [[2lfo.md|LFO]] or even a [[2oscd.md|VCO]].
 
-If you need more complex division, there is the [[mmdiv.md|Multi Mode Divider]] module.
+If you need more complex division, there is the [[mm-div.md|Multi Mode Divider]] module.
 
 Module power consumption: 6 mA
 

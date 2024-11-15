@@ -38,9 +38,9 @@ Switches -
 * There is an active thread for this module on the forum:-  https://forum.aemodular.com/thread/2083/2auto
 
 * This module can be used anywhere where you would use an LFO or an Envelope Generator - excellent for controlling filter cut off as you can be as wild or as subtle as you like very easily, without needing further processing through attentuentors etc.
-* The same applies for other areas where a modicum/high degree of control of the CV is required, the wave modulation on the [[AeManual/WAVETABLES| Wavetables]] module is a great example. In this example you can create interesting timbral changes without the use of a filter.
-* You can make a live/controlled stereo panner in conjunction with the [[AeManual/MIXCONSOLE| Mixconsole]] module by panning 2 channels hard left and right ands then controlling their levels with the 2Auto. There are several options here, using section A on one channels and section B on the other is the easiest, but you could use the [[AeManual/2CVTOOL| 2CVTool]] for instance to provide the "reverse" signal to supply the other channel from one section's output.
-* It can be a fun sequencer in one shot or loop mode, put the output through the [[AeManual/QUANTIZER| Quantizer]] module to be tuneful (if you want to be!). 
+* The same applies for other areas where a modicum/high degree of control of the CV is required, the wave modulation on the [[wavetables.md | Wavetables]] module is a great example. In this example you can create interesting timbral changes without the use of a filter.
+* You can make a live/controlled stereo panner in conjunction with the [[mixconsole.md | Mixconsole]] module by panning 2 channels hard left and right ands then controlling their levels with the 2Auto. There are several options here, using section A on one channels and section B on the other is the easiest, but you could use the [[2cvtool.md | 2CVTool]] for instance to provide the "reverse" signal to supply the other channel from one section's output.
+* It can be a fun sequencer in one shot or loop mode, put the output through the [[quantizer.md | Quantizer]] module to be tuneful (if you want to be!). 
 
 RSKT has done another excllent video on this module:-
 

@@ -43,9 +43,9 @@ This module is excellent for providing variation in rhythms/ sequences by cuttin
 
 It is useful where you want to automate switching between 2 audio paths, (e.g. 2 different filters) as part of a patch. 
 
-It can be used to create Stereo from mono by going 1 in to 2 out, (thanks to [[/artists/the-tuesday-night-machines.md| Tuesday Night Machines]] for this one). He suggests "now use a square VCO to quickly switch that audio signal between the ears for crazy effects". 
+It can be used to create Stereo from mono by going 1 in to 2 out, (thanks to [[/artists/thetuesdaynightmachines.md| Tuesday Night Machines]] for this one). He suggests "now use a square VCO to quickly switch that audio signal between the ears for crazy effects". 
 
-Other trigger/ trigger variation modules, like the [[trip.md | Trip]], [[mmdiv.md|MM Divider]] and, particularly the [[topograf.md | Topograf]] combine with the 3VCSwitch for endless possibilities.
+Other trigger/ trigger variation modules, like the [[trip.md | Trip]], [[mm-div.md|MM Divider]] and, particularly the [[topograf.md | Topograf]] combine with the 3VCSwitch for endless possibilities.
 
 Below is a video by [[https://the5thvolt.com | The 5th Volt]] a with various patch ideas:
 

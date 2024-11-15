@@ -26,7 +26,7 @@ Module power consumption: 4 mA
 !!! Patch Suggestions
 Attenuating CV can be very useful in a lot of situations. A simple example is to control the tonal range of a sample and hold patch, where the output of the S&H can be attenuated to a smaller pitch range before being sent to an oscillator. A common one to to control the level of filter modulation, but the most common is the amount of vibrato (pitch "wobble") by routing the LFO through this module.
 
-This video describes how to use the [[samplehold.md|SAMPLE & HOLD]] module and makes use of the 2ATT/CV module for controlling pitch: 
+This video describes how to use the [[sample-and-hold.md|SAMPLE & HOLD]] module and makes use of the 2ATT/CV module for controlling pitch: 
 
 %embed% https://youtu.be/NZVme2SNxXU %%
 

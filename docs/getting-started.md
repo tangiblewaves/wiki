@@ -32,4 +32,4 @@ Please follow the links below for more in depth information on how to connect yo
 
 '''[[getting-started-4.md|Step 4: First basic patch]]'''
 
-'''[[getting-started-5.md|Step 5: Record Your Performance]]''' - also see the [[/recording/ | AE Artists section]] of the Wiki
+'''[[getting-started-5.md|Step 5: Record Your Performance]]''' - also see the [[/artists/ | AE Artists section]] of the Wiki

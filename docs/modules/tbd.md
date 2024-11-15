@@ -3,7 +3,7 @@
 
 [[ https://www.tangiblewaves.com/store/p149/TBD.html | View Product Page]]
 
-The TBD module is a multifunctional DSP (digital signal processing) module that includes more than 30 different synthesis and audio processing plugins. It is a collaboration project between CTAG Kiel (an academic working group of Kiel University of Applied Sciences), [[https://instrumentsofthings.com/|Instruments of Things]] (who produce this module for Eurorack) and [[https://tangiblewaves.com|tangiblewaves]].
+The TBD module is a multifunctional DSP (digital signal processing) module that includes more than 30 different synthesis and audio processing plugins. It is a collaboration project between CTAG Kiel (an academic working group of Kiel University of Applied Sciences), [[ https://instrumentsofthings.com/ | Instruments of Things ]] (who produce this module for Eurorack) and [[ https://tangiblewaves.com  |tangiblewaves ]].
 
 Module power consumption: 80 mA
 
@@ -35,7 +35,8 @@ The web interface runs on your PC as a local server and you open a web browser t
 
 * [[https://forum.aemodular.com/thread/2198/error-erase-failure-trying-audiofile?page=1&scrollTo=18955  | Using the "terminal application" to send samples to the TBD]]
 
-https://wiki.aemodular.com/uploads/AeManual/TBD/TBD%20Browser%20Start.png
+[[img|modules/images/TBD%20Browser%20Start.png|300]]
+
 
 '''You can download the newest version of the "terminal application" here:'''
 

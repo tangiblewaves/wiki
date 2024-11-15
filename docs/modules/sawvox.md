@@ -31,7 +31,7 @@ Module power consumption: 30 mA
 
 !!! Patch Suggestions
 
-Though technically a "complete" voice it obviously can be processed further within the AE system. [[PHASER]] and [[https://wiki.aemodular.com/pmwiki.php/AeManual/DELAY| Lofi Delay]] are particularly recommended....
+Though technically a "complete" voice it obviously can be processed further within the AE system. [[phaser.md | PHASER]] and [[delay.md | Lofi Delay]] are particularly recommended....
 
 If you haven't got the fine control you desire for a particular patch then, as an example, if you leave the Sawvox filter fully open you can patch the output to another AE filter to have more parameters/adjustments available.
 

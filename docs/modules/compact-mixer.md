@@ -70,7 +70,7 @@ Main Section.
 
 Headphone section
 
-* '''Level" - this controls the volume of headphones independently of the main volume mentioned above.
+* '''Level''' - this controls the volume of headphones independently of the main volume mentioned above.
 
 !!! Display
 
@@ -82,10 +82,10 @@ In the Mixer section there are 2 columns of LEDs, green, yellow and red. This sh
 
 As mentioned in the descriptions above, the FX return inputs can be used to bring in more stereo sources to the overall mix. 
 
-The FX sends will work well with the AE [[MULTIFX]] as it has a stereo output for the return to the mixer.
+The FX sends will work well with the AE [[multifx.md|MULTIFX]] as it has a stereo output for the return to the mixer.
 
 Although this mixer is aimed towards providing  a 2 channel (stereo) output, there is no reason you could not use it to produce 2 separate mono outputs for further use/processing within the AE. 
 
-If you wanted more than one main out to go further within the AE, you could connect the stereo 3.5mm output to a [[https://wiki.aemodular.com/pmwiki.php/AeManual/4IO| 4 I/O module]], then the left and right signals would be on the relevant AE sockets.
+If you wanted more than one main out to go further within the AE, you could connect the stereo 3.5mm output to a [[4io.md | 4 I/O module]], then the left and right signals would be on the relevant AE sockets.
 
 You can purchase, or make, splitter cables where you have 2 mono jacks ar one end, and a stereo jack at the other - this may be useful to bring in more external gear, and when connecting the mixer outputs to external gear.

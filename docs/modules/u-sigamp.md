@@ -3,7 +3,7 @@
 
 [[https://www.tangiblewaves.com/store/p174/u2SIGAMP.html  | View Product Page]]
 
-This 1/3 height micro module provides a two independant channels for a signal amplifier which is very similar to the [[AeManual/2SIGNALAMP]] module.
+This 1/3 height micro module provides a two independant channels for a signal amplifier which is very similar to the [[2signalamp.md | 2SIGNALAMP]] module.
 
 This module needs to be installed on the [[u-base.md | µBASE]] module!
 

@@ -27,4 +27,4 @@ Module power consumption: ? mA
 
 !!! Patch Suggestions
 
-This can be used for Audio or CV mixing of signals and is very similar to the [[AeManual/MIXER44 | MIXER 4-4]] module. 
+This can be used for Audio or CV mixing of signals and is very similar to the [[mixer4-4.md | MIXER 4-4]] module. 

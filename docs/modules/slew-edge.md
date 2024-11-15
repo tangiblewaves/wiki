@@ -41,12 +41,12 @@ Module power consumption: 5 mA
 
 !!! Patch Suggestions
 
-If the CV is used e.g. for controlling an [[https://wiki.aemodular.com/pmwiki.php/AeManual/2OSCD| oscillator]], you can get portamento between pitch CV changes. With the two switches (or the Gate ins), it can be controlled to be only on rising or falling CVs or both. Just patch the cable that was going to the oscillator to this module's input, and the Slew Out to the Oscillator.
+If the CV is used e.g. for controlling an [[2oscd.md | oscillator]], you can get portamento between pitch CV changes. With the two switches (or the Gate ins), it can be controlled to be only on rising or falling CVs or both. Just patch the cable that was going to the oscillator to this module's input, and the Slew Out to the Oscillator.
 
-The Slew detector can be useful if using the [[https://wiki.aemodular.com/pmwiki.php/AeManual/SAMPLEHOLD| S&H module]] for modulation; rather than jumps it will smooth the changes between the different levels, particularly good on filter modulation, unless you want sudden changes. 
+The Slew detector can be useful if using the [[sample-and-hold.md | S&H module]] for modulation; rather than jumps it will smooth the changes between the different levels, particularly good on filter modulation, unless you want sudden changes. 
 
-This module can be good on a [[https://wiki.aemodular.com/pmwiki.php/AeManual/2LFO| LFO]] to , in effect, vary the wave shape - try with a square wave first and you will understand more quickly.
+This module can be good on a [[2lfo.md | LFO]] to , in effect, vary the wave shape - try with a square wave first and you will understand more quickly.
 
-This module can be a way of making an LFO more of a master clock, with the various edge outputs triggering at different times in the waveform cycle.  '''⇅''',    '''PULSE ↑''',  '''PULSE ↓''' & '''PULSE ⇅''' - experiment, very good for a percussion track but one(or more) outputs could be the clock on the [[https://wiki.aemodular.com/pmwiki.php/AeManual/SEQ8| sequencer module]]....
+This module can be a way of making an LFO more of a master clock, with the various edge outputs triggering at different times in the waveform cycle.  '''⇅''',    '''PULSE ↑''',  '''PULSE ↓''' & '''PULSE ⇅''' - experiment, very good for a percussion track but one(or more) outputs could be the clock on the [[seq8.md | sequencer module]]....
 
 %embed% https://youtu.be/1Kx6sTYoG1Y %%

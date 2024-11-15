@@ -39,7 +39,7 @@ https://forum.aemodular.com/post/7208/thread
 
 Any settings of FMOS can make sense in that context and should be done to your liking.
 
-The sine wave can be really good as a modulation CV, usually attenuated with a [[https://wiki.aemodular.com/pmwiki.php/AeManual/2CVTOOL|2CVTOOL]] or similar. 
+The sine wave can be really good as a modulation CV, usually attenuated with a [[2cvtool.md|2CVTOOL]] or similar. 
 
 Here is a video by The 5th Volt which features this module.
 

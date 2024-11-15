@@ -38,10 +38,8 @@ The main OLED display shows the temp on normal operation, and also displays the 
 
 !!! Patch Ideas
 
-Via the use of the external input, this module could be used to divide the midi clock into something more useful for the AE. There is a specific module for this however, the [[mididivider.md| Midiclock Divider]]. This frees up the Heartbeat to be the master clock for any attached sequencers etc. You may want to take an output from the Midiclock divider into the Heartbeat as well.
+Via the use of the external input, this module could be used to divide the midi clock into something more useful for the AE. There is a specific module for this however, the [[midiclock-divider.md| Midiclock Divider]]. This frees up the Heartbeat to be the master clock for any attached sequencers etc. You may want to take an output from the Midiclock divider into the Heartbeat as well.
 
 The use of a master clock that gives up to 6 different outputs means you could have up to 6 different rhythms/patterns in your drum sounds, sequencers etc. 
 
-There is an extender module which gives the use more possibilities:-
-
-[[heartbeat-extender.md|HEARTBEATEXTENDER]]
+There is an extender module which gives the use more possibilities: [[heartbeat-extender.md|HEARTBEATEXTENDER]]

@@ -58,15 +58,11 @@ RSKT has made this, very thorough, tutorial about this module:
 
 %embed% https://youtu.be/PWsf42Qu-Q0 %%
 
-Unless you have a non-Midi system, you will need either the Beat divider or MM Divider module to step down the very fast MIDI clock to a usable clock; the former is simpler but the latter gives you many more options....
-
-https://wiki.aemodular.com/pmwiki.php/AeManual/BEATDIVIDER
-
-https://wiki.aemodular.com/pmwiki.php/AeManual/MM-DIV
+Unless you have a non-Midi system, you will need either the [[midiclock-divider.md | MIDICLOCK DIVIDER]] or [[mm-div.md | MM DIV]] module to step down the very fast MIDI clock to a usable clock; the former is simpler but the latter gives you many more options....
 
 The main intention of  this module is to provide pitch CV to oscillators, with the gate outputs for VCAs, envelope generators etc. 
 
 
-The individual trigger outs can also be used to vary your sequence, by using an attenuator again to give you control over the amount (pitch/filter amount etc.). If your input(s) are full, use a [[4ATTMIX]] or similar to combine the CVs before going to the destination. The [[2ATTCV]] and 4ATT/MIX give you the attenuation/ control required.
+The individual trigger outs can also be used to vary your sequence, by using an attenuator again to give you control over the amount (pitch/filter amount etc.). If your input(s) are full, use a [[4attmix.md|4ATTMIX]] or similar to combine the CVs before going to the destination. The [[2attcv.md|2ATTCV]] and 4ATT/MIX give you the attenuation/ control required.
 
 Taking the previous further, using one of the various outputs, individual trigger out to an envelope is good, you can affect the sound, e.g. filter cut off, vibrato, volume etc. This is a a large rabbit hole...

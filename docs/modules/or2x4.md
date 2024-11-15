@@ -35,6 +35,6 @@ If you use all 4 inputs on a circuit, be aware you will have no output if all 4 
 
 This module is excellent for producing non-linear CVs, e.g. combining an LFO and an Envelope module through this can get very interesting.
 
-It works well to combine triggers from the various [[SEQ16]] outputs to get a different pattern to the main sequence.
+It works well to combine triggers from the various [[seq16.md|SEQ16]] outputs to get a different pattern to the main sequence.
 
 You may find this link useful. https://doudoroff.com/logic/

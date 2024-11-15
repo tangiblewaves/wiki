@@ -24,6 +24,6 @@ Module power consumption: ? mA
 
 !!! Patch Suggestions
 
-This module is similar to the [[AeManual/2CVTOOL]] however it can only add the signal to an offset, not subtract from it. 
+This module is similar to the [[2cvtool.md| 2CVTOOL]] however it can only add the signal to an offset, not subtract from it. 
 
 Nonetheless it is immensely useful for controlling pitch or filter modulations especially when the input signal is coming from a random source.

@@ -6,7 +6,7 @@
 Spring reverbs were an early attempt to create electronic reverb audio effects without requiring an actual large space or echo chamber. While their sound might not be very natural, its unique characteristics have gathered a big following among musicians. Spring reverbs are also relatively small and affordable.
 
 The SPRINGREVERB module is an interface for typical external spring reverb tanks, which are also used in guitar amplifiers:
-%width=250px% http://wiki.aemodular.com/uploads/AeManual/SPRINGREVERB/spring_reverb_tank.png"Spring Reverb Tank"
+[[img|modules/images/spring_reverb_tank.png|400]]
 
 A tank is obligatory and a mid-sized version, like the one pictured above, can be purchased together with the module from the [[https://www.tangiblewaves.com/store/p39/SPRINGREVERB_%28complete_set%29.html | tangible waves online store]]. It connects to the module via a 3.5mm TRS to stereo RCA cable. 
 
@@ -30,9 +30,9 @@ Module power consumption: 5 mA, 14 mA as complete set with spring-tank
 
 !!! Patch Suggestions
 
-- The WET output can be used to further process the reverb signal. For example you can send it through a [[https://wiki.aemodular.com/pmwiki.php/AeManual/NYLEFILTER| filter module]] to reduce high or low frequencies, or you can route it through a VCA (modulated by an envelope) to reduce the reverb time. Since different reverb tanks can also sound very different, having this option is important to fine tune or even radically change the audio effect. Afterwards you need to mix the processed reverb signal back with the audio input signal using a mixer module.
+- The WET output can be used to further process the reverb signal. For example you can send it through a [[nyle-filter.md | filter module]] to reduce high or low frequencies, or you can route it through a VCA (modulated by an envelope) to reduce the reverb time. Since different reverb tanks can also sound very different, having this option is important to fine tune or even radically change the audio effect. Afterwards you need to mix the processed reverb signal back with the audio input signal using a mixer module.
 
-The reverberated signal can, of course, be fed back into any module; the [[PHASER]] can be very good, and filters in particular increase the sonic possibilities.
+The reverberated signal can, of course, be fed back into any module; the [[phaser.md | PHASER]] can be very good, and filters in particular increase the sonic possibilities.
 
 - Reverb tanks are usually open on one side or they can be easily opened to reveal the springs. Touching, tapping, plucking or altering the springs changes the reverb sound and can be used creatively.
 

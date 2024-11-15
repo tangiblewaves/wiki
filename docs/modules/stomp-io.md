@@ -22,10 +22,10 @@ TW do provide 3.5mm to 6.35mm adaptors with this module, but  cables with a diff
 
 Obviously you can use any sort of pedal, but delays, flangers and phasers are particularly good with the AE.  
 
-Some users like distortion pedals, and this can be quite effective via the Stomp I/O as you can adjust the level to suit with the return knob. Running that distorted sound through a [[https://wiki.aemodular.com/pmwiki.php/AeManual/NYLEFILTER| filter]] can be really good.
+Some users like distortion pedals, and this can be quite effective via the Stomp I/O as you can adjust the level to suit with the return knob. Running that distorted sound through a [[nyle-filter.md | filter]] can be really good.
 
 You can also use it to send a signal to an external synth, mixer or other device.  The return can also be useful for bringing an external signal in as you can control the level with the return knob.
 
-One immediate use found was the use of a bass synth pedal to boost the low end of the [[KICK]] module.
+One immediate use found was the use of a bass synth pedal to boost the low end of the [[kick.md | KICK]] module.
 
 If you plug the 2 3.5mm sockets straight to each other, (lead not supplied), this module can be an attenuator, freeing up more complex modules for other duties.

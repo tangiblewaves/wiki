@@ -24,8 +24,8 @@ Module power consumption: 15 mA
 
 !!! Patch Suggestions
 
-This module is essential if you want to play with just your your AE modular, and is very useful for using  when doing mobile synthing - e.g. on batteries  in the garden or wherever. Other equipment can be brought into the AE via the [[https://wiki.aemodular.com/pmwiki.php/AeManual/4IO|4 I/O]] and mixed within the AE before out to the HP Amp module if needed.
+This module is essential if you want to play with just your your AE modular, and is very useful for using  when doing mobile synthing - e.g. on batteries  in the garden or wherever. Other equipment can be brought into the AE via the [[4io.md |4 I/O]] and mixed within the AE before out to the HP Amp module if needed.
 
-The [[https://wiki.aemodular.com/pmwiki.php/AeManual/MULTIFX|Multi-FX module]] is great for taking a mono signal and making it stereo before that goes to the HPAMP module. Another option is the [[https://wiki.aemodular.com/pmwiki.php/AeManual/MIXCONSOLE|Mixconsole]].
+The [[multifx.md|Multi-FX module]] is great for taking a mono signal and making it stereo before that goes to the HPAMP module. Another option is the [[mixconsole.md|Mixconsole]].
 
 '''NOTE:''' due to the signal amplification there can be a noticeable hum or noise when using this to connect to line level equipment like recorders or mixers. For mixing and recording it is better to use the outputs from the Master module or 4I/O which are line level.

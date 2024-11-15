@@ -27,6 +27,6 @@ Module power consumption: ? mA
 
 !!! Patch Suggestions
 
-This can be used like any other LFO, see suggestions at [[AeManual/2LFO]].
+This can be used like any other LFO, see suggestions at [[2lfo.md | 2LFO]].
 
 The square output is very useful for clocking sequencers, triggering Envelope generators etc.

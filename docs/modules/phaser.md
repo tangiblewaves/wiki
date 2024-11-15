@@ -37,12 +37,12 @@ Thanks to Felix from The Tuesday Night Machines for this excellent demo video:
 
 !!!Patch Suggestions
 
-If you want to voltage control the dry/wet mix; set the mix to dry and use the main out and the wet out to two separate channels of a VC mixer - e.g. [[https://wiki.aemodular.com/pmwiki.php/AeManual/4VCA| 4VCA]] or [[https://wiki.aemodular.com/pmwiki.php/AeManual/MIXCONSOLE| Mixconsole]].  The main out need not be completely "dry" just set a minimum level with the dry/wet knob, then the CV adds more wet signal.
+If you want to voltage control the dry/wet mix; set the mix to dry and use the main out and the wet out to two separate channels of a VC mixer - e.g. [[4vca.md | 4VCA]] or [[mixconsole.md | Mixconsole]].  The main out need not be completely "dry" just set a minimum level with the dry/wet knob, then the CV adds more wet signal.
 
 The Phaser works superbly with the Solina module, but any sounds can be put through it, percussion can be really interesting, as shown to some degree in Felix's video above.
 
-The separate stage outputs can be used to give you separately triggerable sounds via VCAs, again can be really good for percussion. Feeding these outs into different inputs of a mixer, (e.g. [[https://wiki.aemodular.com/pmwiki.php/AeManual/DRONX|Dronx]], [[https://wiki.aemodular.com/pmwiki.php/AeManual/4ATTMIX|4ATTMix]]) give you more control over the sound, excellent for live use/jams.
+The separate stage outputs can be used to give you separately triggerable sounds via VCAs, again can be really good for percussion. Feeding these outs into different inputs of a mixer, (e.g. [[dronx.md|Dronx]], [[4attmix.md|4ATTMix]]) give you more control over the sound, excellent for live use/jams.
 
 The internal LFO is perfect for livening up the sound but CV1 with its accompanying knob to set the level is great for adding other modulation, an envelope is highly recommended, especially on string type sounds, lovely. Can be filter sweep like with varying degrees of subtlety. CV2 can be used as you can set the FX level via the envelope settings.
 
-CV2 has no level control but, of course, this can be done outside this module by the CV going through an attenuator before the input - this could be a VCA with a knob or CV controlling the level.  If you just want a knob to control the level the [[https://wiki.aemodular.com/pmwiki.php/AeManual/2ATTCV|2ATTCV]] module can do this perfectly. 
+CV2 has no level control but, of course, this can be done outside this module by the CV going through an attenuator before the input - this could be a VCA with a knob or CV controlling the level.  If you just want a knob to control the level the [[2attcv.md|2ATTCV]] module can do this perfectly. 
