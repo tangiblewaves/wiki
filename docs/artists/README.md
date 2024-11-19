@@ -30,6 +30,8 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[deofol.md|Dēofol]] - Ambient master mind
 
+[[duddex.md|duddex]] - more of a technician than a musician
+
 [[earcandles.md|Earcandles]] - The Synth Doctor
 
 [[foggel.md|Foggel]] - Finding freedom in limitations
