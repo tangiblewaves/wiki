@@ -40,7 +40,7 @@ The CV control of the envelope is extremely useful for doing characteristics lik
 
 If you are wanting to do tremolo (volume) on a sustained note then this module is ideal; put the control CV (e.g. LFO, [[joystick.md|JOYSTICK]] or Midi CC20 via master module) into the sustain CV and away you go - you are likely to need an attenuator...
 
-One fun thing to do is to have an LFO or [sample-and-hold.md|S&H]] doing a slight variation (i.e. use an attenuator) to the decay &/or release CV, nice on most things and can be brilliant on a percussion sound.
+One fun thing to do is to have an LFO or [[sample-and-hold.md|S&H]] doing a slight variation (i.e. use an attenuator) to the decay &/or release CV, nice on most things and can be brilliant on a percussion sound.
 
 The ADSR can also trigger itself when the output END is patched into the GATE input. Depending on the values of ATTACK and DECAY this can make it into a slow moving LFO (low frequency oscillator) or oscillator in audio range, with varied waveforms which can, of course, be modulated via CV on this module. This can be excellent.....
 

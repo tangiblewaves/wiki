@@ -24,7 +24,7 @@
 * [ALGODRONE](modules/algodrone.md)
 * [BEAT DIVIDER](modules/midiclock-divider.md)
 * [BF Synth Le Module](modules/bfsynth_bf01-le-module.md)
-* [BF Synth BF-31 Endless Arpeggios: 5STEPS for AE](modules/bfsynth_bf31-fivesteps.md)
+* [BF Synth BF-31: 5STEPS for AE](modules/bfsynth_bf31-fivesteps.md)
 * [BF Synth Kurt's Dead Band](modules/bfsynth_kurts-deadband.md)
 * [BF Synth Kurt’s Quad Boost](modules/bfsynth_kurts-quadboost.md)
 * [BF Synth Kurt's Sloth](modules/bfsynth_kurts-sloth.md)
