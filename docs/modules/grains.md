@@ -11,56 +11,56 @@ The module comes with the WAVEGRAINS firmware pre-installed which is a wavetable
 
 Module power consumption: 12 mA
 
-!!! Inputs
-* '''IN1''' - accepts a CV signal
-* '''2''' - accepts a CV signal
-* '''3''' - accepts a CV signal
-* '''A''' - accepts an audio signal (this is a new feature of the AE Grains and isn't available on the original Eurorack module)
+## Inputs
+* **IN1** - accepts a CV signal
+* **2** - accepts a CV signal
+* **3** - accepts a CV signal
+* **A** - accepts an audio signal (this is a new feature of the AE Grains and isn't available on the original Eurorack module)
 
-!!! Outputs
-* '''OUT''' - This is an audio signal direct from the PWM output pin of the Atmega chip running through a lowpass filter
-* '''D''' - This is a digital signal that can be used for triggers, etc. (this is also a new feature and does not exist on the original Eurorack module)
-* '''MULT''' - unbuffered multiple, unconnected from the module's circuitry
+## Outputs
+* **OUT** - This is an audio signal direct from the PWM output pin of the Atmega chip running through a lowpass filter
+* **D** - This is a digital signal that can be used for triggers, etc. (this is also a new feature and does not exist on the original Eurorack module)
+* **MULT** - unbuffered multiple, unconnected from the module's circuitry
 
 Bus outputs on the left hand bank of sockets.
 
-* '''Bus CV''' - CV signal from MIDI
-* '''Bus CTRL''' - Gate signal from MIDI
-* '''Bus Gate''' - Gate signal from MIDI
+* **Bus CV** - CV signal from MIDI
+* **Bus CTRL** - Gate signal from MIDI
+* **Bus Gate** - Gate signal from MIDI
 
 
-!!! Controls
-* '''Pot Level 1''' - depending on switch 1 attenuate signal from IN1 or select CV level between 0-5V
-* '''Switch IN1/MAN''' - switch between attenuating signal from IN1 or issue CV between 0-5V (the original Eurorack module does not have this switch)
-* '''Pot Level 2''' - depending on switch 2 attenuate signal from IN2 or select CV level between 0-5V
-* '''Switch IN2/MAN''' - switch between attenuating signal from IN2 or issue CV between 0-5V (the original Eurorack module does not have this switch)
-* '''Pot Level 3''' - select CV level between 0-5V
+## Controls
+* **Pot Level 1** - depending on switch 1 attenuate signal from IN1 or select CV level between 0-5V
+* **Switch IN1/MAN** - switch between attenuating signal from IN1 or issue CV between 0-5V (the original Eurorack module does not have this switch)
+* **Pot Level 2** - depending on switch 2 attenuate signal from IN2 or select CV level between 0-5V
+* **Switch IN2/MAN** - switch between attenuating signal from IN2 or issue CV between 0-5V (the original Eurorack module does not have this switch)
+* **Pot Level 3** - select CV level between 0-5V
 
-->'''Please note: IN 3 and Pot 3 are not related to each other, they are completely independent!'''
+->**Please note: IN 3 and Pot 3 are not related to each other, they are completely independent!**
 
-!!! Mode-Switch
-* '''Switch M/G''' - Selects the internal audio-out pin, use 'M' for 'Mozzi mode' or 'G' for 'Ginkosynthese / original Grains mode'  - Depending on the Firmware used, GRAINS may use the one or the other output option! (If you should experience silence at the output, when not expecting it, please make sure to try out the other option as well.)
+## Mode-Switch
+* **Switch M/G** - Selects the internal audio-out pin, use 'M' for 'Mozzi mode' or 'G' for 'Ginkosynthese / original Grains mode'  - Depending on the Firmware used, GRAINS may use the one or the other output option! (If you should experience silence at the output, when not expecting it, please make sure to try out the other option as well.)
 
 
-->'''Please note: With the first revision of GRAINS this switch is missing, the setting there is equivalent to 'G'!'''
+->**Please note: With the first revision of GRAINS this switch is missing, the setting there is equivalent to 'G'!**
 
-!!! How to install other Firmwares
+## How to install other Firmwares
 
 You can easily install different firmwares on to the GRAINS module or even develop your own programs! 
 
 The following firmwares are currently available from the [[https://www.ginkosynthese.com/grains-codes | Ginkosynthese website]]:
-* '''GRAINS''' - The first code written for the GRAINS, an FOF synthesis oscillator
-* '''ROUNDHOUSE''' - Kick drum based on the 909 with some tweaks
-* '''FRAMEN''' - A cut up amen break
-* '''TALKO-COUNTER''' - Let your GRAINS count like a Speak&math
-* '''TRI-SHAPE''' - An oscillator based on the supersaw
-* '''RZ1''' - Crazy lo-fi drums based on the Casio RZ1
-* '''EURO PWM SAW''' - A supersaw oscillator to bring you back to the 90's
-* '''FRESH''' - A sample used in many classics, your GRAINS will say FRESH!
-* '''FALAFEL RAPS''' - A famous rap sample to mangle into crazy glitch-hop
-* '''WAVEGRAINS''' - A wavetable oscillator
+* **GRAINS** - The first code written for the GRAINS, an FOF synthesis oscillator
+* **ROUNDHOUSE** - Kick drum based on the 909 with some tweaks
+* **FRAMEN** - A cut up amen break
+* **TALKO-COUNTER** - Let your GRAINS count like a Speak&math
+* **TRI-SHAPE** - An oscillator based on the supersaw
+* **RZ1** - Crazy lo-fi drums based on the Casio RZ1
+* **EURO PWM SAW** - A supersaw oscillator to bring you back to the 90's
+* **FRESH** - A sample used in many classics, your GRAINS will say FRESH!
+* **FALAFEL RAPS** - A famous rap sample to mangle into crazy glitch-hop
+* **WAVEGRAINS** - A wavetable oscillator
 
-'''IMPORTANT''' Those firmwares only work in the "GRAINS" mode, so the top right switch needs to be on "G".
+**IMPORTANT** Those firmwares only work in the "GRAINS" mode, so the top right switch needs to be on "G".
 
 To install those firmwares on the module you need to follow these steps:
 
@@ -80,15 +80,15 @@ Once you have the file open in the Arduino IDE you can upload them to the GRAINS
 
 Once the IDE shows that upload is complete you can disconnect the USB cable and use the GRAINS module with the new firmware.
 
-!!!Developing your own Firmware
+## Developing your own Firmware
 Using the existing codes as example you can either make changes to them or develop your own firmware from scratch. The following diagram shows how you can access the various inputs, outputs and controls from within your code:
 
 [[img|modules/images/ide-board.png|500]]
 
 
-'''WARNING''' It is possible to "brick" your GRAINS with certain operations when you develop and test your own firmware programs! This has happened once and you can find how that happened and how it was resolved in this [[ https://forum.aemodular.com/thread/1858/serialport-show-anymore-brick-grains | thread on the forum]].
+**WARNING** It is possible to "brick" your GRAINS with certain operations when you develop and test your own firmware programs! This has happened once and you can find how that happened and how it was resolved in this [[ https://forum.aemodular.com/thread/1858/serialport-show-anymore-brick-grains | thread on the forum]].
 
-!!! Patch examples
+## Patch examples
 
 This video explains the module in more detail and has some patch examples for various firmwares.
 %embed% https://youtu.be/qpniMuq--M8 %%
@@ -97,7 +97,7 @@ There is a section on the forum dedicated to discussing programming this module:
 
 https://forum.aemodular.com/board/24/programming-grains
 
-!! Community Firmwares
+# Community Firmwares
 
 This code repository contains various firmwares that have been developed specifically for the AE Modular GRAINS module. This has started with the work by German author and software developer Mathias aka @visuellemusik. We encourage you to analyse the code and post your own firmware which we would add to this growing repository. With V2 of GRAINS building your own firmware using the Mozzi Library is possible now, too.
 With such a firmware the Mode-Switch as explained above and also symbolized in the schematics has to be set to 'M'. Please be aware that some versions of the Mozzi-Library did not work as expected in combination with certain versions of the Arduino IDE. An overview of recommended combinations of the two environments, including prereleases of Mozzi can be found here: https://github.com/sensorium/Mozzi/releases
@@ -112,14 +112,14 @@ This video explains how the [[https://github.com/aemodular/GRAINS/tree/master/By
 And this video explains the workings of the SpellOrSpeak firmware, also developed by Mathias.
 %embed% https://youtu.be/a1aS6E0b0Fk %%
 
-!! EC Lab aka @feijal
+# EC Lab aka @feijal
 In just the shortest time frame imaginable, Sean aka @feijal has put out a huge number of firmwares for the GRAINS module. You can find them all in this Github repo:
 
 https://github.com/eclab/grains/
 
 You can find help and discussion about these modes on the forum here: https://forum.aemodular.com/board/24/programming-grains
 
-!! Wonkystuff
+# Wonkystuff
 This is a new firmware developed by Wonkystuff which brings a Karplus Strong algorithm to the GRAINS module. You can find the code here on Github:
 
 https://github.com/wonkystuff/ks_grains

@@ -18,18 +18,18 @@ There is also an AE modular discord group if you more immediate conversation, th
 
 If you want to spec your own system, you need to decide what it is for, if you want it to be a self contained noise machine, then you need all the usual synth parts - Oscillators, VCAs, Filters etc.
 
-The AE is a cheap way to expand many commercial synths, especially semi-modulars like the Arturia Minibrute, Behringer Neutron, etc. The ones mentioned even share the 3.5mm mini jack size with the 4 I/O module so the leads are easy to connect. It is '''highly recommended''' that all external inputs to the AE go through the 4 I/O module to protect the circuits from voltages outside the 0-5V range it uses.
+The AE is a cheap way to expand many commercial synths, especially semi-modulars like the Arturia Minibrute, Behringer Neutron, etc. The ones mentioned even share the 3.5mm mini jack size with the 4 I/O module so the leads are easy to connect. It is **highly recommended** that all external inputs to the AE go through the 4 I/O module to protect the circuits from voltages outside the 0-5V range it uses.
 
 The AE Modular can be completely self contained, but has a MIDI input on the Master module so you can sync (or play) from external equipment. This is, by far, the best way to have a keyboard connected to the AE; many users on the forum use the Arturia Keystep but any keyboard/synth with a MIDI output can be used. There are quite a few synths / modules these days which have a gate / CV available but the warning regarding voltage range in the previous paragraph applies again.
 
 Please follow the links below for more in depth information on how to connect your AE modular to power, audio and external devices and to record your performance!
 
-'''[[getting-started-1.md|Step 1: Connect Power]]'''
+**[[getting-started-1.md|Step 1: Connect Power]]**
 
-'''[[getting-started-2.md|Step 2: Connect Audio]]'''
+**[[getting-started-2.md|Step 2: Connect Audio]]**
 
-'''[[getting-started-3.md|Step 3: Connect Keyboards or Sequencers]]'''
+**[[getting-started-3.md|Step 3: Connect Keyboards or Sequencers]]**
 
-'''[[getting-started-4.md|Step 4: First basic patch]]'''
+**[[getting-started-4.md|Step 4: First basic patch]]**
 
-'''[[getting-started-5.md|Step 5: Record Your Performance]]''' - also see the [[/artists/ | AE Artists section]] of the Wiki
+**[[getting-started-5.md|Step 5: Record Your Performance]]** - also see the [[/artists/ | AE Artists section]] of the Wiki

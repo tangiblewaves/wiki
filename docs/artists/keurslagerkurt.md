@@ -6,7 +6,7 @@ Zeno aka Keurslager Kurt is a DIY entrepreneur and talented musician who can com
 
 You can read all about him in this profile on the tangible waves website: https://www.tangiblewaves.com/news/archives/03-2021
 
-!! Links
+# Links
 
 * [[https://www.tindie.com/stores/keurslagerkurt/ | Tindie Shop where you can buy his modules]]
 * [[https://keurslagerkurt.bandcamp.com/| Bandcamp]]

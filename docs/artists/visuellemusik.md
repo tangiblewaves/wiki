@@ -9,12 +9,12 @@ More recently he became a writer with a focus on DIY and modular synthesis for a
 He has created numerous firmwares/plugins for the [[ grains.md | GRAINS ]] and  TBD modules which you can find on Github at https://github.com/aemodular/GRAINS and https://github.com/aemodular/ctag-tbd
 
 
-!! Links
+# Links
 
 * [[https://soundcloud.com/taitekatto | SoundCloud]]
 
 
-!!Gear
+# Gear
 
 * Ableton Live with Launchpad and Midifighter Twisters.
 * AE Modular

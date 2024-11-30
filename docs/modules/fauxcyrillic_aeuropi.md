@@ -12,23 +12,23 @@ EuroPi was developed by Rory Allen, who gave his blessing to this AE port; many 
 Module power consumption: 70mA
 
 
-!!! Inputs
-* '''D in''' - Digital Input
-* '''A in''' - Analog Input
+## Inputs
+* **D in** - Digital Input
+* **A in** - Analog Input
 
-!!! Outputs
-* '''B.CV''' - outputs the CV signal from the AE Bus
-* '''B.Gate''' - outputs the Gate signal from the AE Bus
+## Outputs
+* **B.CV** - outputs the CV signal from the AE Bus
+* **B.Gate** - outputs the Gate signal from the AE Bus
 
 The module also has 6 analog outputs on the top right which are controlled by the currently selected mode.
 
-!!! Controls
+## Controls
 
 From the main menu, use knob 2 (on the right) to move up and down to select a script. Press either button to launch a script.
 
 To return to the main menu at any point, press and hold both buttons for ~2 seconds, then release.
 
-!!! Scripts
+## Scripts
 
 To see the full details of each script you can read their .md files on [[https://github.com/fauxcyrillic/AEuroPi/tree/AEuroPi-custom-latest/software/contrib | Github]]
 
@@ -106,7 +106,7 @@ Here is a brief overview of the current scripts included in the AE version:
 [[https://github.com/fauxcyrillic/AEuroPi/blob/AEuroPi-custom-latest/software/contrib/turing_machine.md | TURING MACHINE]] - A faithful Turing Machine port with some of the functionality of the Pulses expander. Random looped CV on output 6, the other 5 outputs provide various combinations of pulses.
 
 
-!!! More Info
+## More Info
 
 There is a section on the AE Modular forum to discuss programming this module:
 

@@ -8,46 +8,46 @@ The SOLINA String Machine is a digital string synthesizer module for lush pad so
 Module power consumption: 11 mA
 
 
-!!! Inputs
+## Inputs
 
-* '''CV''' - CV input for chord selection
-* '''CH. VAR CV''' - CV input to select the chord variants (inversions, raised thirds, etc.)
-* '''CHORD +''' - Trigger input to play the next chord in the progression preset
-* '''CHORD -''' - Trigger input to play the previous chord in the progression preset
-* '''4th GATE''' - Gate input. switching the 4th note on (high) or off (low)
+* **CV** - CV input for chord selection
+* **CH. VAR CV** - CV input to select the chord variants (inversions, raised thirds, etc.)
+* **CHORD +** - Trigger input to play the next chord in the progression preset
+* **CHORD -** - Trigger input to play the previous chord in the progression preset
+* **4th GATE** - Gate input. switching the 4th note on (high) or off (low)
 
 
-!!! Outputs
+## Outputs
 
-* '''BUS CV''' - (positioned on the left side) Pitch signal from the MIDI bus
-* '''BUS GATE''' - (positioned on the left side) Gate signal from the MIDI bus
-* '''OUT''' - Audio output
-* '''MULT''' - Unbuffered multiple
+* **BUS CV** - (positioned on the left side) Pitch signal from the MIDI bus
+* **BUS GATE** - (positioned on the left side) Gate signal from the MIDI bus
+* **OUT** - Audio output
+* **MULT** - Unbuffered multiple
 
-!!! Controls
+## Controls
 
 Chord generation and playback:
 
-* '''COARSE FREQ''' knob - tunes the root note of the chord (quantized to semi tones)
-* '''FINE FREQ''' knob - tunes the root note of the chord (unquantized)
-* '''+1 OCT''' switch - transposes the chords up by one octave
-* '''CHORD''' knob - selects the chord to be played
-* '''CHORD + / -''' buttons - step through a preset chord progression (1-4-5, etc.), if the CHORD knob is set all the way counterclockwise
-* '''CHORD VAR''' knob - selects different chord variants. Middle position is the standard position for regular chords. In the left half there are inversions and in the right half there are variants with raised or lowered 3rds or 5ths, as well as 5ths-only at the full clockwise position. 
-* '''MAJ/MIN SCALE''' switch - switches between major or minor scale
-* '''4TH NOTE ON''' switch - adds a fourth note to the chord
-* '''7th / BASS''' switch - selects the 7th or the Bass note as 4th note
+* **COARSE FREQ** knob - tunes the root note of the chord (quantized to semi tones)
+* **FINE FREQ** knob - tunes the root note of the chord (unquantized)
+* **+1 OCT** switch - transposes the chords up by one octave
+* **CHORD** knob - selects the chord to be played
+* **CHORD + / -** buttons - step through a preset chord progression (1-4-5, etc.), if the CHORD knob is set all the way counterclockwise
+* **CHORD VAR** knob - selects different chord variants. Middle position is the standard position for regular chords. In the left half there are inversions and in the right half there are variants with raised or lowered 3rds or 5ths, as well as 5ths-only at the full clockwise position. 
+* **MAJ/MIN SCALE** switch - switches between major or minor scale
+* **4TH NOTE ON** switch - adds a fourth note to the chord
+* **7th / BASS** switch - selects the 7th or the Bass note as 4th note
 
 Sound shaping:
 
-* '''OSC SPREAD''' knob - slightly detunes the individual notes for a wider, moving sound
-* '''TONE''' knob - blends between a lo-fi digital low pass and high pass filter effect
-* '''LFO RATE''' knob - adjusts the vibrato speed
-* '''PITCH MOD''' knob - adjusts the vibrato amount
-* '''ENSEMBLE MIX''' knob - blends in a phaser effect
+* **OSC SPREAD** knob - slightly detunes the individual notes for a wider, moving sound
+* **TONE** knob - blends between a lo-fi digital low pass and high pass filter effect
+* **LFO RATE** knob - adjusts the vibrato speed
+* **PITCH MOD** knob - adjusts the vibrato amount
+* **ENSEMBLE MIX** knob - blends in a phaser effect
 
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 For authentic 70s strings, (or just great sound sin general), the [[phaser.md | PHASER]] module is a great partner for the Solina.
 

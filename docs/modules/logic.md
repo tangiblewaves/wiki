@@ -13,18 +13,18 @@ This can be used
 
 Module power consumption: 1 mA
 
-!!! Inputs
-* '''1A''' - First signal input for logic operator 1
-* '''1B''' - Second signal input for logic operator 1
-* '''2A''' - First signal input for logic operator 2
-* '''2B''' - Second signal input for logic operator 2
-* '''IN3''' - Signal to be inverted
-* '''IN4''' - Signal to be inverted
+## Inputs
+* **1A** - First signal input for logic operator 1
+* **1B** - Second signal input for logic operator 1
+* **2A** - First signal input for logic operator 2
+* **2B** - Second signal input for logic operator 2
+* **IN3** - Signal to be inverted
+* **IN4** - Signal to be inverted
 
-!!! Outputs
+## Outputs
 The outputs are grouped in two identical groups marked with number 1 and 2 for each individual LOGIC operator.  We only describe the outputs of one group as they work exactly the same for the other group.
 
-* '''NAND''' - (Not AND) outputs a LOW signal when '''both''' input signals are HIGH.  Otherwise outputs HIGH.  This is the truth table:
+* **NAND** - (Not AND) outputs a LOW signal when **both** input signals are HIGH.  Otherwise outputs HIGH.  This is the truth table:
 
 **NAND**
 
@@ -36,7 +36,7 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
   | 1 | 1 | 0 |
 
 
-* '''AND''' - outputs a HIGH signal when '''both''' input signals are HIGH.  Otherwise, outputs LOW.
+* **AND** - outputs a HIGH signal when **both** input signals are HIGH.  Otherwise, outputs LOW.
 
 **AND**
 
@@ -48,7 +48,7 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
   | 1 | 1 | 1 |
 
 
-* '''XOR''' - (Exclusive OR) outputs a HIGH signal when '''either''' input signal is HIGH but '''not when both''' are HIGH or LOW.
+* **XOR** - (Exclusive OR) outputs a HIGH signal when **either** input signal is HIGH but **not when both** are HIGH or LOW.
 
 **XOR**
 
@@ -60,16 +60,16 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
   | 1 | 1 | 0 |
 
 
-* '''INV3''' - Inverts the signal of IN3 input.  If IN3 is HIGH, it outputs LOW.  If IN3 is LOW, it outputs HIGH.
-* '''INV4''' - Inverts the signal of IN4 input.  If IN4 is HIGH, it outputs LOW.  If IN4 is LOW, it outputs HIGH.
+* **INV3** - Inverts the signal of IN3 input.  If IN3 is HIGH, it outputs LOW.  If IN3 is LOW, it outputs HIGH.
+* **INV4** - Inverts the signal of IN4 input.  If IN4 is HIGH, it outputs LOW.  If IN4 is LOW, it outputs HIGH.
 
 
 
-!!! Display
-* '''AND 1''' - Visual reference for the first logic gate AND output.  When AND output is HIGH, the LED turns on.  When the AND output is LOW, the LED turns of.
-* '''AND 2''' - Visual reference for the second logic gate AND output.  When AND output is HIGH, the LED turns on.  When the AND output is LOW, the LED turns of.
+## Display
+* **AND 1** - Visual reference for the first logic gate AND output.  When AND output is HIGH, the LED turns on.  When the AND output is LOW, the LED turns of.
+* **AND 2** - Visual reference for the second logic gate AND output.  When AND output is HIGH, the LED turns on.  When the AND output is LOW, the LED turns of.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 - The very basic patch is to connect one Pulse [[2lfo.md | LFO]] into 1A and another one into 1B.  Then connect any of the outputs of group 1 to the a VCA's CV input.
 
@@ -85,7 +85,7 @@ The outputs are grouped in two identical groups marked with number 1 and 2 for e
 
 - Basically just use it like a VCO, by processing other VCOs.
 
-- You can create new truth tables (LOGIC gate operators or logic rules) by patching the output of one group to one of the inputs of the other group or to the inverters.  For example, connecting XOR1 to IN3 would result in INV3 outputing HIGH when both signals are HIGH '''or''' LOW, but not when one of them is HIGH and the other one LOW, resulting in a XNOR gate (Exclusive Not OR gate).  See the truth table and notice that it's the exact opposite of the XOR truth table.
+- You can create new truth tables (LOGIC gate operators or logic rules) by patching the output of one group to one of the inputs of the other group or to the inverters.  For example, connecting XOR1 to IN3 would result in INV3 outputing HIGH when both signals are HIGH **or** LOW, but not when one of them is HIGH and the other one LOW, resulting in a XNOR gate (Exclusive Not OR gate).  See the truth table and notice that it's the exact opposite of the XOR truth table.
 
 **XNOR**
 

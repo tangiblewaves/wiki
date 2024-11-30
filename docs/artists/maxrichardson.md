@@ -10,7 +10,7 @@ The AE Modular system by Tangible Waves has become absolutely integral to my cre
 
 I got hold of my AE system in 2020, and within about a week of owning a starter rack I'd realised that I was going to buy a second case. I couldn't believe the flexibility that this system offered, and the sheer joy of being able to patch together unique sounds.
 
-!! Links
+# Links
 
 * [[https://www.youtube.com/channel/UCUq0ZkiQ4Pd-XHvhHkqqTnA | YouTube]]
 * [[https://maxrichardson.bandcamp.com/ | Bandcamp]]
@@ -19,7 +19,7 @@ I got hold of my AE system in 2020, and within about a week of owning a starter 
 * [[https://twitter.com/Maximillius001 | Twitter]]
 * [[https://push.fm/fl/maxrichardson | Spotify, Deezer, iTunes, etc.]]
 
-'''YouTube''' 
+**YouTube** 
 
 %embed% https://youtu.be/quhSdDSmBR0 %%
 

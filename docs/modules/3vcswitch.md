@@ -8,34 +8,34 @@ This module gives you 3 separate switches, controllable from the buttons on the 
 
 Module power consumption: 4 mA
 
-!!! Inputs
+## Inputs
 
-* ''' IO1''' - Circuit 1's in/out going  to/from 1A or 1B
-* '''Gate1''' - a +5V pulse here switches from 1A to 1B or from 1B to 1A
-* '''IO2''' - Circuit 2's in/out going  to/from 2A or 2B
-* '''Gate2'''  - a +5V pulse here switches from 2A to 2B or from 2B to 2A
-* '''IO3''' - Circuit 3's in/out going  to/from 3A or 3B
-* '''Gate3'''  - a +5V pulse here switches from 3A to 3B or from 3B to 3A
-* '''+5V''' - actually an output giving +5V, the maximum the AE Modular can deal with. Very useful for further processing via this module or others for modulation.
-* '''Bus Gate''' - This output gives a +5V  signal whilst an external midi device key on is pressed, via the Master module.
+* **IO1** - Circuit 1's in/out going  to/from 1A or 1B
+* **Gate1** - a +5V pulse here switches from 1A to 1B or from 1B to 1A
+* **IO2** - Circuit 2's in/out going  to/from 2A or 2B
+* **Gate2**  - a +5V pulse here switches from 2A to 2B or from 2B to 2A
+* **IO3** - Circuit 3's in/out going  to/from 3A or 3B
+* **Gate3**  - a +5V pulse here switches from 3A to 3B or from 3B to 3A
+* **+5V** - actually an output giving +5V, the maximum the AE Modular can deal with. Very useful for further processing via this module or others for modulation.
+* **Bus Gate** - This output gives a +5V  signal whilst an external midi device key on is pressed, via the Master module.
 
-!!! Outputs
+## Outputs
 
-* '''1A''' - Circuit 1's A in/out
-* '''1B''' - Circuit 1's B in/out
-* '''2A''' - Circuit 2's A in/out
-* '''2B''' - Circuit 2's B in/out
-* '''3A''' - Circuit 3's A in/out
-* '''3B''' - Circuit 3's B in/out
+* **1A** - Circuit 1's A in/out
+* **1B** - Circuit 1's B in/out
+* **2A** - Circuit 2's A in/out
+* **2B** - Circuit 2's B in/out
+* **3A** - Circuit 3's A in/out
+* **3B** - Circuit 3's B in/out
 
-!!! Controls
+## Controls
 
 The panel is marked 1,2 and 3 for each circuit, the controls are the same for each.
 
-* '''Latch''' button. - When this button is pressed it moves the connection from A to B or B to A.
-* '''MMT''' button. - When this button is pressed output/input on A is switched to B, or vice versa, but only whilst the switch is pressed, i.e. it is a momentary button. 
+* **Latch** button. - When this button is pressed it moves the connection from A to B or B to A.
+* **MMT** button. - When this button is pressed output/input on A is switched to B, or vice versa, but only whilst the switch is pressed, i.e. it is a momentary button. 
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 There is a patch challenge for this module on the forum. Here you can find more interesting uses of this module: http://forum.aemodular.com/thread/313/patch-challenge-pulling-old-switcheroo
 

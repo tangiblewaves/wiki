@@ -18,34 +18,34 @@ The outputs are buffered and have a small amount of gain. Each output has multip
 
 Module power consumption: <1 mA
 
-!!! Inputs
+## Inputs
 
 Version 1
-* '''1''' -  CV input for channel 1
-* '''1a''' - Audio input for Channel 1 
-* '''2''' - CV input for channel 1
-* '''2a''' - Audio input for Channel 1 
-* '''3''' - CV input for channel 3
-* '''3a''' - Audio input for Channel 3
+* **1** -  CV input for channel 1
+* **1a** - Audio input for Channel 1 
+* **2** - CV input for channel 1
+* **2a** - Audio input for Channel 1 
+* **3** - CV input for channel 3
+* **3a** - Audio input for Channel 3
 
 Version 2 has improved inputs so the same input can be used for CV or audio, this is optimised for the outputs via a switch instead (see below). V2 also has a 
-* '''MULT''' - passive mixer/splitter not connected to the module circuit.
+* **MULT** - passive mixer/splitter not connected to the module circuit.
 
-!!! Outputs
+## Outputs
 
-* '''x''' (x3) - The combined signal whose level(s) are set by the left hand column of knobs. 
-* '''y''' (x3) - The combined signal whose level(s) are set by the central column of knobs.
-* '''z''' (x2) - The combined signal whose level(s) are set by the right hand column of knobs. 
+* **x** (x3) - The combined signal whose level(s) are set by the left hand column of knobs. 
+* **y** (x3) - The combined signal whose level(s) are set by the central column of knobs.
+* **z** (x2) - The combined signal whose level(s) are set by the right hand column of knobs. 
 
-!!! Controls
+## Controls
 
 * The top row of knobs (1 line) is for channel 1, the left knob sets the level for output X, the middle knob sets the level for output Y and the right knob the level for output Z.  
 * The middle row of knobs (2 lines) does the same for input 2.
 * The bottom row of knobs (3 lines) does the same for input 3.
 
-Version 2 also has 3 switches, 1 for each '''output''' to select between audio and CV signals. The difference is audio in the AE is centred around 2.5Vs, whereas CVs are 0 to 5V.
+Version 2 also has 3 switches, 1 for each **output** to select between audio and CV signals. The difference is audio in the AE is centred around 2.5Vs, whereas CVs are 0 to 5V.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This mixer is excellent for combining CVs and sending to multiple outs, a veritable modulation matrix! 
 

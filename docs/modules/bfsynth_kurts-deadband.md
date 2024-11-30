@@ -4,27 +4,27 @@ Kurt's Dead Band module is a unique waveshaper, it is able to shape both audio a
 
 You can purchase the module here: [[https://www.tindie.com/products/bfsynths/kurts-dead-band-kit/ ]]
  
-!! Inputs
+# Inputs
  
-* '''In''': Four inputs that get actively mixed together before they enter the waveshaper circuit, much like the B section of the 4-4 Mixer. Input can be both audio or CV/DC.
-* '''CV''': Four CV inputs that get actively mixed together before they enter the waveshaper circuit. CV is used to control the location parameter of the dead band.
+* **In**: Four inputs that get actively mixed together before they enter the waveshaper circuit, much like the B section of the 4-4 Mixer. Input can be both audio or CV/DC.
+* **CV**: Four CV inputs that get actively mixed together before they enter the waveshaper circuit. CV is used to control the location parameter of the dead band.
  
-!! Outputs
+# Outputs
  
-* '''Out''': The inputs with an introduced dead band.
-* '''CV Mix''': The four CV inputs that are mixed together, useful as an additional mixer or to use further on with other modules.
-* '''Mult''': 6 passive mult patchpoints that are connected.
+* **Out**: The inputs with an introduced dead band.
+* **CV Mix**: The four CV inputs that are mixed together, useful as an additional mixer or to use further on with other modules.
+* **Mult**: 6 passive mult patchpoints that are connected.
  
-!! Controls
+# Controls
  
-* '''Location''': The location of the dead band, ranging from 0V to 5V. Any input CV amount gets 'added' to this fixed voltage.
-* '''Size''': The range or width of this dead band, centered around the location. If you turn it full left, there should be barely any effect. Fully to the right, audio should be gone or almost gone, depending on the input volume.
-* '''CV''': An attenuation knob for the input CV, much likes the knobs found on AE Filters. It determines how much the CV input influences the 'Location' parameter.
-* '''Gain''': This knob acts as a final gain after the dead band is introduced. However, it should be noted, that it does not act like your usual 'gain' or amplification. Depending on where you deadbanded your input, this parameter will act differently. It will work as a classic gain (ie volume boost) only when your circuit is deadbanded around 2.5V, so with the 'Location' knob in its central setting. This knob is particularly useful when you feed eg an envelope as input to the module. Tweaking this parameter will make sure that the 'start' of your envelope is at 0V, and not at eg 1V (which would otherwise give you a slight sustain when you drive a VCA with your envelope). Experimenting is key with this parameter, it is a dangerous one to tweak in the middle of a live performance!
+* **Location**: The location of the dead band, ranging from 0V to 5V. Any input CV amount gets 'added' to this fixed voltage.
+* **Size**: The range or width of this dead band, centered around the location. If you turn it full left, there should be barely any effect. Fully to the right, audio should be gone or almost gone, depending on the input volume.
+* **CV**: An attenuation knob for the input CV, much likes the knobs found on AE Filters. It determines how much the CV input influences the 'Location' parameter.
+* **Gain**: This knob acts as a final gain after the dead band is introduced. However, it should be noted, that it does not act like your usual 'gain' or amplification. Depending on where you deadbanded your input, this parameter will act differently. It will work as a classic gain (ie volume boost) only when your circuit is deadbanded around 2.5V, so with the 'Location' knob in its central setting. This knob is particularly useful when you feed eg an envelope as input to the module. Tweaking this parameter will make sure that the 'start' of your envelope is at 0V, and not at eg 1V (which would otherwise give you a slight sustain when you drive a VCA with your envelope). Experimenting is key with this parameter, it is a dangerous one to tweak in the middle of a live performance!
  
 * The switch allows you to change the dead band from a horizontal to a vertical dead band. A horizontal dead band introduces a horizontal 'pause' in the waveform, while a vertical dead band introduces a sudden 'bump' in voltage.
  
-!! Patch Suggestions
+# Patch Suggestions
  
 The Dead Band module is very much a 'building block' module. Depending on what you feed it, it can give very different results, so experimenting and trying different out of the box stuff is the way to go! But some basic ideas to get you going:
  

@@ -6,7 +6,7 @@ I'm a noisemaker, audio engineer and general doer of interesting things from Mel
 I got ahold of an AE system in early 2019 and have slowly been building my way up to a system and studio setup I can use to work primarily out of the box and make some girthy, wall-of-sound synth-filled music.
 I'm a confirmed lurker on the forum, you can find me under the username @bradaddle.
 
-!! Links
+# Links
 * [[https://www.youtube.com/channel/UCAprXMnfvsfvkoipD0Zjxog/ | YouTube]] (Mostly finished works)
 * [[https://www.instagram.com/DBSC.bradaddle/ | Instagram]] (DIY studio upgrades and other such things)
 * [[https://soundcloud.com/babysfirst | Soundcloud]] (Sketches, b-sides and old stuff)
@@ -16,6 +16,6 @@ I'm a confirmed lurker on the forum, you can find me under the username @bradadd
 %embed% https://youtu.be/E8GGOb-qSVk %%
 
 
-!! Studio
+# Studio
 
 I'm happily working with my AE modular, two modded MS-20 Mini's and an Alesis Midiverb run through a modded Yamaha MC1202 desk into Ableton, which I also use as my primary sequencer.

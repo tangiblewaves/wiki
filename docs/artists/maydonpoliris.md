@@ -4,7 +4,7 @@
 
 Enjoys experimental jamming with a story in mind over various genres.
 
-!! Links
+# Links
 
 [[https://linktr.ee/maydonpoliris| My Linktree ]]
 
@@ -12,7 +12,7 @@ Enjoys experimental jamming with a story in mind over various genres.
 
 %embed%  https://www.youtube.com/watch?v=LUVhvKsp17c %%
 
-!!Gear
+# Gear
 
 * AE Modular
 * Dawless recording into Zoom L12

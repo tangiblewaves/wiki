@@ -12,27 +12,27 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
-!!! Inputs
+## Inputs
 
-* '''IN 1''' - the audio to be "sampled" on channel 1.
-* '''TRG 1''' - when activated the module takes a voltage measurement from input 1.
-* '''IN 2''' - the audio to be "sampled" on channel 2.
-* '''TRG 2/CLK'''   - when activated the module takes a voltage measurement from input 2 and can also act as clock for the random CV output.
+* **IN 1** - the audio to be "sampled" on channel 1.
+* **TRG 1** - when activated the module takes a voltage measurement from input 1.
+* **IN 2** - the audio to be "sampled" on channel 2.
+* **TRG 2/CLK**   - when activated the module takes a voltage measurement from input 2 and can also act as clock for the random CV output.
 
-!!! Outputs
+## Outputs
 
-* '''1''' - S&H output channel 1
-* '''2''' - S&H output channel 2
-* '''R''' - Noise
-* '''CLK''' - Random Clock
+* **1** - S&H output channel 1
+* **2** - S&H output channel 2
+* **R** - Noise
+* **CLK** - Random Clock
 
-!!! Controls
+## Controls
 
-* '''T&H / S&H''' Switch - changes the behaviour of either sampling the input and holding that voltage at the trigger point, or tracking the input when the trigger is positive; these cause very different CVs to be produced by the module from the same input.
+* **T&H / S&H** Switch - changes the behaviour of either sampling the input and holding that voltage at the trigger point, or tracking the input when the trigger is positive; these cause very different CVs to be produced by the module from the same input.
 
-* '''TAP / MODE''' Button - tapping the button a few times sets the speed of the random value changes. 
+* **TAP / MODE** Button - tapping the button a few times sets the speed of the random value changes. 
   * Tapping the button only one time: The random value output is updated when the input TRIG2 gets a trigger signal / it's synced to TRIG2 input.
-  * '''Mode display and changing:'''
+  * **Mode display and changing:**
     * Holding the button displays the currently set mode:
       * 1x: (audio) noise output 
       * 2x: random CV
@@ -40,7 +40,7 @@ Module power consumption: ? mA
       * To change the mode: Hold the button longer until the desired mode (= number of LED flashes) is displayed, then release the button. The mode and selected speed is saved when powered off.
 
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This module is very similar to the combination of [[noise.md| NOISE]] and [[sample-and-hold.md | SAMPLEHOLD]] and all the patch suggestions for those modules apply here as well.
 

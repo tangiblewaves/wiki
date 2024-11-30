@@ -9,21 +9,21 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
-!!! Inputs
+## Inputs
 
-* '''IN''' - the incoming audio signal
+* **IN** - the incoming audio signal
 
 
-!!! Outputs
+## Outputs
 
-* '''OUT''' - the output signal after the frequencies have been adjusted.
+* **OUT** - the output signal after the frequencies have been adjusted.
 
-!!! Controls
+## Controls
 
-* '''LOW''' - Controls the amount of low frequencies in the output signal
-* '''HIGH''' - Controls the amount of high frequencies in the output signal
+* **LOW** - Controls the amount of low frequencies in the output signal
+* **HIGH** - Controls the amount of high frequencies in the output signal
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This can be used as a simple EQ for your output signal, eg. in performances where you want to "fade" out the whole track by removing the low frequencies.
 

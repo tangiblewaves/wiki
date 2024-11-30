@@ -11,47 +11,47 @@ https://wonkystuff.net/tag/examplecore/
 
 Module power consumption: 25mA
 
-!!! Inputs
-* '''cv-b''' - CV control for the '''b''' parameter
-* '''cv-c''' - CV control for the '''c''' parameter
-* '''cv-d''' - CV control for the '''d''' parameter
-* '''a-in''' - Audio input for effects and also to upload new firmware
+## Inputs
+* **cv-b** - CV control for the **b** parameter
+* **cv-c** - CV control for the **c** parameter
+* **cv-d** - CV control for the **d** parameter
+* **a-in** - Audio input for effects and also to upload new firmware
 
-!!! Outputs
-* '''m-a''' - PWM produced output which is AC coupled (for audio signals)
-* '''m-c''' - PWM produced output which is DC coupled (for control signals)
-* '''s-a''' - digital output which is AC coupled (for audio signals)
-* '''s-c''' - digital output which is DC coupled (for control signals)
+## Outputs
+* **m-a** - PWM produced output which is AC coupled (for audio signals)
+* **m-c** - PWM produced output which is DC coupled (for control signals)
+* **s-a** - digital output which is AC coupled (for audio signals)
+* **s-c** - digital output which is DC coupled (for control signals)
 
-!!! Controls
-* '''a''' potentiometer - control for parameter '''a'''
-* '''b''' potentiometer - control for parameter '''b'''
-* '''c''' potentiometer - control for parameter '''c'''
-* '''d''' potentiometer - control for parameter '''d'''
-* '''rst''' button - used for uploading new firmwares, see below for instructions.
-* '''led''' - this LED can be programmed to flash. It also indicates the upload progress when uploading a new firmware.
+## Controls
+* **a** potentiometer - control for parameter **a**
+* **b** potentiometer - control for parameter **b**
+* **c** potentiometer - control for parameter **c**
+* **d** potentiometer - control for parameter **d**
+* **rst** button - used for uploading new firmwares, see below for instructions.
+* **led** - this LED can be programmed to flash. It also indicates the upload progress when uploading a new firmware.
 
-!!! Controls of the default dr1 firmware
+## Controls of the default dr1 firmware
 
 The core1.ae module comes with the dr1 firmware pre-installed. This is a complex oscillator which is really fun to play with and also gives you a selection of different waveforms. 
 
-'''Outputs'''
+**Outputs**
 
-* '''m-a/c''' - Main audio output
-* '''s-a/c''' - Square-wave sub-oscillator output
+* **m-a/c** - Main audio output
+* **s-a/c** - Square-wave sub-oscillator output
 
-'''Controls'''
+**Controls**
 
-* Knob '''a''' - 'perturbation' (random switching of wavetables
-* Knob '''b''' - wavetable select (Sine, Triangle, Square, Saw with intermediate positions being a blend)
-* Knob '''c''' - Main oscillator frequency (Fundamental pitch)
-* Knob '''d''' - Secondary oscillator frequency (enveloped by the main oscillator)
+* Knob **a** - 'perturbation' (random switching of wavetables
+* Knob **b** - wavetable select (Sine, Triangle, Square, Saw with intermediate positions being a blend)
+* Knob **c** - Main oscillator frequency (Fundamental pitch)
+* Knob **d** - Secondary oscillator frequency (enveloped by the main oscillator)
 
-'''Inputs'''
+**Inputs**
 
 As per the normal operation of the core1.ae the inputs for b, c, d can be used to CV control the parameters which are otherwise controlled by the corresponding knobs. The knob position provides an offset to which the input CV is added.
 
-!!! How to program the Core1.ae module
+## How to program the Core1.ae module
 
 This is very old school in that you load new programs in to the module via the audio input. This page describes everything you need to know:
 

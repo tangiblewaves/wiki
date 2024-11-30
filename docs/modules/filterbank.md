@@ -7,18 +7,18 @@ This is a recreation of the famous Moog filterbank module.
 
 Module power consumption: ? mA
 
-!!! Inputs
+## Inputs
 
-* '''IN''' - 
+* **IN** - 
 
-!!! Outputs
+## Outputs
 
-* '''OUT''' - output
+* **OUT** - output
 
-!!! Controls
+## Controls
 
-*  '''LEVEL''' knob - 
+*  **LEVEL** knob - 
 
 
-!!! Patch Suggestions
+## Patch Suggestions
 ...

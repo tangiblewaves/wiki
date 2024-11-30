@@ -6,30 +6,30 @@ https://www.tindie.com/products/bfsynths/bf-01-massive-chords-le-module-01-for-a
 
 Module power consumption:
 
-!!! Inputs
+## Inputs
 
-* '''Frequency''' - affects the pitch of the sound
-* '''Table''' - changes the chords, sometimes the harmonics  of the sound.
-* '''Wave''' -  affects the harmonics and/or chords in the sound.
+* **Frequency** - affects the pitch of the sound
+* **Table** - changes the chords, sometimes the harmonics  of the sound.
+* **Wave** -  affects the harmonics and/or chords in the sound.
 
-!!! Outputs
+## Outputs
 
 Bottom left
-* '''Bus Gate''' - on early modules this is actually the bus CV derived from the midi input on the master module, usually for the pitch.
-* '''Bus CV''' - on early modules this is actually the bus CV derived from the midi input on the master module, usually key on/off.
+* **Bus Gate** - on early modules this is actually the bus CV derived from the midi input on the master module, usually for the pitch.
+* **Bus CV** - on early modules this is actually the bus CV derived from the midi input on the master module, usually key on/off.
 Top Right
-* '''Out 1''' - Main output.
-* ''' Out 2''' - duplicate output, quite useful for using a different filter &/or FX on. 
+* **Out 1** - Main output.
+* **Out 2** - duplicate output, quite useful for using a different filter &/or FX on. 
 
-* '''Mult''' - a passive splitter/mixer not connected with the module circuitry.
+* **Mult** - a passive splitter/mixer not connected with the module circuitry.
 
-!!! Controls
+## Controls
 
-* '''Frequency''' - sets the pitch of the sound, affected by the CV input above.
-* '''Table''' - sets the chord and/or harmonics of the sound, affected by the CV input above .
-* '''Wave''' - changes the chord/harmonics within the range set by the table knob, affected by the CV input above.
+* **Frequency** - sets the pitch of the sound, affected by the CV input above.
+* **Table** - sets the chord and/or harmonics of the sound, affected by the CV input above .
+* **Wave** - changes the chord/harmonics within the range set by the table knob, affected by the CV input above.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 Excellent video by RSKT
 

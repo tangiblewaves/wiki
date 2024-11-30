@@ -6,14 +6,14 @@
 
 This module allows you to trigger/hold to 6 independent channels via the press of a button.
 
-!!! Inputs
+## Inputs
 
 This Module has no inputs.
 
-!!! Outputs / Controls
+## Outputs / Controls
 
-* '''Out 1''' to '''Out 6''' - Sends a high voltage as long as the corresponding button is pressed.
+* **Out 1** to **Out 6** - Sends a high voltage as long as the corresponding button is pressed.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 The most obvious use is for manually triggering certain parts of your AE audio in a live situation.

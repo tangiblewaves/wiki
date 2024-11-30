@@ -6,16 +6,16 @@
 This module adds two mono, balanced XLR jacks to the Mixconsole. It is not a freestanding design, it needs to [[mixconsole.md | MIXCONSOLE]] to work, and has to be mounted adjacent to that module and connects via a short cable at the back.
 
 
-!!! Inputs
+## Inputs
 
 These are acquired from the Mixconsole.
 
-!!! Outputs
+## Outputs
 
-* '''Master L/ Bal''' Left signal of the stereo mix, Main out of the Mixconsole.
-* '''Master R/ Bal''' Right signal of the stereo mix, Main out of the Mixconsole.
+* **Master L/ Bal** Left signal of the stereo mix, Main out of the Mixconsole.
+* **Master R/ Bal** Right signal of the stereo mix, Main out of the Mixconsole.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This module enables the AE to be patched into professional audio equipment. It is also worth considering if you are having problems with hum or ground loops when connecting your AE.
 

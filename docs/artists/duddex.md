@@ -6,7 +6,7 @@ Stefan Dudde is *duddex* ...
 
 He is more of a technician than a musician. That's why you'll find more content on Stefan's GitHub page than on Bandcamp or Soundcloud.
 
-!! Links
+# Links
 
 * [[https://github.com/duddex/ | GitHub]]
 * [[https://www.youtube.com/@duddex | Youtube]]

@@ -8,7 +8,7 @@ Eventually we will have proper projects with step-by-step descriptions, but for 
 
 [[/diy/3bitswitch.md|3BITSWITCH]] - This is an advanced project in which you will create your own module completely from scratch using strip board.
 
-'''Here are some notable projects from the forum:'''
+**Here are some notable projects from the forum:**
 
 [[https://forum.aemodular.com/board/16/diy | Let's DIY Together]] - This is a very thorough introduction to building your own modules and has a handy shopping list of things you might want to buy first before you get started.
 

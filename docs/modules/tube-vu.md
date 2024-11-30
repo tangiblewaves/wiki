@@ -7,28 +7,28 @@ Please note that this module must have a separate 9V power supply to the rest of
 A brilliant module for people who use their AE live.
 
 
-!!! Input
+## Input
 
-* '''1''' - Input for circuit 1
-* '''2''' - Input for circuit 2
-* '''MULT''' - a passive mixer/splitter completely separate to the module electronics.
+* **1** - Input for circuit 1
+* **2** - Input for circuit 2
+* **MULT** - a passive mixer/splitter completely separate to the module electronics.
 
-!!! Output
+## Output
 
 There are no outputs, as the tubes would produce too higher voltages for the rest of the AE system.
 
-!!! Control
+## Control
 
-* '''Level 1''' knob - set the level for circuit one so you get the best display...
-* '''Level 2''' knob - set the level for circuit two so you get the best display...
+* **Level 1** knob - set the level for circuit one so you get the best display...
+* **Level 2** knob - set the level for circuit two so you get the best display...
 
-* '''R'''  knob - sets the amount of red in the colour of the tubes.
-* '''G''' knob - sets the amount of green in the colour of the tubes.
-* '''B''' knob - sets the amount of blue in the colour of the tubes.
+* **R**  knob - sets the amount of red in the colour of the tubes.
+* **G** knob - sets the amount of green in the colour of the tubes.
+* **B** knob - sets the amount of blue in the colour of the tubes.
 
 These last three "knobs" are actually small trimmer pots so you may need a tool to adjust carefully.
 
-!!! Display
+## Display
 
 The reason to buy this module!
 
@@ -36,6 +36,6 @@ The left tube displays the status of circuit 1, right circuit 2.
 
 The brighter the tube the louder the signal...
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 The main reason for 2 circuits in this module is so you can do stereo, but it can be really good to have 2 different sounds so the Tubes vary individually.

@@ -2,7 +2,7 @@
 
 Probably the best way to get started is to read the [[aemodular-technical-guide.md | AE Modular Technical Guide]] and then try building a 5V circuit on a breadboard.  Once you know it works properly transfer it to a soldered stripboard.
 
-!!!What you will need for prototyping
+## What you will need for prototyping
 
 * Multimeter (for checking for short circuits) 
 * Breadboard
@@ -14,7 +14,7 @@ Many also like to have a cheap oscilloscope like the
 
 If you have a scope and 5V supply you can test the circuit before plugging into your AEM.
 
-!!!What to try first?
+## What to try first?
 
 I’d recommend a simple oscillator, based on the CD40106, there is a [[https://youtu.be/FaoJaLmZaL4 | great youtube video on this]], that’s easy to adapt to AEM.
 
@@ -23,15 +23,15 @@ So build this on a breadboard, most important things to do before powering on is
 Once your happy its ok, power it up and connect the output to any patch point on the AE.
 I’d recommend the mixer module, and turn the volume up SLOWLY, in case its making a horrible screech).
 
-''TIP: if you are using a separate power supply, you will need to have a common ground, so connect ground on the power supply and to the AE modular ribbon. ''
+__TIP: if you are using a separate power supply, you will need to have a common ground, so connect ground on the power supply and to the AE modular ribbon.__
 
 Once your prototype is done, you can now make it more permanent.
 
-!!! Considerations for making DIY modules
+## Considerations for making DIY modules
 
 Here are some considerations for creating DIY modules.
 
-!!!! Power
+### Power
 
 Power is shared across modules, it’s imperative you keep it ‘clean’ and free of ripples otherwise you will induce noise onto other modules. 
 
@@ -41,17 +41,17 @@ Things with heavier voltage swings you may need an inductor, some discussion of 
 
 (also for microcontrollers with higher current requirements, keep an eye on total used - bare in mind most AE modules are using very little current) 
 
-!!!!Inlets
+### Inlets
 
 In AE, digital inputs are pulled to ground by a 100k resistor; this is enough to tell the chip input "low" and high enough to not affect a "real" input signal.
 
 
-!!!!Module Depth
+### Module Depth
  
 Since the depth is limited to 25mm, it’s quite limited in space.
 Remember you will have to have space for the front panel components (that live beneath the faceplace) and also space underneath for the ribbon connector.
 
-!!!!Faceplate 
+### Faceplate 
 
 The easiest thing to use as a starting point is a blank panel, as it gives you the holes for mounting in the correct place.
 
@@ -67,7 +67,7 @@ Faceplace ← gap (for components) ←  pcb ← gap (for ribbon header) ← bott
 Of course you can use variations of this, in particular you may find your PCB or faceplate material is thicker.
 The factory modules, allows for a 2mm thick pcb/ 1.5mm faceplate, but if you use 3mm then you will need to reduce the size to the lower hex spacer (aka standoff).
 
-!!!What you will need for building a module
+## What you will need for building a module
 
 * Simple tools (screwdrivers) 
 * Stripboard to relevant size 100mm x (25mm X # HP) 
@@ -98,7 +98,7 @@ From there the fun bit, solder all your components on.
 
 Once done, test for short circuits, then give it a go! 
 
-!!!Further Reading
+## Further Reading
 
 There is also a very detailed guide over the Forum. Please read through that for more details:
 http://forum.aemodular.com/thread/357/beginner-guide-modular-synth-diy

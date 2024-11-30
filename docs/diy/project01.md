@@ -50,6 +50,6 @@ Connect “OUT1” with whatever you find appropriate on the AE Modular, for ins
  
 Now you can change the pitch of your square-wave oscillator by twisting the left potentiometer.
   
-'''Have fun!'''
+**Have fun!**
 
 After you've had enough of a play with this circuit, just leave everything patched and go to [[project02.md | Project 2 - Frequency Modulation with the CD40106]] which is an easy and interesting enhancement of this build.

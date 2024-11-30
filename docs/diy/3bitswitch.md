@@ -16,7 +16,7 @@ The state of the bits A, B and C determines the INPUT/OUTPUT.  For example, let'
 
 A, B and C set the binary number of the INPUT/OUTPUT.
 
-| '''A'''            | '''B''' | '''C''' | '''Output''' |
+| **A**            | **B** | **C** | **Output** |
 |--------------------|---------|---------|--------------|
 | 0                  | 0       | 0       | 1            |
 | 1                  | 0       | 0       | 2            |
@@ -29,25 +29,25 @@ A, B and C set the binary number of the INPUT/OUTPUT.
 
 A nice extension for  this module  would be converting it to a variable  sequencer, adding a pot  for  each channel then routing their  signal to a single  OUTPUT.
 
-!!! Inputs
+## Inputs
 
-* '''IO1''' - IN/OUT going  to/from OUTPUTS
-* '''GATE1''' - a +5V signal here sets bit A to HIGH
-* '''GATE2''' - a +5V signal here sets bit B to HIGH
-* '''GATE3''' - a +5V signal here sets bit C to HIGH
-* '''+5V''' - output giving +5V
+* **IO1** - IN/OUT going  to/from OUTPUTS
+* **GATE1** - a +5V signal here sets bit A to HIGH
+* **GATE2** - a +5V signal here sets bit B to HIGH
+* **GATE3** - a +5V signal here sets bit C to HIGH
+* **+5V** - output giving +5V
 
-!!! Outputs
+## Outputs
 
-* '''1-8''' - OUT/IN from/to IO1
+* **1-8** - OUT/IN from/to IO1
 
-!!! Controls
+## Controls
 
-* '''A button''' - When pressed sets bit A to HIGH, ignoring the GATE1 signal.
-* '''B button''' - When pressed sets bit B to HIGH, ignoring the GATE2 signal.
-* '''C button''' - When pressed sets bit C to HIGH, ignoring the GATE3 signal.
+* **A button** - When pressed sets bit A to HIGH, ignoring the GATE1 signal.
+* **B button** - When pressed sets bit B to HIGH, ignoring the GATE2 signal.
+* **C button** - When pressed sets bit C to HIGH, ignoring the GATE3 signal.
 
-!!! Schematics
+## Schematics
 (right click and open in new tab to see it in full size)
 [[img|diy/images/3bitswitch-schematics.png|900]]
 
@@ -55,7 +55,7 @@ And this is the layout on the perfboard:
 
 [[img|diy/images/3bitswitch-perfboardlayout.png|500]]
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This module is excellent for providing variation in rhythms / sequences by cutting a trigger in or out via the buttons if "playing" the AE modular, or the gate inputs - the latter can be done with an LFO, envelope or one of the sequencer modules. It works really well with all of the sequencer and counter/divider modules.  Combine them to get even more interesting results.
 

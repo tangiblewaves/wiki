@@ -8,7 +8,7 @@ This 1/3 height micro module is a Rim shot circuit cloned from the Boss DR-55. D
 
 This module needs to be installed on the [[u-base.md | µBASE]] module!
 
-!! Video Tutorial and Patch suggestions
+# Video Tutorial and Patch suggestions
 
 Watch this great tutorial from RSKT:
 %embed% https://www.youtube.com/watch?v=RU2YZ4I7rSw %%

@@ -9,21 +9,21 @@ There are three, slowly moving outputs which are perfect for modulating paramete
 
 Also check out the newer module from BF Synth: [[bfsynth_bf21-2sloth.md | BF-21 2SLOTH]]
 
-!!! Inputs
+## Inputs
 
 * None!
 
-!!! Outputs
+## Outputs
 
-* '''X''' (x3) - Output swinging over a large voltage range
-* '''Y''' (x3) - A different output swinging over a smaller voltage range
-* '''Z''' (x2) - The inverted output of y
+* **X** (x3) - Output swinging over a large voltage range
+* **Y** (x3) - A different output swinging over a smaller voltage range
+* **Z** (x2) - The inverted output of y
 
-!!! Controls
+## Controls
 
-* '''Torpor''' - 'Influences' the outputs (you have no direct control).
+* **Torpor** - 'Influences' the outputs (you have no direct control).
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 Great on filter cutoff and resonance (via attentuators). The [[nyle-filter.md | NYLEFILTER]] is the only AE filter with CV control of resonance.
 

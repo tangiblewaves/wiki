@@ -10,30 +10,30 @@ Another possible mixer is the [[mixconsole.md|Mixconsole]].
 
 Module power consumption: 42 mA
 
-!!! Inputs
+## Inputs
 
-* '''IN1''' to '''IN6''' Channels 1 to 6 for the mixer, level controlled by the relevant vertical fader (below)
-* '''TIME1 CV''' this combined with the time 1 knob controls parameter 1 of the in built FX chosen.
-* '''TIME2 CV''' this combined with the time 2 knob controls parameter 2 of the in built FX chosen.
+* **IN1** to **IN6** Channels 1 to 6 for the mixer, level controlled by the relevant vertical fader (below)
+* **TIME1 CV** this combined with the time 1 knob controls parameter 1 of the in built FX chosen.
+* **TIME2 CV** this combined with the time 2 knob controls parameter 2 of the in built FX chosen.
 
-!!! Outputs
+## Outputs
 
-* '''OUT''' (x3) - mono output of the Dronx module.
-* '''MULT''' - a passive splitter/mixer separate to the module electronics.
+* **OUT** (x3) - mono output of the Dronx module.
+* **MULT** - a passive splitter/mixer separate to the module electronics.
 
-!!! Controls
+## Controls
 
-* '''Bass''' - alters the level of lower frequencies in the mixed signal
-* '''Treble''' - alters the level of higher frequencies in the mixed signal
-* '''Distortion''' - depending on your point of view, this sets the level of analog authenticity or racket!
-* '''Time 1''' - sets the delay time of channel 1 of the selected FX.
-* '''Time 2''' - sets the delay time of channel 2 of the selected FX.
-* '''LFO depth''' - this controls the amount the LFO affects the sound, the rate is set by the selected program.
-* '''Feedback''' - with no feedback you only get the original sound going through the FX once, with maximum feedback it goes through an infinite number of times; somewhere in the middle is usually great musically, this knob controls the amount...
-* '''DRY - WET''' - A fully dry signal has none of the FX sound in it. A fully wet signal is just the FX sound. Again, we usually want somewhere in the middle which is controlled by this knob.
-* '''Level 1''' to '''Level 6''' - controls the amount of the signal from that numbered input in the output signal.
+* **Bass** - alters the level of lower frequencies in the mixed signal
+* **Treble** - alters the level of higher frequencies in the mixed signal
+* **Distortion** - depending on your point of view, this sets the level of analog authenticity or racket!
+* **Time 1** - sets the delay time of channel 1 of the selected FX.
+* **Time 2** - sets the delay time of channel 2 of the selected FX.
+* **LFO depth** - this controls the amount the LFO affects the sound, the rate is set by the selected program.
+* **Feedback** - with no feedback you only get the original sound going through the FX once, with maximum feedback it goes through an infinite number of times; somewhere in the middle is usually great musically, this knob controls the amount...
+* **DRY - WET** - A fully dry signal has none of the FX sound in it. A fully wet signal is just the FX sound. Again, we usually want somewhere in the middle which is controlled by this knob.
+* **Level 1** to **Level 6** - controls the amount of the signal from that numbered input in the output signal.
 
-!!! Delay Effect Programs
+## Delay Effect Programs
 The delay FX unit of the DRONX has 9 unique programs that are described below:
 
 1. single short
@@ -46,7 +46,7 @@ The delay FX unit of the DRONX has 9 unique programs that are described below:
 8. wonky (like 3 but random modulation delay time, depth with LFO DEPTH)
 9. glitch (like 8 but at the beginning and end of the delay times the delay chip is being "abused" to generate weird and unexpected effects)
 
-!!! Patch Examples
+## Patch Examples
 
 Even if you do not have 6 sound sources in your AE system this still is a useful module, if you can spare the real estate! 
 

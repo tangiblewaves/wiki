@@ -9,20 +9,20 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
-!!! Inputs
+## Inputs
 
-* '''IN''' - The incoming CV signal
+* **IN** - The incoming CV signal
 
-!!! Outputs
+## Outputs
 
-* '''OUT''' The signal after it's been offset by the offset knob and attenuated by the level knob
+* **OUT** The signal after it's been offset by the offset knob and attenuated by the level knob
 
-!!! Controls
+## Controls
 
-* '''OFFSET''' - This sets the amount of voltage alteration applied to the input signal.
-* '''LEVEL''' - This controls the incoming signal amount, before being added to the offset.
+* **OFFSET** - This sets the amount of voltage alteration applied to the input signal.
+* **LEVEL** - This controls the incoming signal amount, before being added to the offset.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This module is similar to the [[2cvtool.md| 2CVTOOL]] however it can only add the signal to an offset, not subtract from it. 
 

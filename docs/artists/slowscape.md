@@ -6,7 +6,7 @@ Hi I’m Slowscape. I’m a visual artist, programmer, long time lover of electr
 
 On the [[https://forum.aemodular.com | AE Modular forum]] I go under the username @slowscape.
 
-!! Links
+# Links
 
 * [[https://www.youtube.com/channel/UCG6rA91X0Ko5VL1uo_GWpyg/ | YouTube]]
 * [[https://www.instagram.com/slwscpe/ | Instagram]]

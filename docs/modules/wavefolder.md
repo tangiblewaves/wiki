@@ -9,28 +9,28 @@ The module is based on a design also used by Ken Stone for his CGS modular. The 
 
 Module power consumption: 3 mA
 
-!!! Inputs
-* '''IN''' - Audio or CV signal input
-* '''CV SHP.''' - Wave folding CV control through the SHAPE CV attenuator
-* '''CV 2''' - Wave folding CV control without attenuation
-* '''BUS CTRL''' - MIDI CC20 CV from the MASTER I/O bus 
-* '''BUS GATE''' - MIDI Gate CV from the MASTER I/O bus
+## Inputs
+* **IN** - Audio or CV signal input
+* **CV SHP.** - Wave folding CV control through the SHAPE CV attenuator
+* **CV 2** - Wave folding CV control without attenuation
+* **BUS CTRL** - MIDI CC20 CV from the MASTER I/O bus 
+* **BUS GATE** - MIDI Gate CV from the MASTER I/O bus
 
 
-!!! Outputs
-* '''OUT''' - Processed input signal 
+## Outputs
+* **OUT** - Processed input signal 
 
-!!! Controls
-* '''DRIVE''' - Amplifies the input signal
-* '''SHAPE CV''' - Folds the top of the input signal waveform down, if the amplification is strong enough. Folding increases by turning the pot clockwise.
-* '''SHAPE''' - Clips the input signal waveform hard from the top all the way down to silence. Clipping effect increases by turning the pot counterclockwise.
+## Controls
+* **DRIVE** - Amplifies the input signal
+* **SHAPE CV** - Folds the top of the input signal waveform down, if the amplification is strong enough. Folding increases by turning the pot clockwise.
+* **SHAPE** - Clips the input signal waveform hard from the top all the way down to silence. Clipping effect increases by turning the pot counterclockwise.
 
 A tutorial video by The Tuesday Night Machines:
 
 %embed% https://www.youtube.com/watch?v=k2nVM6SzMEQ %%
 
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 The Wavefolder can be used to boost any signal level, e.g. Triangle wave on the VCO.
 
@@ -47,7 +47,7 @@ This video by TTMs gives an excellent demo of what the Wavefolder can do:-
 %embed% https://www.youtube.com/watch?v=g9CE_nP9KZA %%
 
 
-!!! Sound Examples
+## Sound Examples
 
 WAVEFOLDER-focused jam session with patch notes:
 %embed% https://www.youtube.com/watch?v=9BOl5g6HDqg %%

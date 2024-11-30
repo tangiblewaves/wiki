@@ -8,7 +8,7 @@ music. Also improvisation started to be a big part of his music, as well as expe
 
 His music is a mix between electronic music, like trip hop, ambient and dub with rock music, like kraut -, psychedelic - or stoner rock. He works with several techniques to create his music. But most of the time he uses guitars, modular synths or field recorded samples.
 
-!! Links
+# Links
 
 * [[https://www.youtube.com/channel/UCLGnmbBp-H-i05V_ZtwroNw | YouTube]]
 * [[https://decaryi.bandcamp.com/SoundCloud: | Bandcamp]]
@@ -16,7 +16,7 @@ His music is a mix between electronic music, like trip hop, ambient and dub with
 * [[https://open.spotify.com/artist/5K2mtKL5OmEB5ajctNLpov?si=kXojkM1DTQKsUwrYSviMew | Spotify]]
 * [[https://soundcloud.com/user-484887923 | Soundcloud]]
 
-'''YouTube''' 
+**YouTube** 
 
 %embed% https://www.youtube.com/watch?v=E2tXMXz1eHc %%
 

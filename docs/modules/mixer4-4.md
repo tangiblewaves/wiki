@@ -7,28 +7,28 @@ A 4 input, 1 output audio mono mixer (i.e. not stereo), with individual channel 
 
 Module power consumption: 5 mA
 
-!!! Inputs
+## Inputs
 
-* '''A1''' - Channel 1 of the A mixer.
-* '''A2''' - Channel 2 of the A mixer.
-* '''A3''' - Channel 3 of the A mixer.
-* '''A4''' - Channel 4 of the A mixer.
-* '''B1''' - '''B4''' - 4 inputs for the mixer without any level control within the module.
+* **A1** - Channel 1 of the A mixer.
+* **A2** - Channel 2 of the A mixer.
+* **A3** - Channel 3 of the A mixer.
+* **A4** - Channel 4 of the A mixer.
+* **B1** - **B4** - 4 inputs for the mixer without any level control within the module.
 
-!!! Outputs
+## Outputs
 
-* '''A''' (2x) - Output of Mixer A.
-* '''B''' (2x) - Output of mixer B
-* '''Mult''' - labelled '''Thru''' on some modules. A passive mixer/ splitter not connected to the module circuits.
+* **A** (2x) - Output of Mixer A.
+* **B** (2x) - Output of mixer B
+* **Mult** - labelled **Thru** on some modules. A passive mixer/ splitter not connected to the module circuits.
 
-!!! Controls
+## Controls
 
-* '''Level 1''' knob - The level of input A1 in output A.
-* '''Level 2''' knob - The level of input A2 in output A.
-* '''Level 3''' knob - The level of input A3 in output A.
-* '''Level 4''' knob - The level of input A4 in output A.
+* **Level 1** knob - The level of input A1 in output A.
+* **Level 2** knob - The level of input A2 in output A.
+* **Level 3** knob - The level of input A3 in output A.
+* **Level 4** knob - The level of input A4 in output A.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 The most obvious use is to patch the [[2oscd.md | oscillator(s)]] and [[noise.md |noise module]] to the Mixer 4/4 to have a complex sound before it even gets to the Filter etc.
 

@@ -8,7 +8,7 @@ I'm doing Lo-Fi Rock and Popsongs in German language but also electronic and exp
 My new ambient project is called "Waldrand" and so far my ae modular system is the heart of this project.
 I'm also running a little independent label called "Kaktusgleichapfelbaum-Records". You can find our music on nearly every streaming platform.
 
-!! Links
+# Links
 
 * [[https://www.youtube.com/channel/UCtNqJGtmnNqicGio2x0T_fQ | YouTube]]
 * [[https://www.instagram.com/michaelholzklotz | Instagram]]
@@ -17,7 +17,7 @@ I'm also running a little independent label called "Kaktusgleichapfelbaum-Record
 * [[http://kaktusgleichapfelbaumrecords.blogspot.com/ | Blog]]
 
 
-'''YouTube''' 
+**YouTube** 
 
 %embed% https://www.youtube.com/watch?v=cAItVGe5j1Y %%
 

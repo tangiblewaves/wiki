@@ -1,6 +1,6 @@
 # Resources for Synthesis and Electronic Music
 
-!! Free Books
+# Free Books
 
 * [[http://stoney.sb.org/eno/oblique.html | Brian Eno's oblique Strategies]] - for when you're stuck in a rut
 * [[https://www.tips.modularparts.net/book-bad-ideas-v2-pdf/ | The Book of bad Ideas]] - a compilation of Synthesizer tricks from the [[https://muffwiggler.com | Muffwiggler Forum]]
@@ -11,7 +11,7 @@
 * [[https://unipress.hud.ac.uk/plugins/books/19/ | Music beyond Airports - appraising ambient music]] - a collection of articles about ambient music, what it is, who's doing it and how to do it "right"(?)
 * [[https://monoskop.org/images/b/b3/Dwyer_Terence_Composing_with_Tape_Recorders_Musique_Concrete_for_Beginners.pdf | Composing with Tape Recorders]] - a book about Musique Concrete by Terence Dwyer
 
-!! Other Books
+# Other Books
 
 * [[http://patchandtweak.com/ | Patch & Tweak]] - a very nice "coffee table" book chock full of tips and ideas mostly on how to create sound with various Eurorack modules
 * [[https://global.oup.com/academic/product/arduino-for-musicians-9780199309320 | Arduino for Musicians]] - exploring the world of DSP programming on the Arduino
@@ -19,7 +19,7 @@
 Charles Platt is an author to look into if you are wanting to get into electronics and make your own modules:-
 [[https://www.amazon.co.uk/Charles-Platt/e/B000APYAR4/ref=dp_byline_cont_pop_book_1 | Amazon UK Author Page]] : [[https://www.amazon.com/Charles-Platt/e/B000APYAR4/ref=dp_byline_cont_pop_book_1 | Amazon USA Author Page]]
 
-!!  Music News/Advice Websites
+# Music News/Advice Websites
 
 * [[https://www.soundonsound.com/series/synth-secrets-sound-sound | Sound On Sound Synth Secrets]] - a 63 part series of articles that explore sound and synthesis in great detail. This is a must read!  Sound on sound is a great Music Tech/Recording magazine & webite.
 * [[http://www.modular-planet.de/modular-planet-survey.html | Patch Ideas for Doepfer Systems]] - while not in book or article format, this website has so many interesting patch ideas that it makes it an invaluable resource.
@@ -36,7 +36,7 @@ Charles Platt is an author to look into if you are wanting to get into electroni
 * [[http://www.tips.modularparts.net/wp-content/uploads/2017/09/The-book-of-bad-ideas-V2.pdf | pdf on patching hints, tips and ideas ]]
 
 
-!! YouTube Channels 
+# YouTube Channels 
 
 * [[ https://www.youtube.com/c/loopop |  Loopop - Excellent Equipment Reviewer with good hints and tips. ]]
 

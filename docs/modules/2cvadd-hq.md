@@ -10,21 +10,21 @@ If you would like to have transposition buttons to shift by one or two octaves (
 
 
 
-!!! Inputs
+## Inputs
 
-* '''A1''' to '''A3''' - these three inputs are added together in circuit A of the module
-* '''IN A4 Neg''' - this input is deducted from the other three on the A circuit.
-* '''B1''' to '''B3''' - these three inputs are added together in circuit B of the module
+* **A1** to **A3** - these three inputs are added together in circuit A of the module
+* **IN A4 Neg** - this input is deducted from the other three on the A circuit.
+* **B1** to **B3** - these three inputs are added together in circuit B of the module
 
-!!! Outputs
+## Outputs
 
-* '''A''' (x2) - Output of circuit A
-* '''B''' (x2) - Output of circuit B
-* '''MULT''' - a passive mixer/splitter separate to the module electronics.
+* **A** (x2) - Output of circuit A
+* **B** (x2) - Output of circuit B
+* **MULT** - a passive mixer/splitter separate to the module electronics.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
-The most obvious use is before a VCO, (e.g. [[2oscd.md|2OSC/D]]) to combine CVs to control pitch. Having 2 outputs each circuit could control up to 2 oscillators without any help. The inverting input (4) on circuit A can be really useful here. If you need to control more oscillators the [[4buffer.md|4BUFFER]] is recommended rather than just using the '''Mult''' as this assists with CV/pitch tracking accuracy.
+The most obvious use is before a VCO, (e.g. [[2oscd.md|2OSC/D]]) to combine CVs to control pitch. Having 2 outputs each circuit could control up to 2 oscillators without any help. The inverting input (4) on circuit A can be really useful here. If you need to control more oscillators the [[4buffer.md|4BUFFER]] is recommended rather than just using the **Mult** as this assists with CV/pitch tracking accuracy.
 
 The same applies for controlling filter cutoff frequency.
 

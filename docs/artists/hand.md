@@ -8,7 +8,7 @@ The analog medium is fundamental to his music making—in performance he uses a 
 
 HAND’s combination of enveloping soundscape and pulse reaches into the listener’s body. The style came to Bachmann as a question: “What is the first sound we ever heard? What do we listen to in our mother’s belly during pregnancy? In my imagination we heard a big pulse from the heartbeat surrounded by a droned sound from the outer world. I like this picture in my head. It is a perfect concept for ambient music, because I want to make the listener calm, and the sound like in a mother’s belly works on various levels to comfort and calm”.
 
-!! Links
+# Links
 
 * [[https://hand-music.com/ | hand-music.com]]
 * [[https://www.youtube.com/c/HANDMUSICTAPELOOP | YouTube]]
@@ -24,10 +24,10 @@ And this an AE Modular Solo Performance:
 
 %embed% https://youtu.be/3rh5bYlHz6M %%
 
-!!Gear
+# Gear
 * Synth: AE Modular, various Eurorack, MS 20, Axoloti, Bassstation etc
 * vintage drums: Ludwig, Hayman, Tromsa
 * tape machines: various walkman, Uher, Nagra 3
 * recording: Motu MK3, RME 8 pre, DAW Logic pro 9
 
-!!Go Do Your Own Thing!
+# Go Do Your Own Thing!

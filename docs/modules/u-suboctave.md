@@ -9,21 +9,21 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
-!!! Inputs
+## Inputs
 
-* '''IN''' - The incoming audio signal.
+* **IN** - The incoming audio signal.
 
 
-!!! Outputs
+## Outputs
 
-* '''MIX''' - The mix of the original signal plus the one and two octave sub octave signals. Using the knobs you can adjust the level of each of the suboctave signals in the mix.
-* '''-1 SQR''' - The full level output of the one octave square wave signal
-* '''-2 SQR''' - The full level output of the two octave square wave signal
-* '''-2 SQR''' - The full level output of the two octave pulse wave signal
+* **MIX** - The mix of the original signal plus the one and two octave sub octave signals. Using the knobs you can adjust the level of each of the suboctave signals in the mix.
+* **-1 SQR** - The full level output of the one octave square wave signal
+* **-2 SQR** - The full level output of the two octave square wave signal
+* **-2 SQR** - The full level output of the two octave pulse wave signal
 
-!!! Controls
+## Controls
 
-* '''-1 OCT.''' - adjusts the level of the one octave signal in the mix.
-* '''-2 OCT.''' - adjusts the level of the two octave signal in the mix.
+* **-1 OCT.** - adjusts the level of the one octave signal in the mix.
+* **-2 OCT.** - adjusts the level of the two octave signal in the mix.
 
-!!! Patch Suggestions
+## Patch Suggestions

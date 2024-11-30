@@ -7,27 +7,27 @@ The voltage-controlled oscillator (VCO) is a typical analog audio oscillator wit
 
 Module power consumption: 16 mA
 
-!!! Inputs
-* '''CV1''' - control voltage input for pitch frequency (1V/Oct)
-* '''CV2''' - another control voltage input for pitch frequency (1V/Oct)
-* '''MOD''' - control voltage input for modulating either frequency or the square wave's pulse width
-* '''PW''' - dedicated pulse width modulation control voltage input
-* '''SYNC''' - resets the waveform when a trigger signal is received
+## Inputs
+* **CV1** - control voltage input for pitch frequency (1V/Oct)
+* **CV2** - another control voltage input for pitch frequency (1V/Oct)
+* **MOD** - control voltage input for modulating either frequency or the square wave's pulse width
+* **PW** - dedicated pulse width modulation control voltage input
+* **SYNC** - resets the waveform when a trigger signal is received
 
-!!! Outputs
-* 2x '''RAMP''' - ramp/sawtooth wave output
-* 2x '''TRI''' - triangle wave output, quieter than the other outputs so it might need amplification via the [[2signalamp.md | 2SIGNALAMP]] module for example
-* 2x '''SQUARE''' - square wave output
-* '''BUS CV''' - pitch control voltage form the [[master.md| MASTER I/O]] module's MIDI-CV converter 
+## Outputs
+* 2x **RAMP** - ramp/sawtooth wave output
+* 2x **TRI** - triangle wave output, quieter than the other outputs so it might need amplification via the [[2signalamp.md | 2SIGNALAMP]] module for example
+* 2x **SQUARE** - square wave output
+* **BUS CV** - pitch control voltage form the [[master.md| MASTER I/O]] module's MIDI-CV converter 
 
-!!! Controls
-* '''MOD DEPTH''' Potentiometer - attenuator for the MOD input control voltage
-* '''MOD DEPTH''' Switch - switches the MOD control voltage target between frequency and pulse width
-* '''COARSE''' - coarse tuning of the VCO frequency
-* '''FINE''' - fine tuning of the VCO frequency
-* '''PULSEWIDTH''' - manual control over the square wave's pulse width, control voltage modulation is added to this potentiometer setting
+## Controls
+* **MOD DEPTH** Potentiometer - attenuator for the MOD input control voltage
+* **MOD DEPTH** Switch - switches the MOD control voltage target between frequency and pulse width
+* **COARSE** - coarse tuning of the VCO frequency
+* **FINE** - fine tuning of the VCO frequency
+* **PULSEWIDTH** - manual control over the square wave's pulse width, control voltage modulation is added to this potentiometer setting
 
-!!! Patch Suggestions
+## Patch Suggestions
 RSKT made this super comprehensive introduction video with some very nice demo patches:
 %embed% https://youtu.be/x_66mesl7Ls %%
 
