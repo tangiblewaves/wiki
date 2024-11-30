@@ -9,11 +9,11 @@ function plugin(hook, vm) {
             return `__**${p1}**__`;
         });
 
-        content = content.replace(/'''(.*?)'''/g, function (match, p1) {
+        content = content.replace(/'''(?:\s*)(.*?)(?:\s*)'''/g, function (match, p1) {
             return `**${p1}**`;
         });
 
-        content = content.replace(/''(.*?)''/g, function (match, p1) {
+        content = content.replace(/''(?:\s*)(.*?)(?:\s*)''/g, function (match, p1) {
             return `__${p1}__`;
         });
 
