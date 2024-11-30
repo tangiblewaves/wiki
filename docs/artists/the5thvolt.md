@@ -6,7 +6,7 @@ I'm an artist from Australia who dabbles in electronic music. I also try to help
 
 I've also started and maintain the [[https://forum.aemodular.com | AE Modular forum]] and you can find me there under my username @admin.
 
-!! Links
+# Links
 
 * [[https://the5thvolt.com | www.the5thvolt.com ]]
 * [[https://youtube.com/c/the5thvolt | YouTube]]
@@ -23,7 +23,7 @@ And this is a more recent performance:
 
 %embed% https://youtu.be/PH_N2kbYhdo %%
 
-!!Gear
+# Gear
 
 * AE Modular
 * tangible waves Synth Explorer

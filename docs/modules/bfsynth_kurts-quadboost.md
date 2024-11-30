@@ -4,19 +4,19 @@ Kurt’s Quad Boost is a module consisting of four transistor amplifier circuits
 
 This module is designed and distributed by [[https://www.instagram.com/keurslager_kurt/ | Keuerslager Kurt]] and you can purchase the module here: https://www.tindie.com/products/bfsynths/kurts-quad-boost-kit/
 
-!! Inputs
+# Inputs
 
 There are four separate inputs that each lead to their own amplification circuit.
 
-!! Outputs
+# Outputs
 
 The outputs of the four amplification circuits.
 
-!! Controls
+# Controls
 
 Each of the four boosts has its own dedicated input volume knob. It should be noted that this knob does not act as an attenuator, it does not completely silence the incoming signal when turned fully left. Rather, it gives you a control for the amount of ‘drive’ or ‘clipping’ that the circuit gives.
 
-!! Patch Suggestions
+# Patch Suggestions
 
 The most straight-forward use of the Quad Boost is to boost signals that are lower in volume, like the triangle or saw wave from the 2Osc module. You will notice that you can get some fairly clean amplification of these waves, but also some more ‘colored’ sound depending on the amount of ‘Boost’ you set. If you input already ‘loud’ waves, like the square waves, the effect will be less noticeable, as these are already at the maximal ‘internal’ volume of the AE system (i.e. 0-5V).
 

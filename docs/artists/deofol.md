@@ -4,7 +4,7 @@
 
 Dēofol specialises in auditory manifestations, dystopian guitars and electronic soundsc(r)apes. Sonic alchemy, the juxtaposition of frequencies and rhythms that meet on the borders between isolationism, dub, boombap, the darker side of ambient, illbient, and drone music. File under music.
 
-!! Links
+# Links
 
 * [[https://www.facebook.com/deuscomedenti | Facebook]]
 * [[https://www.youtube.com/user/pt3r | YouTube]]

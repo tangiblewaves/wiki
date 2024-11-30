@@ -8,27 +8,27 @@ The DRUMKIT 010 consists of 11 8-bit drum sound samples; 6 of them can be trigge
 
 Module power consumption: 3 mA
 
-!!! Inputs
-* '''BD''' - trigger for bass drum
-* '''SD''' - trigger for snare drum
-* '''CP''' - trigger for clap
-* '''CH''' - trigger for closed hi-hat
-* '''OH''' - trigger for open hi-hat
-* '''FX''' - trigger for FX sound
-* '''PITCH CV''' - cv control of pitch for all sounds
-* '''ACCENT''' - trigger for accent
+## Inputs
+* **BD** - trigger for bass drum
+* **SD** - trigger for snare drum
+* **CP** - trigger for clap
+* **CH** - trigger for closed hi-hat
+* **OH** - trigger for open hi-hat
+* **FX** - trigger for FX sound
+* **PITCH CV** - cv control of pitch for all sounds
+* **ACCENT** - trigger for accent
 
-!!! Outputs
-* '''OUT''' - audio output of mix of all sounds
-* '''MULT''' - unbuffered multiple
+## Outputs
+* **OUT** - audio output of mix of all sounds
+* **MULT** - unbuffered multiple
 
-!!! Controls
-* '''BANK''' Knob - select a bank of sounds, this selects different sounds for the 6 channels. Because there are only 11 sounds in total, each bank is a different mix of 6 of those sounds.
-* '''PITCH''' Knob - select the pitch of all sound samples
-* '''REVERSE''' Button - while pressed, all samples will play in reverse
-* '''TRIG MODE''' Switch - if set to A any rising signal will trigger, if set to D a short pulse is expected.
+## Controls
+* **BANK** Knob - select a bank of sounds, this selects different sounds for the 6 channels. Because there are only 11 sounds in total, each bank is a different mix of 6 of those sounds.
+* **PITCH** Knob - select the pitch of all sound samples
+* **REVERSE** Button - while pressed, all samples will play in reverse
+* **TRIG MODE** Switch - if set to A any rising signal will trigger, if set to D a short pulse is expected.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 The DRUMKIT works best when triggered by either the [[topograf.md | TOPOGRAF]], [[triq164.md | TRIQ 164]] or [[mmdiv.md
  | MM-DIV]] modules. 

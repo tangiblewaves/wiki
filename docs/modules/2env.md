@@ -10,32 +10,32 @@ CV control: Both attack and decay time can be CV controlled; the CV "multiplies"
 
 Module power consumption: 8 mA
 
-!!! Inputs
-* '''GT1''' - gate or trigger for envelope 1
-* '''ACV1''' - accept CV for attack stage for envelope 1
-* '''DCV1''' - accept CV for decay stage for envelope 1
-* '''GT2''' - gate or trigger for envelope 2
-* '''ACV2''' - accept CV for attack stage for envelope 2
-* '''DCV2''' - accept CV for decay stage for envelope 2
+## Inputs
+* **GT1** - gate or trigger for envelope 1
+* **ACV1** - accept CV for attack stage for envelope 1
+* **DCV1** - accept CV for decay stage for envelope 1
+* **GT2** - gate or trigger for envelope 2
+* **ACV2** - accept CV for attack stage for envelope 2
+* **DCV2** - accept CV for decay stage for envelope 2
 
-!!! Outputs
-* '''BUS GATE''' (2) - Gate signal from MIDI
-* '''OUT1''' (3) - CV from envelope 1
-* '''END1''' - a trigger CV for when envelope 1 has finished
-* '''OUT2''' (3) - CV from envelope 2
-* '''END2''' - a trigger CV for when envelope 2 has finished
+## Outputs
+* **BUS GATE** (2) - Gate signal from MIDI
+* **OUT1** (3) - CV from envelope 1
+* **END1** - a trigger CV for when envelope 1 has finished
+* **OUT2** (3) - CV from envelope 2
+* **END2** - a trigger CV for when envelope 2 has finished
 
-!!! Controls
+## Controls
 
 The controls are grouped into 2 identical groups marked with the number 1 and 2 for each of the individual envelopes. We only describe the controls for one group as they work exactly the same for the other group.
 
-* '''ATTACK''' Knob - change the attack time from 0 (percussive) to either 2 or 16 seconds depending on FAST/SLOW switch
-* '''DECAY''' Knob - change the decay time from 0 to either 3 or 24 seconds depending on FAST/SLOW switch
-* '''GT/TR''' Switch - switch between GATE or TRIGGER mode. When in GT mode the envelope will rise according to ATTACK knob or ACV2 value for as long as signal on GTx is high and once signal drops then decay part will be initiated. When in TR mode the attack part of the envelope will play out until it reaches full level and then initiate decay part.
-* '''FAST/SLOW''' Switch - changes time multiplier for attack and decay times. See above.
-* '''Trigger''' Button - sends a trigger signal to start the envelope. Always acts like a trigger even when GT mode is active. Unmarked on front panel.
+* **ATTACK** Knob - change the attack time from 0 (percussive) to either 2 or 16 seconds depending on FAST/SLOW switch
+* **DECAY** Knob - change the decay time from 0 to either 3 or 24 seconds depending on FAST/SLOW switch
+* **GT/TR** Switch - switch between GATE or TRIGGER mode. When in GT mode the envelope will rise according to ATTACK knob or ACV2 value for as long as signal on GTx is high and once signal drops then decay part will be initiated. When in TR mode the attack part of the envelope will play out until it reaches full level and then initiate decay part.
+* **FAST/SLOW** Switch - changes time multiplier for attack and decay times. See above.
+* **Trigger** Button - sends a trigger signal to start the envelope. Always acts like a trigger even when GT mode is active. Unmarked on front panel.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 Envelopes are one of the basic modulation sources in subtractive synthesis. They are usually used to modulate amplitude, pitch or a filter. Often you would trigger the envelope from the BUS GATE which means that if a key is pressed on a MIDI keyboard the envelope would activate and open a VCA for instance and then slowly (or fast) close it once the key is released. The envelope can also be triggered from an [[2lfo.md|LFO]] or [[triq164.md|TRIQ164]] for rhythmic or percussive uses.
 

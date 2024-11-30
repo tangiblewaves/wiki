@@ -11,21 +11,21 @@ The great thing is that you can chain as many of the 3CH modules as you like so 
 
 Module power consumption: 15mA
 
-!!! Inputs
+## Inputs
 
-* '''IN 1''' - '''IN 3''' - the signal in for each of the 3 channels.
-* '''CV 1''' - '''CV 3''' - the CV input for each channel which works in conjunction with the same numbered level knob.
-!!! Controls
+* **IN 1** - **IN 3** - the signal in for each of the 3 channels.
+* **CV 1** - **CV 3** - the CV input for each channel which works in conjunction with the same numbered level knob.
+## Controls
 
 Each channel has 4 knobs with the same function, (Channel number is by the level knob):-
 
-* '''FX 1 Send''' - controls the amount of signal sent to FX1 send output.
-* '''FX 2 Send''' - controls the amount of signal sent to FX2 send output.
-* '''Pan''' - set where in the stereo field that channel is played, from fully left to fully right.
-* '''Level''' - controls the amount of signal in the Mix L/R outputs.
+* **FX 1 Send** - controls the amount of signal sent to FX1 send output.
+* **FX 2 Send** - controls the amount of signal sent to FX2 send output.
+* **Pan** - set where in the stereo field that channel is played, from fully left to fully right.
+* **Level** - controls the amount of signal in the Mix L/R outputs.
 
 Do bear in mind that the amount of signal sent to the FXs (and their return level) will also affect the apparent loudness of the sound as well as the level control.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 Please see the [[mixconsole.md | MIXCONSOLE]] page for further reading.

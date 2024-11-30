@@ -14,26 +14,26 @@ Module power consumption: 5 mA
 
 There is also a [[4VCA|4VCA]] module available.
 
-!!! Inputs
-* '''IN1''' - accept audio or control signal to be amplified or attenuated
-* '''CV1''' - accept CV for amplitude modulation of IN1 signal.
-* '''IN2''' - accept audio or control signal to be amplified or attenuated
-* '''CV2''' - accept CV for amplitude modulation of IN2 signal
+## Inputs
+* **IN1** - accept audio or control signal to be amplified or attenuated
+* **CV1** - accept CV for amplitude modulation of IN1 signal.
+* **IN2** - accept audio or control signal to be amplified or attenuated
+* **CV2** - accept CV for amplitude modulation of IN2 signal
 
-!!! Outputs
-* '''OUT 1''' (2) - amplified or attenuated signal from IN1
-* '''OUT 2''' (2) - amplified or attenuated signal from IN2
-* '''BUS CV''' - CV signal from MIDI
-* '''BUS CTRL''' - CTRL signal from MIDI (CH1 - CC20)
-* '''MULT''' - Passive signal multiplier, all sockets are bi-directional
+## Outputs
+* **OUT 1** (2) - amplified or attenuated signal from IN1
+* **OUT 2** (2) - amplified or attenuated signal from IN2
+* **BUS CV** - CV signal from MIDI
+* **BUS CTRL** - CTRL signal from MIDI (CH1 - CC20)
+* **MULT** - Passive signal multiplier, all sockets are bi-directional
 
-!!! Controls
+## Controls
 The controls are grouped into 2 identical groups marked with the number 1 and 2 for each of the individual VCA. We only describe the controls for one group as they work exactly the same for the other group.
 
-* '''CV Knob''' - signal level attenuation.
-* '''AUDIO/DC Switch''' - switch between AUDIO or DC mode.
+* **CV Knob** - signal level attenuation.
+* **AUDIO/DC Switch** - switch between AUDIO or DC mode.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This tutorial explains the various uses of a VCA:
 %embed% https://www.youtube.com/watch?v=hLWA_exujZw %%

@@ -30,5 +30,5 @@ Here you may listen to an improvisation done with the circuit along with TOPOGRA
 
 https://soundcloud.com/taitekatto/braedboard-cd40106-fm
 
-'''Have fun!'''
+**Have fun!**
 

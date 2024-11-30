@@ -12,45 +12,45 @@ Some algorithms create sound loops, to use these more flexible the ALGODRONE can
 
 Module power consumption: 14 mA
 
-!!! Inputs
+## Inputs
 
-* '''CV''' - Base frequency for the algorithm
-* '''GATE''' - Resets the current algorithm run to the start, this is useful for "one-shots"
-* '''PAR1''' - CV input for Parameter 1 of the algorithm
-* '''PAR2''' - CV input for Parameter 2 of the algorithm
-* '''PAR3''' - CV input for Parameter 3 of the algorithm
-* '''GRAIN SIZE''' - CV input for Grain Size
-* '''POS''' - CV input for position of the grain within the loop
+* **CV** - Base frequency for the algorithm
+* **GATE** - Resets the current algorithm run to the start, this is useful for "one-shots"
+* **PAR1** - CV input for Parameter 1 of the algorithm
+* **PAR2** - CV input for Parameter 2 of the algorithm
+* **PAR3** - CV input for Parameter 3 of the algorithm
+* **GRAIN SIZE** - CV input for Grain Size
+* **POS** - CV input for position of the grain within the loop
 
-!!! Outputs
+## Outputs
 
-* '''BUS CV''' - (positioned on the left side) Pitch signal from the MIDI bus
-* '''OUT''' - Output of the algorithm
-* '''CYCLE''' - trigger output when a cyclic algorithm (loop) has reached its end before repeating
-* '''MULT''' - unbuffered multiple
+* **BUS CV** - (positioned on the left side) Pitch signal from the MIDI bus
+* **OUT** - Output of the algorithm
+* **CYCLE** - trigger output when a cyclic algorithm (loop) has reached its end before repeating
+* **MULT** - unbuffered multiple
 
-!!! Controls
+## Controls
 
-* '''ALGORITHM''' knob - selects the current algorithm, 67 factory and 30 user presets are available, the selected algorithm will be displayed in the small display to the right of this knob
-* '''COARSE FREQ'''  knob - coarse selection of base frequency. Although a higher frequency often leads to a higher pitched sound, each algorithm reacts differently to this and there can be drastic changes to the behaviour of the sound when the frequency changes.
-* '''FINE FREQ''' knob - fine control of the base frequency
-* '''PAR 1''' knob - controls the value of parameter 1 of the selected algorithm. Each algorithm uses these parameters differently and not every algorithm uses all three or even any of the parameter. It is up to the user to explore how changes in parameters affect the sound.
-* '''PAR 2''' knob - value of parameter 2
-* '''PAR 3''' knob - value of parameter 3
+* **ALGORITHM** knob - selects the current algorithm, 67 factory and 30 user presets are available, the selected algorithm will be displayed in the small display to the right of this knob
+* **COARSE FREQ**  knob - coarse selection of base frequency. Although a higher frequency often leads to a higher pitched sound, each algorithm reacts differently to this and there can be drastic changes to the behaviour of the sound when the frequency changes.
+* **FINE FREQ** knob - fine control of the base frequency
+* **PAR 1** knob - controls the value of parameter 1 of the selected algorithm. Each algorithm uses these parameters differently and not every algorithm uses all three or even any of the parameter. It is up to the user to explore how changes in parameters affect the sound.
+* **PAR 2** knob - value of parameter 2
+* **PAR 3** knob - value of parameter 3
 
 Some of the algorithms produce sound loops which can be "frozen" and only a tiny fraction of the loop played at a time. This is called Granular Synthesis and the following three knobs control the "grain mode".
 
-* '''GRAIN SIZE''' knob - only a tiny fraction of the complete sound loop the algorithm creates is played. The size knob controls how large the area is. When the knob is turned all the way to the left, then the grain encompasses the complete loop which means grain mode is OFF. Turning the knob gradually to the right increases the area of the grain, starting with a very short loop to a larger one.
-* '''POSITION''' knob - when in grain mode this knob controls where in the complete sound loop the grain is playing. The position starts at the beginning of the loop with the knob all the way to the left and by turning the knob to the right the grain is shifted towards the end of the loop.
-* '''MOTION''' - controls the way the grain plays within a frozen loop. Fully to the left, the grain played completely static. Turning to the right until the middle position, an increased triangle LFO modulation is applied to the grain position, adding some liveliness and smooth movement to the sound. When set to the right half of the knob (random) the grain is shifted randomly across the loop.
+* **GRAIN SIZE** knob - only a tiny fraction of the complete sound loop the algorithm creates is played. The size knob controls how large the area is. When the knob is turned all the way to the left, then the grain encompasses the complete loop which means grain mode is OFF. Turning the knob gradually to the right increases the area of the grain, starting with a very short loop to a larger one.
+* **POSITION** knob - when in grain mode this knob controls where in the complete sound loop the grain is playing. The position starts at the beginning of the loop with the knob all the way to the left and by turning the knob to the right the grain is shifted towards the end of the loop.
+* **MOTION** - controls the way the grain plays within a frozen loop. Fully to the left, the grain played completely static. Turning to the right until the middle position, an increased triangle LFO modulation is applied to the grain position, adding some liveliness and smooth movement to the sound. When set to the right half of the knob (random) the grain is shifted randomly across the loop.
 
 The ALGODRONE can also produce random algorithms which can be slightly mutated and then stored for later use. The three push buttons at the top are used for this.
 
-* '''SAVE''' push button - store the current algorithm in a user location between 68 and 96. When the SAVE button is pressed, the numbers will flash and the ALGORITHM knob can be used to select the target slot number, the current algorithm in that slot will play. Once the desired slot has been found, press SAVE again to store the current random algorithm in that slot.
-* '''RND''' push button - creates a completely new randomised algorithm
-* '''MUTATE''' -  when creating a random algorithm, this changes one item in the random algorithm, like the operator (e.g. "+" -> "*") or a constant value
+* **SAVE** push button - store the current algorithm in a user location between 68 and 96. When the SAVE button is pressed, the numbers will flash and the ALGORITHM knob can be used to select the target slot number, the current algorithm in that slot will play. Once the desired slot has been found, press SAVE again to store the current random algorithm in that slot.
+* **RND** push button - creates a completely new randomised algorithm
+* **MUTATE** -  when creating a random algorithm, this changes one item in the random algorithm, like the operator (e.g. "+" -> "*") or a constant value
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 Bytebeat has been first explored by Viznut with a series of videos on YouTube and a very detailed analysis of the code on his blog: http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html
 

@@ -8,23 +8,23 @@ I was (and now am now once again) a member of the band Kubusschnitt, and I also 
 
 If you are so moved, here are a few links where you can find examples of what I do:
 
-!! Bandcamp
+# Bandcamp
 * The Soviet Space Dog Project (Bandcamp) https://sovietspacedogproject.bandcamp.com/ 
 * Kubusschnitt (Bandcamp) https://kubusschnitt.bandcamp.com/ 
 * The Ambient Fish Society (Bandcamp) https://theambientfishsociety.bandcamp.com/ 
 
-!! Soundcloud
+# Soundcloud
 * Various AE Modular Challenges and extra pieces https://soundcloud.com/andyb99 
 * Yet more AE Modular Challenges and extra pieces https://soundcloud.com/andyb7276 
 
-!! YouTube
+# YouTube
 * Some odd pieces, some of which haven’t made it anywhere else yet [[https://www.youtube.com/user/TheAndyB99]] 
 
-!! Other Information
+# Other Information
 * Kubusschnitt Site [[https://kubusschnitt.wordpress.com/]]
 * The Soviet Space Dog Project Site [[https://sovietspacedogproject.wordpress.com/]]
 
-!! Current hardware that I’m using
+# Current hardware that I’m using
 * AE Modular (three rows, fully loaded)
 * Make Noise 0-Coast
 * Arturia MicroBrute
@@ -46,7 +46,7 @@ I work as live as possible, recording the stereo feed off my small mixer, either
 
 My AE Modular is the ambient workhorse in my setup, producing most of the backings and introductions to a lot of my pieces, often cross-patched with the Bastl Kastle.
 
-!! Some Recent Music
+# Some Recent Music
 
 * Pacific Gravity by The Soviet Space Dog Project (Bandcamp link to track)[[https://sovietspacedogproject.bandcamp.com/track/pacific-gravity]]
 * 7pm at the B of the M in DDD (edit) by The Ambient Fish Society (YouTube link) [[https://www.youtube.com/watch?v=WUBGpiQSAv4]]

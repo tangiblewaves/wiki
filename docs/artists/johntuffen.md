@@ -8,7 +8,7 @@ I was born in the 60s and grew up through the home computer boom and the miniatu
 
 I've been interested in electronics since school, very much looking forward to integrating some of my 'wonkystuff' work in with the AEModular system!
 
-!! Links
+# Links
 
 * [[https://www.facebook.com/john.tuffen | Facebook]]
 * [[https://twitter.com/namke_ | Twitter]]
@@ -26,7 +26,7 @@ Something I'm still pleased with — a brief foray into film-making & sound-trac
 
 %embed% https://youtu.be/qHWgYhqnqJ4 %%
 
-!!Gear
+# Gear
 
 Too much gear collected over the years:
 * AEModular Starter Rack 2 with SEQ16

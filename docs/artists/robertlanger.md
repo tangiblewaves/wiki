@@ -9,14 +9,14 @@ Since 1987 Robert worked as an electronics development engineer, IT supporter an
 
 [[https://www.tangiblewaves.com/|tangible waves]] started in 2017 with the introduction of the AE Modular system via a [[https://www.kickstarter.com/projects/562102529/ae-modular-a-modular-synthesizer-for-everyone|Kickstarter Campaign]] which was successfully funded. It is now a growing business supported by a fantastic community of artists, customers and friends.
 
-!! Links
+# Links
 
 * [[https://tangiblewaves.com| The tangible waves website!]]
 * [[https://www.youtube.com/channel/UCY6VM5UK3YbRR7i9WZIT3Rg | YouTube]]
 * [[https://www.instagram.com/tangiblewaves/ | Instagram]]
 * [[https://www.facebook.com/tangiblewaves | Facebook]]
 
-'''YouTube''' 
+**YouTube** 
 
 Robert and Antonia at DigitalAnalog 2020
 %embed% https://youtu.be/1_YRNUxTK6M %%

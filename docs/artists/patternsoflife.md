@@ -7,7 +7,7 @@ Bought my first Synth in 1984 (a Korg MS20, which I still have), I intended to b
 
 On the [[https://forum.aemodular.com | AE Modular Forum]] I'm known as @pol.
 
-!! Links
+# Links
 
 * [[https://patternsoflife.bandcamp.com/ | Bandcamp]]
 
@@ -22,7 +22,7 @@ My Youtube channel
 
 
 
-!! Studio
+# Studio
 
 I have an extensive studio, as I've kept virtually every piece of gear I've ever bought, and have an understanding wife! All time favourite synth (of ones I've own) is Korg MS2000, although the Novation Ultranova is close behind. There are many more in 3rd place, from the Bass Station 2 to the Studiologic Sledge 2.0 via Casio CZ101, Emu Virtuoso and Arturia Minibrute 2. The AE has it's own ministudio and I really enjoy playing with, but rarely complete a piece of music with it unfortunately.
 

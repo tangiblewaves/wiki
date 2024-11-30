@@ -4,7 +4,7 @@ Below you will find links to free online courses that will teach you music theor
 
 Sometimes those courses have their URL changed, please report any issues to @admin at the forum.
 
-!! Courses about Music Production
+# Courses about Music Production
 
 [[https://www.coursera.org/learn/producing-music | The Art of Music Production]]
 
@@ -26,7 +26,7 @@ From the Moog analog synthesizers in the 1960s to the contemporary usage of comp
 
 In this Ableton Certified Training Center course developed by Berklee Online, you will explore some of Live’s most powerful and useful functionality: MIDI programming, audio recording, warping and processing, looping editing, mixing, performing, file management, and troubleshooting.
 
-!! Courses about Music Theory
+# Courses about Music Theory
 
 [[https://www.coursera.org/learn/develop-your-musicianship | Develop Your Musicianship]]
 

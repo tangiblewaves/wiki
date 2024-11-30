@@ -1,4 +1,4 @@
-!! AE Modular Technical Guide
+# AE Modular Technical Guide
 
 [[toc]]
 
@@ -10,7 +10,7 @@ This “simplification”, also means it is easy for users to build their own mo
 
 If you’ve never played with synth DIY its a perfect place to ‘give it a go’, try building a simple oscillator - see how it goes..
 
-''DISCLAIMER:  This document is created in good faith, but I cannot accept any responsibility for damages caused by inaccurate/incorrect information. If you have questions please ask them on the forum or to tangible waves directly.''
+__DISCLAIMER:  This document is created in good faith, but I cannot accept any responsibility for damages caused by inaccurate/incorrect information. If you have questions please ask them on the forum or to tangible waves directly.__
 
 ## Signals on the Bus Cable
 
@@ -26,9 +26,9 @@ The top 4 pins are used for power.  The remaining 6 pins are all derived from MI
 
 [[img|diy/images/pin-explanation.png|700]]
 
-''NOTE: the control signals should be considered as output only, since they are pushed by the master module.''
+__NOTE: the control signals should be considered as output only, since they are pushed by the master module.__
 
-''NOTE: All modules use the same 5V / Ground rail so modules need to take care not to induce a ripple voltage which can introduce noise.''
+__NOTE: All modules use the same 5V / Ground rail so modules need to take care not to induce a ripple voltage which can introduce noise.__
 
 ## How to make your own ribbon cable
 
@@ -91,9 +91,9 @@ For connecting to the bus cable, each module has a 2x5 male pin header at the ri
 
 #### Front Panels
 
-* '''Material''': 1.5mm MDF board, primed and sprayed with color, could be also Acrylic or aluminum...
-* '''Marking/printing''': is made originally by a rubber stamp and special stamp color; any other options are possible of course.
-* '''Mounting''': front panels are mounted with M3x4 screws, black, DIN912 cap screw with an inner hex
+* **Material**: 1.5mm MDF board, primed and sprayed with color, could be also Acrylic or aluminum...
+* **Marking/printing**: is made originally by a rubber stamp and special stamp color; any other options are possible of course.
+* **Mounting**: front panels are mounted with M3x4 screws, black, DIN912 cap screw with an inner hex
 
 
 Ribbon connector example:
@@ -104,7 +104,7 @@ Headers example:
 https://uk.farnell.com/multicomp/2212s-08sg-85/socket-pcb-1-row-8way/dp/1593463
 e(these are a little bit short though)
 
-''NOTE: trimpots are placed on the underside of the module, with holes in the case base to allow for adjustment.''
+__NOTE: trimpots are placed on the underside of the module, with holes in the case base to allow for adjustment.__
 
 ### Case
 
@@ -118,7 +118,7 @@ Additionally, at the left-hand side of the case, there are additional holes in t
 
 Finally, a hole is situated at the top of the left hand ‘end cheek’ of the case to allow for the DC jack of the master module.
 
-''NOTE:  From the ‘holes’ in the case, you can see there is a notional position for the master module and some oscillators modules.''
+__NOTE:  From the ‘holes’ in the case, you can see there is a notional position for the master module and some oscillators modules.__
 
 #### Module Mounting
 
@@ -142,15 +142,15 @@ The [[modules/master.md|MASTER]] module supplies the regulated 5V from one of 2 
 
 The Master module (and the smaller 1U Power module) can supply up to 800mA without any problems. This is more than sufficient for 4 full width rows.
 
-''(check: max current consider, only PSU, or also regulator ?)''
+__(check: max current consider, only PSU, or also regulator ?)__
 
 ### I/O
 
-* '''AUD.1|2''' - audio input or output
-* '''CTRL 1|2'''  - cv input or output
-* '''BUS CV (2)''' -  MIDI note on/off pitch (v/oct)
-* '''BUS GATE''' - MIDI on/off 
-* '''BUS CTRL''' - MIDI cc 20 
+* **AUD.1|2** - audio input or output
+* **CTRL 1|2**  - cv input or output
+* **BUS CV (2)** -  MIDI note on/off pitch (v/oct)
+* **BUS GATE** - MIDI on/off 
+* **BUS CTRL** - MIDI cc 20 
 
 ### Audio Interface
 
@@ -160,9 +160,9 @@ These are both bi-directional, so can be used either as input or output.
 
 The input and output can be up to 5Vpp, outside this it will be clipped.
 
-''(check: DC coupled?) ''
-''(check: additional filtering?)''
-''(check: Vpp , I thought it's not 5Vpp, but much lower 3Vpp?)  ''
+__(check: DC coupled?)__
+__(check: additional filtering?)__
+__(check: Vpp , I thought it's not 5Vpp, but much lower 3Vpp?)__
 
 ### CV Interface
 
@@ -173,7 +173,7 @@ The input and output can be up to 5Vpp, outside this it will be clipped.
 The primary difference between this and the audio IO is these are DC coupled.
 You can use the CV I/O for audio input too.
 
-''(check: does a bipolar/audio get offset to 2.5V) ''
+__(check: does a bipolar/audio get offset to 2.5V)__
 
 ### Midi Interface
 
@@ -230,7 +230,7 @@ Fairly common is  0V..5V, which allows for 5 octaves, others extend to give a gr
 CV gate / trig - voltage above +3V are considered high
 
 
-''(check: Eurorack connector specifics - pinout?)''
+__(check: Eurorack connector specifics - pinout?)__
 
 #### Ground
 
@@ -247,7 +247,7 @@ If you can supply a regulated 5V + GND supply, you could connect these directly 
 For audio output you would need to convert from unipolar 0..5V to bipolar -2.5V to 2.5V.
 You could use a 4IO module for this.
 
-''NOTE: if you already have one master module and this is for a new case, an alternative is the Racklink module.''
+__NOTE: if you already have one master module and this is for a new case, an alternative is the Racklink module.__
 
 ## Oscillator calibration
 

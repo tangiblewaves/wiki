@@ -6,7 +6,7 @@ Formed in 1995 by Chad Davis, the sound of SUBKLINIK has been described as suffo
 
 Chad is also involved in the project JENZEITS.
 
-!! Links
+# Links
 
 * [[https://subklinik-korporation.bandcamp.com | Bandcamp]]
 * [[https://www.instagram.com/vintage_acid_magick/ | Instagram]]
@@ -16,7 +16,7 @@ Chad is also involved in the project JENZEITS.
 
 %embed% https://youtu.be/BgjYpT7pRsw %%
 
-!!Gear
+# Gear
 
 * AEM 7U system (3xSR2 and 1 SR1)
 * Blue Lantern Dwarf Star x2
@@ -29,4 +29,4 @@ Chad is also involved in the project JENZEITS.
 * Fostex D160 16 track hard drive multitracker
 * Alesis 32.8 mixing console
 * Various outboard effects and compressors
-* '''NO COMPUTERS USED IN MY STUDIO'''
+* **NO COMPUTERS USED IN MY STUDIO**

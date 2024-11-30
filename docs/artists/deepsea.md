@@ -18,13 +18,13 @@ software to make music like I always wanted to.  I also started DJing
 again, but this time with my other musical passion, Jazz, at an awesome
 musical venue, Motor City Wine.
 
-!! Links
+# Links
 
 * [[https://www.youtube.com/channel/UC00hx5KXVNK40Y_YQh_6X4Q | YouTube]]
 * [[https://www.instagram.com/deepsea313/ | Instagram]]
 * [[https://soundcloud.com/deepsea_detroit | Soundcloud]]
 
-!!Gear
+# Gear
 
 AE Modular 2 row case, Elektron Octatrack MKII, Roland Juno 106, Make
 Noise 0-Coast, Arturia Drumbrute Impact, Crotter & Guitari Organelle,

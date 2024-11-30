@@ -14,9 +14,9 @@ I like using field recordings or sampled sound, but not as much as I liked strin
 
 And that, in a slightly abridged version is how I got here about fifteen years later. The funny thing is, that many people will find this development strangely familiar. About discovering an activity involving sonic exploration which grabs hold of you and draws you in and which allows our experiences and interests to develop and flourish, whatever our background.
 
-'''Black Hair Rolled In Dried Blood''' (don’t ask where the name came from - that is another story) is a project which is fundamentally about exploring sonic creation, but also multi-dimensional, interactive and collaborative projects. The BHRIDB Bandcamp site gives me a lot of pleasure because it is a straightforward way of sharing ideas I have been working on. All the downloads are free, and I have a great joy in making work available like this, and also to explore the creative output of so many other projects out there. I make some physical releases available, and producing them as hand-made, individual artefacts is another important aspect of the project. I was also involved with another micro label called Stars, Dots, and the ‘New’ Junk label which has a much broader community of releases and the live act called Osmiroid.
+**Black Hair Rolled In Dried Blood** (don’t ask where the name came from - that is another story) is a project which is fundamentally about exploring sonic creation, but also multi-dimensional, interactive and collaborative projects. The BHRIDB Bandcamp site gives me a lot of pleasure because it is a straightforward way of sharing ideas I have been working on. All the downloads are free, and I have a great joy in making work available like this, and also to explore the creative output of so many other projects out there. I make some physical releases available, and producing them as hand-made, individual artefacts is another important aspect of the project. I was also involved with another micro label called Stars, Dots, and the ‘New’ Junk label which has a much broader community of releases and the live act called Osmiroid.
 
-!! Links
+# Links
 
 * [[https://www.youtube.com/channel/UCwW0sCzCEBaXm8m3ANdehvQ | YouTube]]
 * [[https://blackhairrolledindriedblood.bandcamp.com | Bandcamp]]
@@ -24,7 +24,7 @@ And that, in a slightly abridged version is how I got here about fifteen years l
 
 %embed% https://youtu.be/xtac8-e0wQM %%
 
-!! Studio
+# Studio
 
 I have a relatively simple set up for recording and production. The equipment I have used ranges from a Teenage Engineering OP-1, Soma Labs Lyra8, Soma Labs Pipe, Koma Field Kit and Field Effects, a Pittsburgh Modular Lifeforms System 2, Make Noise 0-Coast and various loopers, stomp pedals, Kaos pads, contact mics, a Zoom H5 field recorder with a Soma Labs Ether VLF antenna and other stuff. I just pick and choose which things to use and don’t have all these things connected at the same time, maybe just playing with one or two. I monitor everything through a pair of Adam Audio T5Vs.
 

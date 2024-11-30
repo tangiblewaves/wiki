@@ -14,22 +14,22 @@ Additionally, 6 oscillators can be synced to other ones for extending the sonic 
 
 Module power consumption: 6 mA
 
-!!! Inputs
-* '''A1 - A6 SYNC''' - You can patch from the outputs B1 to B6 into these to synchronise A and B banks.
+## Inputs
+* **A1 - A6 SYNC** - You can patch from the outputs B1 to B6 into these to synchronise A and B banks.
 
-!!! Outputs
-* '''OUT''' - The mix of all banks, taking into account the section on/off switches and bank level knobs.
-* '''SUM A''' - the mix of all oscillators in bank A, taking into account the section on/off switch, but not affected by the bank A level knob
-* '''SUM B''' - same for bank B
-* '''SUM C''' - same for bank C
-* '''Pulse Outputs B1 - B6''' - Patch these into the inputs A1- A6 to sync the A and B oscillators
+## Outputs
+* **OUT** - The mix of all banks, taking into account the section on/off switches and bank level knobs.
+* **SUM A** - the mix of all oscillators in bank A, taking into account the section on/off switch, but not affected by the bank A level knob
+* **SUM B** - same for bank B
+* **SUM C** - same for bank C
+* **Pulse Outputs B1 - B6** - Patch these into the inputs A1- A6 to sync the A and B oscillators
 
-!!! Controls
-* '''PITCH A1-A6, B1-B6, C1-C6''' - these control the individual pitches of the oscillators
-* '''Trigger Button A1-3,A4-6, B1-3, B4-6, C1-3, C4-6''' - when pressed these momentarily activate the respective section even when it is switched off with the section on/off switch
+## Controls
+* **PITCH A1-A6, B1-B6, C1-C6** - these control the individual pitches of the oscillators
+* **Trigger Button A1-3,A4-6, B1-3, B4-6, C1-3, C4-6** - when pressed these momentarily activate the respective section even when it is switched off with the section on/off switch
 
 
-!!! Patch Examples
+## Patch Examples
 
 It is designed to be used with the [[dronx.md|Dronx Mixer/FX module]] but does not have to be. The [[mixconsole.md|Mixconsole]] is also an option,  or a [[4vca.md|4VCA module]] or two...
 

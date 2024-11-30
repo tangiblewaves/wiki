@@ -9,27 +9,27 @@ The module is based on a simple 8-bit microcontroller and an adapted design of J
 
 Module power consumption: 30 mA
 
-!!! Inputs
-* '''CV1''' - CV frequency control
-* '''CV2''' - additional frequency control which is added to CV1
-* '''FLT CV''' - filter cutoff frequency control
-* '''RES CV''' - filter resonance control
-* '''AMP CV''' - VCA amplitude control
+## Inputs
+* **CV1** - CV frequency control
+* **CV2** - additional frequency control which is added to CV1
+* **FLT CV** - filter cutoff frequency control
+* **RES CV** - filter resonance control
+* **AMP CV** - VCA amplitude control
 
-!!! Outputs
-* '''OUT''' - audio output signal
-* '''MULT''' - multiple disconnected from module circuitry
-* '''B.CV''' - CV signal from MIDI bus
-* '''B.CTRL''' - MIDI CTRL signal from the bus
+## Outputs
+* **OUT** - audio output signal
+* **MULT** - multiple disconnected from module circuitry
+* **B.CV** - CV signal from MIDI bus
+* **B.CTRL** - MIDI CTRL signal from the bus
 
-!!! Controls
-* '''PITCH''' (pot) - select the base frequency of the oscillator
-* '''FILTER''' (pot) - select the cutoff frequency of the built-in filter
-* '''RESONANCE''' (pot) - select the resonance of the filter
-* '''OSCILLATORS''' (switch) - select 1 or 2 oscillators. If 2 is selected the second oscillator is detuned to the first one at a fixed rate.
-* '''+2 OCT''' (switch) - if set to the top position the frequency is shifted up 2 octaves 
+## Controls
+* **PITCH** (pot) - select the base frequency of the oscillator
+* **FILTER** (pot) - select the cutoff frequency of the built-in filter
+* **RESONANCE** (pot) - select the resonance of the filter
+* **OSCILLATORS** (switch) - select 1 or 2 oscillators. If 2 is selected the second oscillator is detuned to the first one at a fixed rate.
+* **+2 OCT** (switch) - if set to the top position the frequency is shifted up 2 octaves 
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 Though technically a "complete" voice it obviously can be processed further within the AE system. [[phaser.md | PHASER]] and [[delay.md | Lofi Delay]] are particularly recommended....
 

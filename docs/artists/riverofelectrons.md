@@ -8,7 +8,7 @@ River of Electrons is particularly focused on explorations of specific textures 
  
 Each RoE release is an investigation of a particular (and sometimes particularly restricted) sound-world which can be structured as anything from drones and noise, through to more conventional melodies. But the focus is heavily on the sound texture.
 
-!! Links
+# Links
 
 * River of Electrons on Bandcamp: [[https://riverofelectrons.bandcamp.com]]
 * The Synaesmedia YT channel (mainly music through programming tutorials) [[https://www.youtube.com/c/synaesmedia]]
@@ -16,7 +16,7 @@ Each RoE release is an investigation of a particular (and sometimes particularly
 
 This is my first AE Modular release: [[https://riverofelectrons.bandcamp.com/album/embodied-synthesis-1]]
 
-!!Gear
+# Gear
 
 Much of what I do is in the computer. So I'm a heavy FL Studio user. Also working with Sonic Pi, VCV Rack, Processing, Pure Data, Lua Protoplug (a programmable VST).
 

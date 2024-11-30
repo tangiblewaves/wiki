@@ -15,31 +15,31 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
-!!! Inputs
+## Inputs
 
-* '''CV''' - CV control for pitch, 1V/octave
-* '''IMDI''' - IMDI messages for pitch, shape and others
-* '''SHP''' - CV for controlling the shape
-* '''CV2''' - additional CV input (###to be specified)
+* **CV** - CV control for pitch, 1V/octave
+* **IMDI** - IMDI messages for pitch, shape and others
+* **SHP** - CV for controlling the shape
+* **CV2** - additional CV input (###to be specified)
 
-!!! Outputs
+## Outputs
 
-* '''OUT'''  - the audio output
-* '''SO'''  - suboctave as square wave
-* '''MX'''  - mix of audio out and suboctave
+* **OUT**  - the audio output
+* **SO**  - suboctave as square wave
+* **MX**  - mix of audio out and suboctave
 
-!!! Controls
+## Controls
 
-* '''FREQ''' Pot - controls the pitch
-* '''SHAPE''' Pot - modifies the selected waveform in different ways, depending on the selected waveform
-* '''0 / +2''' switch - changes the pitch by 2 octaves
-* '''mode''' button - cycles through the available modes / waveforms, displayed by the LED:
+* **FREQ** Pot - controls the pitch
+* **SHAPE** Pot - modifies the selected waveform in different ways, depending on the selected waveform
+* **0 / +2** switch - changes the pitch by 2 octaves
+* **mode** button - cycles through the available modes / waveforms, displayed by the LED:
 red: sawtooth, green: pulse, orange: triangle/sine, blinking ###EXPLAIN: wavetable 1, 2, 3
 
-!!! Shape function
+## Shape function
 * in Sawtooth mode: full left is a single sawtooth, the further right, increasingly detuned double sawtooth
 * in Pulse mode: sets the pulsewidth
 * in triangle/sine mode: in the left half, triangle wave, in the right half sine wave
 * in wavetable modes: scans through the wavetable waveforms
 
-!!! Patch Suggestions
+## Patch Suggestions

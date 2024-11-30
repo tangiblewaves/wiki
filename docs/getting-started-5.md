@@ -19,7 +19,7 @@ If you get your recording right (particularly levels), it can save editing and p
 
 Mastering is something to be aware of if things are getting serious; the important thing it does is make sure there are not hidden frequencies which could be damaging speakers, changing apparent levels or affecting the mix. It becomes vital when combining tracks for a release so that there are not sudden volume changes (unless intentional!), particularly between tracks.
 
-!! Going to Video
+# Going to Video
 
 If you plan to do with a smartphone, please watch the Youtube video above.
 

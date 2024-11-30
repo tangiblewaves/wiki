@@ -7,24 +7,24 @@ The POLAMIX is similar to the [[2cvtool.md|2CVTOOL]] in that you can offset, att
 
 Module power consumption: 2 mA
 
-!!! Inputs
-* '''IN 1''' - accepts any CV or audio signal
-* '''IN 2''' - accepts any CV or audio signal
-* '''IN 3''' - accepts any CV or audio signal
+## Inputs
+* **IN 1** - accepts any CV or audio signal
+* **IN 2** - accepts any CV or audio signal
+* **IN 3** - accepts any CV or audio signal
 
-!!! Outputs
-* '''Bus CV''' - CV signal from MIDI
-* '''Bus CTRL''' - CTRL signal from MIDI
-* '''OUT''' (x2) - output of the 3 channel mix
-* '''MULT''' - passive multiple, not connected to the module's circuitry
+## Outputs
+* **Bus CV** - CV signal from MIDI
+* **Bus CTRL** - CTRL signal from MIDI
+* **OUT** (x2) - output of the 3 channel mix
+* **MULT** - passive multiple, not connected to the module's circuitry
 
-!!! Controls
-* '''OFFSET''' - Boost or lower the overall level of the output
-* '''LEVEL 1''' - Boost or lower the signal level of input 1.
-* '''LEVEL 2''' - As above for channel 2.
-* '''LEVEL 3''' - As above for channel 3.
+## Controls
+* **OFFSET** - Boost or lower the overall level of the output
+* **LEVEL 1** - Boost or lower the signal level of input 1.
+* **LEVEL 2** - As above for channel 2.
+* **LEVEL 3** - As above for channel 3.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This module is excellent for combining CVs, e.g. an [[adsr.md | Envelope]] and [[2lfo.md | LFO]] to go to one destination (e.g. Filter cut off frequency); you can set the level of modulation for each of 3 CVs input, and this is very tweakable during a performance. 
 

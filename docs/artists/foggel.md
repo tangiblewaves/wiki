@@ -10,6 +10,6 @@ I like to embrace creative constraints and simplicity, allthough i find that the
 
 I use the Arturia MicroFreak to control the starter rack, and this helps me interact with the starter rack in a even more tangible way, which i love.
 
-!! Social Media Links
+# Social Media Links
 
 * [[https://soundcloud.com/user-401968979 | Soundcloud]]

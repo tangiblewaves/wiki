@@ -11,7 +11,7 @@ https://www.tangiblewaves.com/store/p85/POWER.html
 
 There are various synths and keyboards/ sequencers available with Gate/CV outs but you will need to keep an eye on the maximum voltage they send; the AE modular will be damaged if provided with more than 5 volts, (or negative voltage). This problem can be avoided by use of the 4 I/O module, or a Midi synth/keyboard/ sequencer and the Master module.
 
-'''NOTE:''' When connecting MIDI to the Master module, be sure to use the adapter from tangible waves or a different type 'B' plug ([[https://minimidi.world/#types | more info on the different types of MIDI-TRS converters here]]).
+**NOTE:** When connecting MIDI to the Master module, be sure to use the adapter from tangible waves or a different type 'B' plug ([[https://minimidi.world/#types | more info on the different types of MIDI-TRS converters here]]).
 
 The Master module also supplies the various bus CVs available on many modules, all are derived from the Midi information received. These bus CVs mean a lot less patch cables are needed in many cases.
 
@@ -19,7 +19,7 @@ The descriptions here are for the current Master module, the original Kickstarte
 
 Module power consumption: 30 mA
 
-!!! Inputs
+## Inputs
 
 Anything marked I/O can be an input or output.
 
@@ -27,39 +27,39 @@ Anything marked I/O can be an input or output.
 
 3.5mm Minijacks.
 
-* '''Midi''' - Needs a Midi breakout cable  (provided with starter systems, or available in the Tangible Waves shop). The TRS MIDI is of type B.
-* '''Audio 1 I/O''' - This socket connects with the AE patchbay sockets labelled A1 listed below. 
-* '''Audio 2 I/O''' - This socket connects with the AE patchbay socket labelled A2 listed below.
-* '''CTRL 1 I/O''' - This socket connects with the AE patchbay sockets labelled 1 listed below.
-* '''CRTL 2 I/O''' - This socket connects with the AE patchbay socket labelled 2 listed below
+* **Midi** - Needs a Midi breakout cable  (provided with starter systems, or available in the Tangible Waves shop). The TRS MIDI is of type B.
+* **Audio 1 I/O** - This socket connects with the AE patchbay sockets labelled A1 listed below. 
+* **Audio 2 I/O** - This socket connects with the AE patchbay socket labelled A2 listed below.
+* **CTRL 1 I/O** - This socket connects with the AE patchbay sockets labelled 1 listed below.
+* **CRTL 2 I/O** - This socket connects with the AE patchbay socket labelled 2 listed below
 
 The difference between the audio and Ctrl inputs are the latter is meant for CVs, the former is the usual connection for your AE Modular to the external mixer/sound system etc.
 
 AE Patchbay
 
-* '''A1/ CTRL 1 I/O''' - the left socket is connect to the audio 1 I/O listed above. The right socket is connected to the Crtl 1 socket listed above.
-*''' A2/ CTRL 2 I/O''' - the left socket is connect to the audio 2 I/O listed above. The right socket is connected to the Crtl 2 socket listed above.
+* **A1/ CTRL 1 I/O** - the left socket is connect to the audio 1 I/O listed above. The right socket is connected to the Crtl 1 socket listed above.
+***A2/ CTRL 2 I/O** - the left socket is connect to the audio 2 I/O listed above. The right socket is connected to the Crtl 2 socket listed above.
 
-!!! Outputs
+## Outputs
 
-* '''Bus CV''' (2) - a CV derived from the midi note number from attached device.
-* '''Bus Gate''' (2)  - +5 volts when a key is pressed/held on attached midi device.
-* '''Bus CTRL''' (2) - a CV controlled by Midi CC20
-* '''+5V''' (2) - what it says!
-* '''B. Clock''' - the midi clock (if provided by attached device)
-* '''B. Start''' - +5V pulse when start button is pressed on attached Midi device.
-* '''GND''' - zero volts, can be useful to control hum in certain circumstances.
-* '''B. Stop''' - +5V pulse when stop button is pressed on attached Midi device.
+* **Bus CV** (2) - a CV derived from the midi note number from attached device.
+* **Bus Gate** (2)  - +5 volts when a key is pressed/held on attached midi device.
+* **Bus CTRL** (2) - a CV controlled by Midi CC20
+* **+5V** (2) - what it says!
+* **B. Clock** - the midi clock (if provided by attached device)
+* **B. Start** - +5V pulse when start button is pressed on attached Midi device.
+* **GND** - zero volts, can be useful to control hum in certain circumstances.
+* **B. Stop** - +5V pulse when stop button is pressed on attached Midi device.
 
 Also see items marked I/O above, as can be inputs or outputs.
 
-Although you can use the above Bus outputs to feed a signal '''into''' the relevant buss, it may not be 100% reliable, and definitely will not be if you mix it with incoming midi - but you won't break anything and it could be interesting!
+Although you can use the above Bus outputs to feed a signal **into** the relevant buss, it may not be 100% reliable, and definitely will not be if you mix it with incoming midi - but you won't break anything and it could be interesting!
 
-!!! Controls
+## Controls
 
 None.
 
-!!! Eurorack Power Supply
+## Eurorack Power Supply
 
 The Master module also can be used to supply AE modules and interface to eurorack modules when used with an AE Modular eurorack adapter frame. Eurorack adapter frames are available with 8, 12 or 16 units.
 
@@ -76,7 +76,7 @@ With the adapterframe comes an eurorack power-cable for the Master module:
 The 10-pin connector plugs to the Master module, red cable facing downwards,
 the other connector plugs into one of your Eurorack bus sockets.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 The most obvious use of the Master module is the midi (bus) CV being used to control the pitch of the [[2oscd.md|oscillators]].  The Bus CV needs to go to the CV in on your VCO, this can be done on the Oscillator module itself rather than a patch lead trailing across from the Master module.
 
@@ -86,7 +86,7 @@ The Bus clock, start and stop can be used to control the AE Modular's sequencer 
 
 The use of a Midi controller such as the Arturia Keystep, Beatstep (pro) or synth with sequencer built in is highly recommended to control the AE Modular as the Master module provides a lot of options and the system is geared to work this really well with, for instance, the bus CVs.
 
-!!! Connecting MIDI from a computer
+## Connecting MIDI from a computer
 
 You can also connect MIDI from a PC/Mac so that you can sequence the AE Modular from a DAW (Digital Audio Workstation) like Ableton or Reaper. For this to work you need to purchase a converter cable that converts USB to MIDI Din. Here is an example:
 

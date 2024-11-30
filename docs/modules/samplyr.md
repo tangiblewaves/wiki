@@ -7,37 +7,37 @@ This module plays back audio files from an SD card.
 
 Module power consumption: 25 mA
 
-!!! Inputs
-* '''CV''' - Control Voltage for the pitch
-* '''GATE''' - Gate control for the length of the sample playback when in loop mode, trigger when in one-shot mode. In loop mode the sample will only play while the gate is high.
-* '''START''' - Voltage determining at which position the sample will start playing. 0V will play at the start and ~5V will be the end of the sample. If the sample is very long (SAMPLYR can play samples which are hours long) the accuracy of this will degrade.
-* '''LP STRT''' - Voltage determining where the loop will start, independently from any per sample settings. 
-* '''LP LEN''' - Voltage determining the length of the loop, independently from any per sample settings.
-* '''REVRSE''' - Gate control for playing the sample backwards. As long as the gate is high the sample will play in reverse. There is one exception to this rule: Alternating samples do not react to this option. 
-* '''LP ON''' - Gate control for playing the looping part of the sample, independently from any per sample settings. As long as the Gate is high the loop will play.
-* '''SMP SEL''' - Voltage to select a sample from the current folder, eg. if the currently playing sample is in folder D then this voltage will select any of the 10 samples in folder D.
+## Inputs
+* **CV** - Control Voltage for the pitch
+* **GATE** - Gate control for the length of the sample playback when in loop mode, trigger when in one-shot mode. In loop mode the sample will only play while the gate is high.
+* **START** - Voltage determining at which position the sample will start playing. 0V will play at the start and ~5V will be the end of the sample. If the sample is very long (SAMPLYR can play samples which are hours long) the accuracy of this will degrade.
+* **LP STRT** - Voltage determining where the loop will start, independently from any per sample settings. 
+* **LP LEN** - Voltage determining the length of the loop, independently from any per sample settings.
+* **REVRSE** - Gate control for playing the sample backwards. As long as the gate is high the sample will play in reverse. There is one exception to this rule: Alternating samples do not react to this option. 
+* **LP ON** - Gate control for playing the looping part of the sample, independently from any per sample settings. As long as the Gate is high the loop will play.
+* **SMP SEL** - Voltage to select a sample from the current folder, eg. if the currently playing sample is in folder D then this voltage will select any of the 10 samples in folder D.
  
-!!! Outputs (on the left)
-* '''B. CV''' - MIDI pitch as transported through the bus. 
-* '''B. GATE''' - MIDI gate as transported through the bus.
+## Outputs (on the left)
+* **B. CV** - MIDI pitch as transported through the bus. 
+* **B. GATE** - MIDI gate as transported through the bus.
 
-!!! Outputs (on the right)
-* '''OUT''' - The audio of the sample playback
-* '''LP STRT''' - A trigger signal when the loop starts (Please note: this mainly is intended to detect the very first loop-start, for continuous looping it will typically trigger at the same time as LP END) 
-* '''LP END''' - A trigger signal when the loop ends (this repeats for as long as the loop repeats)
-* '''SMP END''' - A trigger when the sample playback ends
+## Outputs (on the right)
+* **OUT** - The audio of the sample playback
+* **LP STRT** - A trigger signal when the loop starts (Please note: this mainly is intended to detect the very first loop-start, for continuous looping it will typically trigger at the same time as LP END) 
+* **LP END** - A trigger signal when the loop ends (this repeats for as long as the loop repeats)
+* **SMP END** - A trigger when the sample playback ends
 
-!!! Controls
-* '''FREQ''' Knob - Changes the pitch of the sample playback in addition to the CV control. Pitching of a sample is achieved by changing the sample playback speed, so the higher the pitch, the shorter the playback and vice versa for lower pitch.
-* '''SELECT/EDIT''' Knob/Button - Multi function select knob and push button. When in playback mode, turning the knob will select the next/previous sample. Pushing the button opens a menu on the display (more info below).
-* '''0''' / '''START''' - When in playback mode this button will select any sample which was assigned to this bank of presets (Within a range of names from '0' to '5'). In edit mode this is a shortcut to change the sample playback starting position.
-* '''1''' / '''LP STRT''' - In playback as above. In edit mode shortcut to loop starting position.
-* '''2''' / '''XFADE''' - As above. In edit mode shortcut to the cross fade menu
-* '''3''' / '''END''' - As above. In edit mode shortcut to change the sample playback end position.
-* '''4''' / '''LP LEN''' - As above. In edit mode shortcut to change the loop length
-* '''5''' / '''LP MODE''' - As above. In edit mode shortcut to change the looping mode (loop or one-shot)
+## Controls
+* **FREQ** Knob - Changes the pitch of the sample playback in addition to the CV control. Pitching of a sample is achieved by changing the sample playback speed, so the higher the pitch, the shorter the playback and vice versa for lower pitch.
+* **SELECT/EDIT** Knob/Button - Multi function select knob and push button. When in playback mode, turning the knob will select the next/previous sample. Pushing the button opens a menu on the display (more info below).
+* **0** / **START** - When in playback mode this button will select any sample which was assigned to this bank of presets (Within a range of names from '0' to '5'). In edit mode this is a shortcut to change the sample playback starting position.
+* **1** / **LP STRT** - In playback as above. In edit mode shortcut to loop starting position.
+* **2** / **XFADE** - As above. In edit mode shortcut to the cross fade menu
+* **3** / **END** - As above. In edit mode shortcut to change the sample playback end position.
+* **4** / **LP LEN** - As above. In edit mode shortcut to change the loop length
+* **5** / **LP MODE** - As above. In edit mode shortcut to change the looping mode (loop or one-shot)
 
-!!! Display
+## Display
 
 The display shows the folder and file number of the currently selected sample at the top. Below it shows the waveform of the sample (amplitude over time) rotated 90 degrees (clockwise) into vertical and the following markers:
 * Sample start - this is marked as the beginning of the filled waveform
@@ -66,7 +66,7 @@ When in Edit mode, the display can also display information about the currently 
 * display off
 * save 
 
-!!! Edit Mode
+## Edit Mode
 
 To enter the edit mode, click the encoder; then, the program number is replaced with the menu options. Turning the encoder scrolls through the menu options; a further click selects the editing of the according value, like start/endpoints, loop points etc. Turning the encoder changes the value, another click on the encoder returns to menu selection. The leftmost menu option is "Save"; clicking here stores the defined settings to the SD-Card. To leave Edit Mode without saving use "exit" instead. Please note: if you switch to a different preset, your current edits will be lost unless you stored them before.
 
@@ -89,7 +89,7 @@ Waveforms are also generated automatically while scrolling through the list of s
 
 The menu item WAV INFO shows the full filename and other file related info.
 
-!!! Realtime Sample Modifications via CV
+## Realtime Sample Modifications via CV
 
 The following options to modulate the behaviour of a sample / samples are available: START (Sample Start Point), LP STRT (Loop Start Point), LP LEN (Loop Length, starting at the Loop Start Point) and SMP SEL (Sample Selection).
 
@@ -102,7 +102,7 @@ If this mode is activated, the sample will be swapped directly and played on fro
 
 Please make sure that you already have saved your sample-settings whenever you use SMP SEL, because otherwise those will be lost.
 
-!!! Global settings
+## Global settings
 
 In the menu, the following items are applied to every sample and thus stored globally:
 * Hot change mode - When ON then on a sample change the playback will start roughly where the other sample was when the change was initiated, or if this doesn't work at the loop start. This makes the module behave like a radio when scanning through the stations.
@@ -112,7 +112,7 @@ In the menu, the following items are applied to every sample and thus stored glo
 * Track calib determines the amount of CV tracking to be applied for the pitch of a sample in relation to higher notes ("keyboard tracking") Normally the default setting should be ok, though.
 * Display off provides an option to automatically switch off after a predefined amount of time. It will light up again whenever you use the encoder. This option can be helpful to save power, for instance when your system is running on a battery. In rare cases it also can happen that displays interfere with the audio, so this might help in such situations, too.
 
-!!! Loop Modes
+## Loop Modes
 * One Shot
 * One Shot Reversed
 * Forward
@@ -133,7 +133,7 @@ Tape Loop can be paused and restarted via the Loop-on input. Again the setting o
 
 Gated playback is a special One-Shot mode, where Gate on/off acts as a kind of pause/play button.  
 
-!!! Micro SD Slot
+## Micro SD Slot
 
 You can insert any Micro SD card which is formatted with FAT32. 
 
@@ -145,24 +145,24 @@ In principle the following cards could be supported:
 FAT32 only supports a maximum partition size of up to 2TB and individual file size of up to 4GB. 
 
 This gives us the following maximum length of an individual sample (WAV 8bit uncompressed, mu-law or alpha-law):
-* 4GB/32khz: '''34 Hours''' : 43 Minutes : 20 Seconds
-* 4GB/16khz: '''69 Hours''' : 26 Minutes : 40 Seconds
+* 4GB/32khz: **34 Hours** : 43 Minutes : 20 Seconds
+* 4GB/16khz: **69 Hours** : 26 Minutes : 40 Seconds
 
 HOWEVER: When loading a sample for the first time its waveform is calculating for the display and then stored along with the sample. As this is a very tiny processor it can take a long time for very long samples ... maybe even hours!
 
-'''SD Card file fragmentation''' - SAMPLYR plays samples directly from the SD card and expects all files in byte order. If you encounter issues with playback this could be the result of a fragmented file system. It would be best if you copied all files from the SD card to your computer and then format the SD card ('''not''' quick formatting) and then transfer the files back onto the card. This will ensure that the files are stored in order and can be read from the SAMPLYR software. 
+**SD Card file fragmentation** - SAMPLYR plays samples directly from the SD card and expects all files in byte order. If you encounter issues with playback this could be the result of a fragmented file system. It would be best if you copied all files from the SD card to your computer and then format the SD card (**not** quick formatting) and then transfer the files back onto the card. This will ensure that the files are stored in order and can be read from the SAMPLYR software. 
 
 Whenever you experience the error-message FILE NOT CONTG. this means that the blocks of the file are not ordered correctly, or in other words fragmented ("File is not contiguous"). Then it might be needed to go through the procedure described above...
 
 
-!!! How to organize Samples on the SD Card
+## How to organize Samples on the SD Card
 
 To keep things simple, the files on the SD card are organized in a fixed structure:
 * The card can contain in its root a number of folders, named with exactly one letter, from "A" to "Z"
 * The files are named beginning with a number from "0" to "9"; the full filename can be longer and be descriptive, but the SAMPLYR only checks for the first letter. Only 10 files per folder are allowed.
 * The extension is always ".WAV".
 
-!!! How to prepare Samples
+## How to prepare Samples
 
 The samples must be WAV files, with a resolution of 8 bits and mono. The encoding can be either PCM (simple, straight 8bit audio), or being encoded as uLaw or aLaw. These are encodings that allow a little higher bit depth, in case of the SAMPLYR this is 10 bits effectively.
 
@@ -184,7 +184,7 @@ Samplerates of 16000, 22050 or 32000 are recommended (and are usually stored for
 Especially when using samples with low volumes / higher dynamic-ranges the usage of U-Law (or A-Law) is recommended, U-Law typically also was used with vintage samplers from the early 80s. U-Law has a higher dynamic range (14 bit), but more distortion with low volumes than A-Law (12 bit). Because of the 10bit DAC of SAMPLYR, thus you may find A-Law preferrable. Experimentation may be needed to find the best possible results! Also compression/limiting of the material prior to exporting for a specific format can increase the quality.
 Of course, you can apply all the processing methods Audacity offers (which is quite a lot!); check the documentation for this. In any case, it's recommended to do all processing on a file with the highest resolution and sample rate, and reduce it to the 8-bit WAV only as the last step.
 
-!!! Patch Suggestions
+## Patch Suggestions
 
 This video shows some demo sounds and rough overview of the module's features: 
 
