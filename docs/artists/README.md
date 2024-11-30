@@ -42,6 +42,8 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[foxermod.md|foxermod]] - Synths and Trombone
 
+[[gavinforbes.md | Gavin Forbes]] - Playing with the AE and a Bass
+
 [[gerif.md|Geri F]] - Making music with DIY modules
 
 [[glitchyfrog.md|Glitchyfrog]] - Hi, I'm Glitchyfrog!
