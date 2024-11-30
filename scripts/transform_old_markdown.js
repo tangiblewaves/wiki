@@ -1,5 +1,5 @@
 const {promises: fs} =  require('fs')
-const {plugin} = require('../docs/js/pmmarkup.js')
+const {plugin} = require('../docs/plugins/pmmarkup.js')
 const path = require('path')
 
 function execute_pmm_conversions(content){
