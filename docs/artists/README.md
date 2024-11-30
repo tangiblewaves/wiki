@@ -18,6 +18,8 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[cidsmpldr.md|cid sampldr]] - Experimental music artist from Buenos Aires
 
+[[chriskeogh.md|Chris Keogh]] - Sound Artist from Liverpool
+
 [[cross4eyes.md|Cross4Eyes]] - Aspiring emotion alchemist
 
 [[dalarne.md|Dalarne]] - Cinematic and eclectic music
@@ -34,9 +36,13 @@ Some of those artists are listed below, please visit their pages and enjoy their
 
 [[earcandles.md|Earcandles]] - The Synth Doctor
 
+[[fauxcyrillic.md|faux cyrillic]] - Bedroom guitarist, bedroom synthesist, bedroom synth-builder
+
 [[foggel.md|Foggel]] - Finding freedom in limitations
 
 [[foxermod.md|foxermod]] - Synths and Trombone
+
+[[gerif.md|Geri F]] - Making music with DIY modules
 
 [[glitchyfrog.md|Glitchyfrog]] - Hi, I'm Glitchyfrog!
 
@@ -81,6 +87,10 @@ Some of those artists are listed below, please visit their pages and enjoy their
 [[rskt.md|RSKT]] - Artist and educator with too many talents
 
 [[runninginlonggrass.md|running in long grass]] - It's all about the chill and the texture
+
+[[saltatempo.md | Saltatempo]] - Clear skies with your sounds!
+
+[[seanluke.md | Sean Luke]] - Builds synths in software
 
 [[slowscape.md|Slowscape ]] - Visual artist, programmer, musician
 
