@@ -68,7 +68,7 @@ The standards case allows for a depth of 25mm, plus a 1.5 mm faceplate.
 A module is composed of
 * The front panel (thickness : 1.5mm)
 * Hex spacers M3 8mm high (female-male) between the front panel and PCB
-* PCB (thickness: 2mm)
+* PCB (thickness: 1.6mm)
 * Hex spacers M3 15mm high (female-female)
 
 [[img|diy/images/moduledimensions1.png|600]]
