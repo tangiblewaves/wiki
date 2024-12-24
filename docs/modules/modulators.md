@@ -1,5 +1,5 @@
 # MODULATORS
-[[img|modules/images/modulators.png|100]]
+[[img|modules/images/MODULATORS.png|100]]
 
 [[ https://www.tangiblewaves.com/store/p152/MODULATORS.html | View Product Page]]
 

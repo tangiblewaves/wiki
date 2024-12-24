@@ -1,5 +1,5 @@
 # JOYSTICK
-[[img|modules/images/joystick.png|100]]
+[[img|modules/images/JOYSTICK.png|100]]
 
 [[https://www.tangiblewaves.com/store/p130/joystick.html | View Product Page]]
 

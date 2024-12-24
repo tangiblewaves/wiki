@@ -1,5 +1,5 @@
 # TRIP
-[[img|modules/images/trip.png|100]]
+[[img|modules/images/TRIP.png|100]]
 
 [[https://www.tangiblewaves.com/store/p121/TRIP.html | View Product Page]]
 

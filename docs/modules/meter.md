@@ -1,5 +1,5 @@
 # METER
-[[img|modules/images/meter.png|200]]
+[[img|modules/images/METER.png|200]]
 
 [[ https://www.tangiblewaves.com/store/p106/meter.html | View Product Page]]
 

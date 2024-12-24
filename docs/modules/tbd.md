@@ -1,5 +1,5 @@
 # TBD
-[[img|modules/images/tbd.png|200]]
+[[img|modules/images/TBD.png|200]]
 
 [[ https://www.tangiblewaves.com/store/p149/TBD.html | View Product Page]]
 

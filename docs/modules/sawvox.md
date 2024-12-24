@@ -9,6 +9,8 @@ The module is based on a simple 8-bit microcontroller and an adapted design of J
 
 Module power consumption: 30 mA
 
+**Note:** This module has been discontinued. A new and improved version is currently in development.
+
 ## Inputs
 * **CV1** - CV frequency control
 * **CV2** - additional frequency control which is added to CV1

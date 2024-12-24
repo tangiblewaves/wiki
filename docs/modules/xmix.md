@@ -1,5 +1,5 @@
 # XMIX
-[[img|modules/images/xmix.png|100]]
+[[img|modules/images/XMIX.png|100]]
 
 [[ https://www.tangiblewaves.com/store/p153/XMIX.html | View Product Page]]
 

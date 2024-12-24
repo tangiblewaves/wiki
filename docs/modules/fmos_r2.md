@@ -1,9 +1,11 @@
-# FMOS
-[[img|modules/images/FMOS.png|100]]
+# FMOS R2
+[[img|modules/images/fmosr2.png|100]]
 
-[[https://www.tangiblewaves.com/store/p97/FMOS.html | View Product Page]]
+[[[https://www.tangiblewaves.com/store/p97/FMOS.html](https://www.tangiblewaves.com/store/p225/FMOS_R2.html)| View Product Page]]
 
-The FMOS brings FM synthesis to the AE modular. It offers the basic FM synthesis with one oscillator and one modulator, which can be either sine wave or triangle wave independently. The modulation depth and frequency ratio of the modulator can be set with a knob and additionally by CV control. It can also produce a sine wave if needed.
+The FMOS R2 brings FM synthesis to the AE modular. It offers the basic FM synthesis with one oscillator and one modulator, which can be either sine wave or triangle wave independently. The modulation depth and frequency ratio of the modulator can be set with a knob and additionally by CV control. It can also produce a sine wave if needed.
+
+**Note:** This is the new and improved version of the [[fmos.md|FMOS]] module, which has been discontinued for a while.
 
 Module power consumption: 30 mA
 

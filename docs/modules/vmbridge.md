@@ -1,5 +1,5 @@
 # VMBRIDGE
-[[img|modules/images/vmbridge.png|100]]
+[[img|modules/images/VMBRIDGE.png|100]]
 
 [[ https://www.tangiblewaves.com/store/p134/VMBRIDGE.html | View Product Page]]
 

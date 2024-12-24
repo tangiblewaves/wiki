@@ -1,5 +1,5 @@
 # SAMPLYR
-[[img|modules/images/samplyr.png|100]]
+[[img|modules/images/SAMPLYR.png|100]]
 
 [[https://www.tangiblewaves.com/store/p192/SAMPLYR.html | View Product Page]]
 

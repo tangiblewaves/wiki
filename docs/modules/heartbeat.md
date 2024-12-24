@@ -1,5 +1,5 @@
 # HEARTBEAT
-[[img|modules/images/heartbeat.png|100]]
+[[img|modules/images/HEARTBEAT.png|100]]
 
 [[https://www.tangiblewaves.com/store/p157/HEARTBEAT.html | View Product Page]]
 

@@ -1,5 +1,5 @@
 # SEQ8
-[[img|modules/images/seq8.png|200]]
+[[img|modules/images/SEQ8.png|200]]
 
 [[https://www.tangiblewaves.com/store/p100/SEQ8.html | View Product Page]]
 

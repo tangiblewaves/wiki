@@ -9,6 +9,8 @@ This module needs to be installed on the [[u-base.md | µBASE]] module!
 
 Module power consumption: ? mA
 
+**Note:** This module has been discontinued, but a newer version is currently in development.
+
 ## Inputs
 
 * **IN A1, A2, A3** - These are inputs to the attenuated (via the pots) channel of the Mixer

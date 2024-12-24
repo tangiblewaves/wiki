@@ -1,7 +1,8 @@
 # MASTER
 [[img|modules/images/master.png|200]]
 
-[[https://www.tangiblewaves.com/store/p4/MASTER.html | View Product Page]]
+[[https://www.tangiblewaves.com/store/p4/MASTER.html | View Product Page (old module)]]
+[[https://www.tangiblewaves.com/store/p207/MASTER_R5.html | Product Page (new R5 version)]]
 
 This Master module description is for the one supplied until December 2019, the replacement is the same, except for having an extra switch to change the midi channel from 1 or Omni to  some of the others available. 
 
@@ -18,6 +19,10 @@ The Master module also supplies the various bus CVs available on many modules, a
 The descriptions here are for the current Master module, the original Kickstarter systems had a more primitive Master module which ideally needs to be replaced by this one.
 
 Module power consumption: 30 mA
+
+**Note:** There is a **new version R5** of this module which has been changed physically so that it fits into the Quick Swap (QS) case and also has the following new features:
+* The bus signals CV, gate, ctrl CV, MIDI start/stop/clock can be connected with / removed from the bus individually with the microswitches
+* The TRS MIDI input now accepts both types of TRS-MIDI adapters
 
 ## Inputs
 

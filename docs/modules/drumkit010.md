@@ -1,10 +1,12 @@
-# DRUMKIT 010
+# DRUMKIT 010 (R2)
 
 [[img|modules/images/drumkit010.png|100]]
 
-[[ https://www.tangiblewaves.com/store/p75/DRUMKIT_010.html | View Product Page]]
+[[ https://www.tangiblewaves.com/store/p208/DRUMKIT_010_R2.html | View Product Page]]
 
 The DRUMKIT 010 consists of 11 8-bit drum sound samples; 6 of them can be triggered in parallel in any combination by the trigger inputs.Don't expect high quality from this module - it's by design a nasty, lo-fi drum sound source, but definitely with its own character. Works great together with the [[ kick.md | analog KICK module ]].
+
+**Note:** The new R2 version has all the same functionality as the original module, however the sound quality has much improved and the noise floor has been radically decreased.
 
 Module power consumption: 3 mA
 
