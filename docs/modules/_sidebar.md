@@ -120,7 +120,7 @@
 * [µSIGAMP](modules/u-sigamp.md)
 * [µSUBOCTAVE](modules/u-suboctave.md)
 * [µTONE](modules/u-tone.md)
-* [µWNDCMP](modules/u-wndcmp.md)
+* [µWNDCOMP](modules/u-wndcomp.md)
 * [µXMIX](modules/u-xmix.md)
 * [USBPOWER](modules/usbpower.md)
 * [VCO](modules/vco.md)

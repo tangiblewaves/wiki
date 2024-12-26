@@ -36,7 +36,7 @@ These modules are useful for many different reasons but they don't fit into any 
 * [µBASE QS2](modules/u-base_qs2.md)
 * [µOR2x4](modules/u-or2x4.md)
 * [µSIGAMP](modules/u-sigamp.md)
-* [µWNDCMP](modules/u-wndcmp.md)
+* [µWNDCOMP](modules/u-wndcomp.md)
 * [µXMIX](modules/u-xmix.md)
 * [USBPOWER](modules/usbpower.md)
 * [VMBRIDGE](modules/vmbridge.md)
