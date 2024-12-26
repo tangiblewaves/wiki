@@ -7,6 +7,7 @@
 This module is a routing processort for audio or CV signals. In PAN mode it moves one input signal smoothly between the left and right output channels. In XFADE mode it takes two input signals and blends them into a single output. The panning and fading can be controlled manually via the knobs or via CV.
 
 Module power consumption: ? mA
+
 Module width: 1 unit
 
 ## Inputs

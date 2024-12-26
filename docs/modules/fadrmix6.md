@@ -10,6 +10,7 @@ Each channel has actually 2 inputs which are summed together at equal level, so 
 This module can be extended with quarter inch output jacks and 3.5mm FX send/return jacks via the [FADRMIX JACKOUT](modules/fadrmix_jackout.md) module.
 
 Module power consumption: ? mA
+
 Module width: 5 units
 
 ## Inputs

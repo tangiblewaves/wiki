@@ -30,7 +30,7 @@
 * [BF Synth Kurt's Sloth](modules/bfsynth_kurts-sloth.md)
 * [BF Synth The Great Divide](modules/bfsynth_thegreatdivide.md)
 * [BRAEDBOARD](modules/braedboard.md)
-* [CIRRUS](modules/cirrus.md)
+* [CIRRUS (disc.)](modules/cirrus.md)
 * [CIRRUS CLASSIC](modules/cirrus-classic.md)
 * [COMPACT MIXER](modules/compact-mixer.md)
 * [CVADD-HQ](modules/cvadd-hq.md)

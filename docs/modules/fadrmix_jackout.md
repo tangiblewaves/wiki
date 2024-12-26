@@ -8,6 +8,8 @@ This module is an extension module and connects via a short ribbon cable to the 
 
 Module power consumption: ? mA
 
+Module width: 1 unit
+
 ## Inputs
 * **FX1 RET** - Return from an external effects processor
 * **FX2 RET** - Return from an external effects processor

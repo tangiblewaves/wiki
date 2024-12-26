@@ -7,6 +7,7 @@
 The SELECTOR module is an electronic switch for any kind of signals to select one of up to eight sources or sending a signal to a specific destination (it's biderectional). It is also known as “Sequential switch” in former modular synths. The SELECTOR has 8 inputs for any kind of signals, no matter if audio CV or gate, and one of them can be routed to an output in different ways: Either by a knob, or by a CV, or by clock pulses to advance by 1 plus a reset trigger input. By a switch it can be set to operate as a dual unit with 4 inputs each.
 
 Module power consumption: ? mA
+
 Module width: 1 unit
 
 ## Inputs
