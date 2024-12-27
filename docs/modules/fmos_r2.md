@@ -1,5 +1,5 @@
 # FMOS R2
-[[img|modules/images/fmosr2.png|100]]
+[[img|modules/images/FMOS_R2.png|100]]
 
 [[[https://www.tangiblewaves.com/store/p97/FMOS.html](https://www.tangiblewaves.com/store/p225/FMOS_R2.html)| View Product Page]]
 
