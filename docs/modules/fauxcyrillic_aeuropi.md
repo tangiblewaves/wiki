@@ -1,5 +1,5 @@
 # AEuroPi
-[[img|modules/images/AEuroPi_current_panel_W.png|200]]
+[[img|modules/images/AEuroPi_W_bordered.png|200]]
 
 [[https://www.tindie.com/products/fauxcyrillic/aeuropi/ | View Product Page]]
 
