@@ -55,9 +55,20 @@ The panning is achieved very simply by passing each input through a resistor bef
 
 If building from scratch, the degree of panning can be adjusted to taste by changing the resistor pairs. On the PCB these are indicated on the silkscreen eg. **HL+** and **HL-** (HL being short for "hard left"). The + or - symbol indicates whether the resistor in that position is the larger (+) or smaller (-) of the two. Remember that larger resistor = quieter signal. So HL- is the smaller resistor of the pair, if you increase the value of this resistor then the amount of audio from this input which makes it into the L mix will decrease, making the panning feel less extreme.
 
-The default values (indicated on the schematic) are taken directly from the 'Nearness' module.
+The default values (indicated on the schematic) are taken directly from the 'Nearness' module:
+<ul>
+<li>HL+ / HR+ = 1.69M ohm</li>
+<li>LL+ / RR+ = 442k</li>
+<li>L+ / R+ = 215k</li>
+<li>HP / C = 140k</li>
+<li>HL- / HR- = 100k</li>
+<li>LL- / RR- = 102k</li>
+<li>L- / R- = 113k</li>
+</ul>
 
-[[img|modules/images/top_assembly_drawings.png|200]]
+The high-pass filter is build from a 180k resistor which is surface mounted, so harder to change. The capacitor can be easily changed to achieve a different cutoff value, though. The default value is 5.6nF, taken from the 'Mixor Image' module.</br>
+
+</br>[[img|modules/images/top_assembly_drawings.png|200]]
 
 ## Sound demo
 
