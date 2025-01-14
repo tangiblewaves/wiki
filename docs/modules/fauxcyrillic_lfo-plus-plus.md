@@ -8,6 +8,8 @@
 
 A two channel LFO generator with advanced features, including eight waveforms, depth and offset controls, and CV rate control.
 
+Module power consumption: 12mA
+
 ## Inputs
 
 * **1** - CV control of LFO 1 rate (when rate switch is set to CV)

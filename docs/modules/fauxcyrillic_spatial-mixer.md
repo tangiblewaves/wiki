@@ -8,7 +8,7 @@ Resistance Is Futile offers a simple way to add space to a mix. Connected audio 
 
 This module is based on elements from two open-source Eurorack modules: [[https://llllllll.co/t/prototyping-nearness-a-minimal-panning-mixer-module/8330 | Nearness]], and [[https://github.com/modular-maculata/mixor-image | Mixor Image]].
 
-Module power consumption: 3mA.
+Module power consumption: 3mA
 
 ## Inputs
 
