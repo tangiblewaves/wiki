@@ -48,6 +48,7 @@
 * [faux cyrillic Coils](modules/fauxcyrillic_coils.md)
 * [faux cyrillic LFO++](modules/fauxcyrillic_lfo-plus-plus.md)
 * [faux cyrillic Pikocore](modules/fauxcyrillic_pikocore.md)
+* [faux cyrillic Resistance Is Futile](modules/fauxcyrillic_spatial-mixer.md)
 * [FILTERBANK914](modules/filterbank.md)
 * [FMOS (disc.)](modules/fmos.md)
 * [FMOS R2](modules/fmos_r2.md)

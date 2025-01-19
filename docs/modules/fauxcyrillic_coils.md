@@ -10,6 +10,8 @@ Coils is a port of the famous Eurorack module *Plaits* from Mutable Instruments.
 
 Coils/Plaits is a multi-functional digital oscillator featuring 24 different synthesis modes: wavetables, speech synthesis, chord engines, physical modelling, drum synthesis, DX7 patch support, and many more.
 
+Module power consumption: 90mA
+
 ## Inputs
 * **MDL** - incoming CV will switch between synthesis models
 * **V/OCT** - pitch CV input
