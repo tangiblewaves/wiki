@@ -56,11 +56,11 @@ IMDI allows two different data rates; standard (31250, identical with MIDI data 
 
 Incoming MIDI notes set the modules pitch. THe MIDI channel of the message is ignored; when use with IMDI HEART as source for IMDI messages, the notes are defined by the output settings of thr IMDI HEART module.
 MIDI notes are added to the pitch set by teh FREQ knob and CV (although, a mix of CV and IMDI pitch control is not recommended).
-Pitchbend messages are accepted, by default in a range of +/- 1 octave.
+Pitchbend messages are accepted, by default in a range of +/- 1 octave. The pitchbend range can be changed by a MIDI RPN message; see controller chart below.
 
 **Program change**
 
-MIDI program change messages change the selected waveform; valid progtram numbers are 0...7
+MIDI program change messages change the selected waveform; valid program numbers are 0...7
 
 **Sound control**
 
@@ -70,10 +70,10 @@ The following MIDI controllers are used for controlling the modules operation:
 |--------------|-----------|
 |70 (Sound Controller 1) |Multiplier|
 |74 (Sound Controller 5) |Modulation depth|
-|80 |SUB output mode: value 0=suboscillator; value 64 or higher: SUB operates as gate output|
-|RPN 0000|Set pirchbend range|
+|80 |SUB output mode: value 0 =s uboscillator; value 64 or higher: SUB operates as gate output|
+|RPN 0000|Set pitchbend range|
 
-By this, you have full control over the module behaviour e,g, when controlling from a DAW or a MIDI hardwdare controller
+By this, you have full control over the module behaviour e,g, when controlling from a DAW or a MIDI hardwdare controller.
 
 
 ## Patch Suggestions
