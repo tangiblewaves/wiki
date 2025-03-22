@@ -55,7 +55,7 @@ IMDI allows two different data rates; standard (31250, identical with MIDI data 
 **Note / pitch control**
 
 Incoming MIDI notes set the modules pitch. THe MIDI channel of the message is ignored; when use with IMDI HEART as source for IMDI messages, the notes are defined by the output settings of thr IMDI HEART module.
-MIDI notes are added to the pitch set by teh FREQ knob and CV (although, a mix of CV and IMDI pitch control is not recommended).
+MIDI notes are added to the pitch set by the FREQ knob and CV (although, a mix of CV and IMDI pitch control is not recommended).
 Pitchbend messages are accepted, by default in a range of +/- 1 octave. The pitchbend range can be changed by a MIDI RPN message; see controller chart below.
 
 **Program change**
