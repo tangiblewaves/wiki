@@ -13,7 +13,7 @@ It offers knobs and CV control for pitch and shape (variations of the base wavef
 
 This module needs to be installed on the [[u-base.md | µBASE]] module or other micro-module carriers, like uBASE QS2 or uCASE!
 
-Module power consumption: ? mA
+Module power consumption: 7...12 mA
 
 ## Inputs
 
