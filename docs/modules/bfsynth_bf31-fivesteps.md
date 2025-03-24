@@ -28,10 +28,6 @@ This is [[https://www.tindie.com/products/bfsynths/bf-31-endless-arpeggios-5step
 
 ## Controls
 
-The knobs are not numbered but relate to the steps of the arpeggio generated from 1 to 5 inclusive. From Kurt's page...
-
-''To start, I would like to point out that this version contains a mistake in the PCB wiring. But as I have 20 of these around, I pretty much have to sell them, because it was quite an investment.. The mistake is as follows: potentiometer/knobs 2-5 are in reverse order. So the knobs from top to bottom are: 1 - 5 - 4 - 3 - 2. Other than that, the module works perfectly!"
-
 **Each Knob sets the voltage added to the previous voltage for each step. So changing knob 1, (the top one), will change all your output notes, effectively tuning your whole arpeggio. Changing knob five will only change the last (or rather, highest) note.**
 
 The module basically consists of 4 comparators with fixed thresholds at 0.833V, 1.66V, 2.5V and 3.33V. When you input a CV below 0.833V, the output will be the voltage dialed in with the first knob. When you input a CV between 0.833 & 1.66V, the output CV will be the sum of the voltage of knob 1 & 2. When you input a CV between 1.66V and 2.5V, the output will be the sum of knob 1, 2 & 3. And so on. This way you can create a stepped CV out of a continuously changing voltage (LFO, envelope,..). Or you can use it with the  Wonkystuff RBSS as input to fix the changing values to five values of your choice.
