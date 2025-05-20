@@ -71,3 +71,4 @@ The following MIDI controllers are used for controlling the modules operation:
 By this, you have full control over the module behaviour e,g, when controlling from a DAW or a MIDI hardware controller
 
 ## Patch Suggestions
+
